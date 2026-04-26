@@ -21,7 +21,7 @@ jobs:
         ORIGIN_HOST=${{ secrets.DATABRICKS_ORIGIN_HOST }}
         ORIGIN_TOKEN=${{ secrets.DATABRICKS_ORIGIN_TOKEN }}
         NOTEBOOK_BASE="/Workspace/Users/esymi2021ed@gmail.com/ProyectoSmartdata2404/proceso"
-        NOTEBOOKS=("0_preparacion_ambiente" "1_ingest_atenciones" "1_ingest_citas","1_ingest_especialidades","1_ingest_medicos","1_ingest_pacientes","1_ingest_pagos","2_transform","3_load")  # Agrega más según necesitesas
+        NOTEBOOKS=("0_preparacion_ambiente" "1_ingest_atenciones" "1_ingest_citas" "1_ingest_especialidades2" "1_ingest_medicos" "1_ingest_pacientes" "1_ingest_pagos" "2_transform" "3_load")  # Agrega más según necesitesas
 
         mkdir -p notebooks_to_deploy
 
