@@ -1,0 +1,16 @@
+﻿id_especialidad,nombre_especialidad,area,costo_consulta_soles,duracion_min
+1,Medicina General,Consulta Externa,110,20
+2,Pediatría,Consulta Externa,71,45
+3,Cardiología,Consulta Externa,87,20
+4,Ginecología,Consulta Externa,84,20
+5,Traumatología,Consulta Externa,117,20
+6,Dermatología,Consulta Externa,113,45
+7,Neurología,Consulta Externa,104,20
+8,Gastroenterología,Consulta Externa,107,30
+9,Oftalmología,Consulta Externa,72,20
+10,Psiquiatría,Salud Mental,115,20
+11,Endocrinología,Consulta Externa,84,45
+12,Urología,Consulta Externa,108,20
+13,Emergencia,Urgencias,225,20
+14,Nutrición,Consulta Externa,115,45
+15,Reumatología,Consulta Externa,114,45

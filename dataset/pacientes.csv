@@ -1,0 +1,2501 @@
+﻿id_paciente,nombre_completo,sexo,edad,fecha_nacimiento,distrito,tipo_seguro
+1,Patricia Mamani Ortiz,F,71,1952-04-06,Villa María del Triunfo,EsSalud
+2,Miguel López Puma,M,20,2003-07-01,Carabayllo,SIS
+3,Ricardo Rodríguez Pérez,M,40,1983-12-22,Breña,Mapfre
+4,Sofía Castillo Flores,F,14,2009-03-24,Breña,Mapfre
+5,Gloria Mamani Rodríguez,F,31,1992-10-10,Jesús María,Mapfre
+6,María Sánchez Mamani,F,43,1980-02-04,Comas,Mapfre
+7,Fernando Sánchez Condori,M,14,2009-12-16,Rímac,Mapfre
+8,Gabriela Torres Ccopa,F,59,1964-09-21,Breña,Particular
+9,Carlos Castillo Torres,M,52,1971-12-10,San Miguel,Particular
+10,Fernanda Vargas Chávez,F,52,1971-04-15,Villa El Salvador,Mapfre
+11,María Martínez Puma,F,34,1989-08-27,Jesús María,Rimac Seguros
+12,Miguel Medina Morales,M,45,1978-03-08,San Miguel,EsSalud
+13,Sergio Puma Herrera,M,25,1998-01-10,Pueblo Libre,SIS
+14,María Chávez Cusi,F,69,1954-02-09,Villa El Salvador,Pacífico Seguros
+15,Alejandro Morales López,M,43,1980-02-07,Santa Anita,Particular
+16,Eduardo Chávez Gómez,M,53,1970-01-23,San Miguel,EsSalud
+17,Alejandra Rodríguez Torres,F,54,1969-02-02,Villa El Salvador,EsSalud
+18,Héctor Herrera Gómez,M,52,1972-01-14,Carabayllo,Mapfre
+19,Claudia Torres Morales,F,75,1948-08-08,Santa Anita,Pacífico Seguros
+20,Verónica Ortiz Castillo,F,28,1995-10-14,Independencia,EsSalud
+21,Eduardo Chávez Castillo,M,82,1941-12-05,Santa Anita,Particular
+22,Eduardo Flores Condori,M,26,1997-12-15,San Borja,SIS
+23,Raúl Medina Lazo,M,10,2013-02-15,Los Olivos,EsSalud
+24,Sergio Gutiérrez Cruz,M,32,1991-01-22,San Borja,Pacífico Seguros
+25,Miguel Huanca Morales,M,29,1994-01-17,Jesús María,Mapfre
+26,Ana Ramos Flores,F,16,2007-05-13,Los Olivos,SOAT
+27,Verónica Medina Ccopa,F,65,1958-04-12,Comas,Mapfre
+28,Patricia Mamani Lazo,F,61,1962-09-12,Los Olivos,Particular
+29,Jessica Gutiérrez Vargas,F,31,1992-11-30,Pueblo Libre,EsSalud
+30,Gabriela Rivera Díaz,F,41,1982-11-02,Carabayllo,SIS
+31,Andrés Cruz Quispe,M,20,2003-12-05,Villa María del Triunfo,SOAT
+32,Sandra Díaz Ramos,F,60,1963-10-03,Comas,SIS
+33,Paola Puma Huanca,F,75,1948-03-31,Villa María del Triunfo,SIS
+34,Mónica García Reyes,F,39,1984-06-10,Rímac,Mapfre
+35,Raúl Flores Rivera,M,56,1967-06-30,San Martín de Porres,SIS
+36,Paola Mamani Sánchez,F,60,1963-04-18,San Borja,Rimac Seguros
+37,Sergio Herrera Herrera,M,85,1938-02-27,Miraflores,SIS
+38,Rosa Lazo Ortiz,F,24,1999-06-27,San Isidro,Particular
+39,Sofía Ortiz Díaz,F,44,1979-06-11,Rímac,Particular
+40,Lucía Gutiérrez García,F,70,1953-09-26,San Isidro,Particular
+41,Juan Huanca García,M,32,1991-12-30,Lince,Mapfre
+42,Andrés Rodríguez Gutiérrez,M,15,2008-05-11,Ate,SOAT
+43,Fernanda Sánchez Medina,F,78,1945-10-29,Villa María del Triunfo,SIS
+44,Carmen Herrera García,F,40,1983-07-03,Ate,Pacífico Seguros
+45,Sofía López Herrera,F,81,1942-01-30,Barranco,SIS
+46,Gloria Condori Martínez,F,73,1950-04-22,San Isidro,Particular
+47,Fernanda López Chávez,F,83,1940-06-20,San Miguel,SIS
+48,Carmen Morales Reyes,F,82,1941-11-04,Los Olivos,Pacífico Seguros
+49,Patricia Mamani Chávez,F,84,1939-04-22,Pueblo Libre,Rimac Seguros
+50,Verónica Morales Ccopa,F,76,1947-09-17,Pueblo Libre,Particular
+51,Fernando Puma Ortiz,M,32,1991-03-03,Los Olivos,Rimac Seguros
+52,Daniela García Gutiérrez,F,42,1981-09-25,Jesús María,EsSalud
+53,Valeria Díaz Rivera,F,77,1946-04-11,Villa María del Triunfo,Particular
+54,Víctor Torres López,M,31,1992-03-30,Comas,EsSalud
+55,Raúl Vargas Quispe,M,63,1961-01-08,Los Olivos,Mapfre
+56,Eduardo Flores Cruz,M,32,1991-03-18,Magdalena,Pacífico Seguros
+57,Mónica Ramos Chávez,F,45,1978-04-06,Comas,Pacífico Seguros
+58,Fernanda Quispe Ortiz,F,35,1988-09-13,Magdalena,Particular
+59,Diego Díaz Martínez,M,69,1954-10-12,Villa María del Triunfo,SOAT
+60,Raúl Rivera Mamani,M,76,1947-08-29,Independencia,Rimac Seguros
+61,Diego Gómez Flores,M,47,1977-01-05,Jesús María,Particular
+62,Fernando Pérez Pérez,M,71,1952-11-15,Magdalena,Pacífico Seguros
+63,Carmen Lazo García,F,74,1949-05-19,Magdalena,EsSalud
+64,Daniela Sánchez Pérez,F,33,1990-12-07,San Martín de Porres,SIS
+65,Mónica López Herrera,F,81,1942-11-05,Villa El Salvador,SIS
+66,Daniel Gómez López,M,32,1991-06-10,La Molina,Rimac Seguros
+67,Víctor Cruz Ortiz,M,57,1966-03-20,Magdalena,Mapfre
+68,Claudia Herrera Medina,F,8,2015-11-14,Santa Anita,Pacífico Seguros
+69,Diego Rivera Castillo,M,11,2012-10-07,Jesús María,SOAT
+70,José García Morales,M,58,1965-05-20,Villa María del Triunfo,Rimac Seguros
+71,Ana Flores Gómez,F,37,1986-05-23,Villa María del Triunfo,Mapfre
+72,Andrés Cusi Rivera,M,81,1942-10-12,Ate,Pacífico Seguros
+73,Carmen Ramos Flores,F,83,1940-11-10,San Borja,Particular
+74,Juan Sánchez Condori,M,40,1983-03-26,Santa Anita,Pacífico Seguros
+75,Verónica Martínez Ortiz,F,39,1984-08-24,Villa María del Triunfo,EsSalud
+76,Verónica López Medina,F,6,2017-07-21,Comas,Pacífico Seguros
+77,María López Flores,F,74,1949-02-09,Ate,SIS
+78,Natalia Pérez Huanca,F,23,2000-02-08,San Martín de Porres,Rimac Seguros
+79,Valeria Sánchez Herrera,F,56,1967-05-09,El Agustino,Mapfre
+80,Raúl Reyes Morales,M,43,1980-11-19,San Miguel,Pacífico Seguros
+81,Roberto Morales Quispe,M,64,1959-06-26,Magdalena,Pacífico Seguros
+82,Gonzalo López Díaz,M,33,1990-06-17,San Miguel,SIS
+83,Manuel Ortiz Morales,M,7,2016-07-01,Lince,Rimac Seguros
+84,Verónica Huanca Pérez,F,27,1996-11-01,Pueblo Libre,Rimac Seguros
+85,Verónica Puma Quispe,F,63,1960-02-29,La Molina,SIS
+86,José Gómez Ramos,M,2,2021-11-15,Carabayllo,EsSalud
+87,Miguel Ortiz Martínez,M,83,1940-08-25,San Borja,EsSalud
+88,Sandra Ccopa Gutiérrez,F,61,1962-04-09,Barranco,EsSalud
+89,Sergio Torres Cusi,M,77,1946-11-12,Independencia,Pacífico Seguros
+90,Fernando Huanca Condori,M,54,1969-04-30,San Miguel,Mapfre
+91,María Gómez Mamani,F,39,1984-02-08,Ate,Rimac Seguros
+92,Rosa Ortiz Ramos,F,62,1961-04-09,Breña,Particular
+93,Verónica Cusi Díaz,F,25,1998-03-21,Villa María del Triunfo,SOAT
+94,Gabriela Lazo Huanca,F,53,1970-05-17,San Isidro,Particular
+95,Paola Castillo Condori,F,84,1940-01-04,San Borja,EsSalud
+96,Víctor Herrera Díaz,M,13,2010-04-10,Los Olivos,SIS
+97,María Mamani Rodríguez,F,53,1970-12-07,El Agustino,SOAT
+98,Valeria Díaz Medina,F,51,1972-07-29,El Agustino,SIS
+99,Daniela Vargas Quispe,F,63,1960-03-06,Carabayllo,SIS
+100,Andrés Vargas Castillo,M,37,1986-11-25,Barranco,Pacífico Seguros
+101,Carmen Huanca Vargas,F,13,2010-01-14,Los Olivos,SOAT
+102,María Pérez Díaz,F,8,2015-06-26,Magdalena,Particular
+103,Rosa Flores Chávez,F,53,1970-10-14,Ate,Pacífico Seguros
+104,José López Medina,M,49,1974-09-12,Santa Anita,Pacífico Seguros
+105,Natalia Rodríguez Flores,F,60,1963-05-26,El Agustino,Particular
+106,María Puma Condori,F,60,1963-04-12,Magdalena,Pacífico Seguros
+107,Luis Ortiz Reyes,M,76,1947-06-17,Magdalena,Pacífico Seguros
+108,Verónica Lazo Gómez,F,26,1997-05-05,Rímac,Mapfre
+109,Andrés Cruz Herrera,M,46,1977-01-19,Ate,Particular
+110,María Ccopa Castillo,F,51,1972-03-30,Pueblo Libre,SIS
+111,Héctor Mamani Gutiérrez,M,37,1986-07-14,Barranco,Rimac Seguros
+112,Diego Medina Rivera,M,85,1938-11-13,Villa El Salvador,Mapfre
+113,Juan Gómez Condori,M,57,1966-07-13,San Isidro,Rimac Seguros
+114,Luis Cusi Gómez,M,42,1981-10-01,Comas,SOAT
+115,Manuel Puma Reyes,M,68,1955-10-26,Independencia,Particular
+116,Mónica Condori Gómez,F,44,1979-12-05,La Molina,EsSalud
+117,Andrés Lazo Castillo,M,51,1972-11-28,Carabayllo,Particular
+118,María Rivera Ramos,F,16,2007-01-26,Los Olivos,Particular
+119,Natalia Cruz Ccopa,F,82,1941-02-10,Breña,SIS
+120,Raúl García Medina,M,72,1951-09-28,San Miguel,Rimac Seguros
+121,Gonzalo Cusi Quispe,M,39,1984-11-12,El Agustino,EsSalud
+122,Juan Pérez Gómez,M,64,1959-09-19,La Molina,SIS
+123,Sergio Ortiz Reyes,M,70,1953-10-31,Comas,Rimac Seguros
+124,Carmen Ccopa Gutiérrez,F,79,1945-01-04,Comas,Particular
+125,Sofía Ortiz Ortiz,F,31,1992-01-23,Breña,SIS
+126,Alejandra Puma Vargas,F,46,1977-08-24,San Isidro,EsSalud
+127,Miguel Lazo Ccopa,M,59,1964-09-29,Surco,Pacífico Seguros
+128,Juan Condori Díaz,M,32,1991-03-26,San Borja,Mapfre
+129,Luis Ccopa Huanca,M,71,1952-09-30,Lince,Rimac Seguros
+130,Roberto Huanca Rodríguez,M,77,1946-11-07,Miraflores,Particular
+131,Manuel Rivera Condori,M,23,2000-12-24,La Molina,Pacífico Seguros
+132,Carlos Reyes Condori,M,31,1992-12-31,Ate,Particular
+133,Fernando Pérez Rodríguez,M,54,1969-12-13,Independencia,SIS
+134,Verónica Huanca Reyes,F,66,1957-05-31,Ate,SIS
+135,Héctor Pérez Mamani,M,85,1938-06-02,Independencia,Particular
+136,Juan Gutiérrez Lazo,M,52,1971-11-20,Comas,Pacífico Seguros
+137,Verónica López Puma,F,11,2012-10-20,San Miguel,Rimac Seguros
+138,Pedro Rivera Medina,M,82,1941-01-22,Ate,Rimac Seguros
+139,Paola Medina Chávez,F,38,1985-03-07,Los Olivos,Rimac Seguros
+140,Carmen Condori Quispe,F,15,2008-03-28,El Agustino,Pacífico Seguros
+141,Ricardo Ortiz Puma,M,30,1993-05-21,Comas,Particular
+142,Sandra Mamani Martínez,F,41,1982-02-05,Comas,Particular
+143,Fernanda Rodríguez Castillo,F,61,1962-12-04,Surco,SIS
+144,Ricardo Martínez Mamani,M,48,1975-12-14,San Borja,Rimac Seguros
+145,Carmen Morales Reyes,F,55,1968-03-13,San Isidro,Particular
+146,Fernanda Martínez Herrera,F,65,1958-02-15,Lince,SOAT
+147,Gabriela Lazo Martínez,F,45,1978-11-15,Carabayllo,Particular
+148,Natalia Flores Condori,F,55,1968-03-02,Carabayllo,Mapfre
+149,Héctor Cusi Castillo,M,35,1988-08-23,Miraflores,SOAT
+150,Daniela Reyes García,F,24,1999-02-05,San Borja,Rimac Seguros
+151,Lucía Rodríguez Mamani,F,82,1941-04-25,Miraflores,SIS
+152,Sergio Morales Ortiz,M,44,1979-08-06,Jesús María,Particular
+153,Natalia Medina López,F,7,2016-02-21,San Borja,SOAT
+154,Luis Rivera Ortiz,M,85,1938-03-18,Comas,EsSalud
+155,Sandra Rivera Torres,F,66,1957-06-11,La Molina,Particular
+156,Eduardo Castillo Castillo,M,76,1947-02-13,San Martín de Porres,Rimac Seguros
+157,Ana Flores Cruz,F,77,1946-10-08,San Isidro,SIS
+158,Sofía Huanca Rodríguez,F,33,1990-11-09,Magdalena,Particular
+159,Raúl Mamani Morales,M,23,2000-04-09,San Borja,EsSalud
+160,Víctor Ramos Ccopa,M,46,1977-12-22,Surco,EsSalud
+161,María Ortiz Cusi,F,10,2013-05-29,San Miguel,Rimac Seguros
+162,Sandra Gómez Martínez,F,52,1971-10-19,Miraflores,Particular
+163,Fernanda López Morales,F,14,2009-03-09,Barranco,EsSalud
+164,Jessica López Cruz,F,40,1983-07-25,San Miguel,SOAT
+165,Luis Chávez Vargas,M,15,2008-09-27,Independencia,Rimac Seguros
+166,Fernanda Mamani Ccopa,F,83,1940-11-30,San Borja,SOAT
+167,Fernando Torres Sánchez,M,78,1945-02-19,San Borja,Mapfre
+168,José Huanca Vargas,M,64,1959-04-04,Los Olivos,Mapfre
+169,Natalia Vargas Vargas,F,80,1943-03-06,San Miguel,Mapfre
+170,Rosa Ortiz López,F,61,1962-08-14,Los Olivos,Pacífico Seguros
+171,Natalia Pérez Reyes,F,65,1958-05-26,Surco,Particular
+172,Ana Pérez Reyes,F,37,1986-11-25,Surco,Pacífico Seguros
+173,Verónica Herrera Ramos,F,6,2017-03-16,Los Olivos,Mapfre
+174,Roberto Medina Gutiérrez,M,65,1958-06-01,San Borja,SIS
+175,Roberto Quispe López,M,65,1958-12-28,El Agustino,SOAT
+176,Gonzalo Ortiz Chávez,M,67,1956-07-15,Santa Anita,SOAT
+177,Claudia Cruz Morales,F,44,1979-12-17,Villa El Salvador,Rimac Seguros
+178,Lucía Díaz Martínez,F,72,1951-08-27,Villa El Salvador,EsSalud
+179,Gloria Lazo Rodríguez,F,43,1980-02-07,Surco,Rimac Seguros
+180,Alejandro Gómez Vargas,M,85,1938-03-24,Rímac,SOAT
+181,Eduardo Ramos Cruz,M,83,1940-11-17,San Miguel,Mapfre
+182,Ricardo Chávez Reyes,M,3,2020-10-01,Breña,Particular
+183,Roberto Huanca Gutiérrez,M,25,1998-10-20,Barranco,SOAT
+184,Eduardo Lazo Condori,M,13,2010-04-03,Independencia,Mapfre
+185,Roberto Puma Huanca,M,80,1943-07-13,San Borja,Rimac Seguros
+186,José Sánchez Ccopa,M,80,1943-06-11,Jesús María,Pacífico Seguros
+187,Ricardo Reyes Castillo,M,31,1992-08-16,Los Olivos,Rimac Seguros
+188,Gabriela Ramos Flores,F,40,1983-10-04,San Martín de Porres,Mapfre
+189,Natalia Ortiz Ortiz,F,37,1986-04-15,Rímac,Rimac Seguros
+190,Patricia Ccopa Torres,F,78,1945-09-14,San Borja,Mapfre
+191,Raúl Lazo Reyes,M,71,1952-04-29,La Molina,Pacífico Seguros
+192,Eduardo López Huanca,M,21,2002-04-19,Pueblo Libre,EsSalud
+193,Ricardo López Cusi,M,29,1994-12-26,Los Olivos,Particular
+194,Ana Cruz Chávez,F,48,1975-12-03,Barranco,EsSalud
+195,Gabriela García Díaz,F,13,2010-07-17,Villa María del Triunfo,Pacífico Seguros
+196,Pedro Pérez Gómez,M,61,1962-11-06,Villa María del Triunfo,Mapfre
+197,Verónica Medina García,F,11,2012-09-15,Miraflores,Particular
+198,Manuel Mamani Medina,M,68,1955-08-24,Comas,SIS
+199,Eduardo Martínez Pérez,M,31,1992-02-25,Comas,Pacífico Seguros
+200,Lucía Martínez Ccopa,F,64,1960-01-09,Santa Anita,Rimac Seguros
+201,Pedro Gómez Morales,M,1,2022-08-31,Santa Anita,Particular
+202,Patricia Castillo Castillo,F,11,2012-11-30,Independencia,Particular
+203,Sergio Lazo Gutiérrez,M,6,2017-06-25,El Agustino,EsSalud
+204,María Reyes Condori,F,9,2014-02-01,Breña,SOAT
+205,Daniel Mamani Huanca,M,43,1980-07-15,San Borja,SIS
+206,Patricia Ccopa Huanca,F,60,1963-02-27,Villa María del Triunfo,EsSalud
+207,Pedro López Quispe,M,59,1964-10-04,San Isidro,Particular
+208,Diego Puma Pérez,M,41,1982-06-22,Magdalena,Rimac Seguros
+209,Valeria Pérez Huanca,F,83,1940-07-23,Lince,Particular
+210,Roberto Rivera Martínez,M,48,1975-06-02,Comas,EsSalud
+211,Daniela Sánchez Gutiérrez,F,64,1959-04-27,Breña,Mapfre
+212,Lucía Mamani Morales,F,11,2012-10-03,Comas,Rimac Seguros
+213,Daniela Martínez López,F,42,1981-08-08,Villa El Salvador,Particular
+214,Gloria Quispe Morales,F,22,2001-07-11,Villa María del Triunfo,EsSalud
+215,Ana Mamani Lazo,F,46,1977-08-25,Santa Anita,EsSalud
+216,Luis Castillo Vargas,M,52,1971-02-01,Breña,Rimac Seguros
+217,Carlos Rodríguez Lazo,M,78,1945-06-10,Villa El Salvador,Mapfre
+218,Pedro López Flores,M,83,1940-07-09,Breña,Particular
+219,Héctor Rodríguez Castillo,M,58,1965-06-02,Breña,Particular
+220,Daniel Rodríguez Chávez,M,47,1976-02-15,Rímac,Particular
+221,Gabriela Martínez García,F,24,1999-06-23,San Martín de Porres,Rimac Seguros
+222,Fernando Huanca Rivera,M,58,1965-08-22,Lince,Rimac Seguros
+223,Sofía Martínez Rodríguez,F,10,2013-05-21,Los Olivos,SOAT
+224,Roberto Castillo Reyes,M,9,2014-08-08,Carabayllo,Rimac Seguros
+225,Patricia Quispe Quispe,F,82,1941-07-20,Jesús María,Mapfre
+226,Miguel Torres Condori,M,18,2005-04-28,Barranco,Mapfre
+227,Alejandro Ramos Herrera,M,48,1975-04-06,Los Olivos,Mapfre
+228,Héctor Puma López,M,9,2014-05-03,Magdalena,EsSalud
+229,Sandra Ccopa Herrera,F,10,2013-02-09,San Borja,Particular
+230,Gonzalo Ortiz Castillo,M,67,1956-04-10,Breña,SOAT
+231,Pedro Morales Chávez,M,8,2015-10-17,La Molina,Rimac Seguros
+232,Patricia Sánchez Díaz,F,29,1994-08-16,Breña,Rimac Seguros
+233,Fernando Torres Vargas,M,71,1952-03-04,Pueblo Libre,SOAT
+234,Gloria Ramos López,F,65,1958-03-20,El Agustino,SOAT
+235,José Castillo Medina,M,78,1945-04-07,San Miguel,Mapfre
+236,Carlos López Pérez,M,83,1940-02-23,Ate,Particular
+237,Daniel Morales Medina,M,82,1941-03-06,Miraflores,EsSalud
+238,Claudia Gutiérrez Flores,F,52,1971-12-08,Magdalena,EsSalud
+239,José Ortiz Morales,M,62,1961-07-26,Los Olivos,SOAT
+240,Roberto Lazo Quispe,M,41,1982-11-06,Breña,EsSalud
+241,Jessica Ramos Martínez,F,41,1982-11-10,Barranco,EsSalud
+242,Verónica Flores Rodríguez,F,13,2010-06-22,San Isidro,Particular
+243,Gabriela Lazo Puma,F,21,2002-07-30,San Miguel,Rimac Seguros
+244,José Gutiérrez Chávez,M,60,1963-05-07,San Martín de Porres,Particular
+245,Luis Cruz Chávez,M,59,1964-03-23,Barranco,SOAT
+246,Ana Pérez Gómez,F,64,1959-02-17,Santa Anita,Mapfre
+247,Claudia Ramos García,F,14,2009-08-22,Comas,SOAT
+248,Paola Reyes Pérez,F,52,1971-04-02,San Isidro,Rimac Seguros
+249,Alejandro Ramos Gómez,M,10,2013-05-18,Rímac,Rimac Seguros
+250,Gloria Castillo Medina,F,16,2007-06-18,San Borja,SIS
+251,Daniela Ramos Reyes,F,19,2004-04-20,Lince,Rimac Seguros
+252,Jessica Pérez Pérez,F,5,2018-07-16,San Borja,Pacífico Seguros
+253,Jessica Ortiz Rodríguez,F,78,1945-08-06,Independencia,SOAT
+254,Patricia Cruz Medina,F,39,1984-04-26,Ate,Particular
+255,Natalia Gómez Gutiérrez,F,3,2020-01-23,Breña,Particular
+256,Ricardo Herrera Gómez,M,81,1942-05-24,Miraflores,Rimac Seguros
+257,Natalia Herrera Flores,F,7,2016-10-07,Ate,EsSalud
+258,Rosa Ccopa Castillo,F,32,1991-01-16,San Isidro,Rimac Seguros
+259,Diego García Ortiz,M,41,1982-06-14,Comas,SOAT
+260,Ricardo Chávez Huanca,M,79,1944-12-20,San Martín de Porres,Mapfre
+261,Víctor Torres Ramos,M,42,1981-04-17,Villa El Salvador,EsSalud
+262,Daniela Sánchez Ortiz,F,69,1954-07-21,San Miguel,Rimac Seguros
+263,Gloria Gutiérrez Torres,F,32,1991-08-10,Pueblo Libre,Rimac Seguros
+264,Eduardo Huanca Gómez,M,27,1996-05-02,Villa María del Triunfo,Pacífico Seguros
+265,Mónica Reyes Ramos,F,36,1987-03-23,Magdalena,SIS
+266,Paola Ccopa Reyes,F,19,2004-08-11,Magdalena,SIS
+267,Alejandro Cusi Ortiz,M,84,1939-05-22,Pueblo Libre,Pacífico Seguros
+268,Diego Ccopa Ramos,M,35,1988-08-23,Carabayllo,Pacífico Seguros
+269,Miguel Medina Mamani,M,76,1947-12-26,Barranco,SOAT
+270,Andrés Pérez Martínez,M,53,1970-05-18,San Miguel,Pacífico Seguros
+271,Pedro García Ramos,M,21,2002-05-08,Comas,Pacífico Seguros
+272,Sofía Huanca Gómez,F,42,1981-12-12,Magdalena,Pacífico Seguros
+273,Daniel Flores Ramos,M,5,2018-10-04,Jesús María,EsSalud
+274,Sergio Condori Gutiérrez,M,24,2000-01-03,Magdalena,SIS
+275,Natalia Medina Martínez,F,43,1980-02-18,Magdalena,EsSalud
+276,Rosa Lazo Chávez,F,60,1963-11-20,Pueblo Libre,SOAT
+277,Patricia Mamani Ortiz,F,83,1940-10-18,Pueblo Libre,Pacífico Seguros
+278,Roberto Condori Gómez,M,73,1950-10-13,Villa El Salvador,Mapfre
+279,Héctor Lazo Vargas,M,52,1971-07-31,Comas,Rimac Seguros
+280,Sergio Castillo Martínez,M,24,1999-07-26,San Borja,EsSalud
+281,Carlos Rivera Cruz,M,31,1992-08-25,Los Olivos,Mapfre
+282,Claudia Herrera Mamani,F,74,1949-02-19,Miraflores,Particular
+283,Gabriela Pérez Castillo,F,16,2007-10-16,Los Olivos,Particular
+284,Jessica Cusi Puma,F,40,1983-02-18,Villa María del Triunfo,SIS
+285,Fernanda Medina Flores,F,29,1994-10-22,San Borja,EsSalud
+286,Gloria Reyes Morales,F,71,1952-04-18,San Martín de Porres,Mapfre
+287,Andrés Castillo Huanca,M,77,1946-06-06,Surco,Rimac Seguros
+288,Lucía Cusi Herrera,F,15,2008-03-30,San Isidro,Mapfre
+289,Daniel Ramos Rodríguez,M,22,2001-04-15,San Miguel,Mapfre
+290,Carmen Castillo Torres,F,75,1948-05-03,San Martín de Porres,SIS
+291,Ana Ortiz Rodríguez,F,66,1957-04-04,Comas,EsSalud
+292,Manuel Ortiz Castillo,M,40,1983-09-03,Miraflores,EsSalud
+293,Diego Herrera López,M,6,2017-01-09,Comas,Particular
+294,Manuel Pérez Cusi,M,9,2014-08-10,San Martín de Porres,SIS
+295,Patricia Huanca Rodríguez,F,83,1940-07-14,El Agustino,EsSalud
+296,Verónica Lazo Cusi,F,49,1974-01-29,Rímac,SIS
+297,Alejandro Martínez Sánchez,M,69,1954-11-14,Rímac,Rimac Seguros
+298,Carlos Huanca García,M,39,1984-04-07,Los Olivos,Pacífico Seguros
+299,Alejandra Cruz Ccopa,F,30,1993-07-15,Barranco,EsSalud
+300,Fernando Torres Cusi,M,15,2008-02-01,San Isidro,Mapfre
+301,Gloria Huanca Cusi,F,3,2020-11-28,Barranco,SOAT
+302,Héctor Pérez Ortiz,M,77,1946-12-27,Villa El Salvador,Pacífico Seguros
+303,Juan Cruz Ortiz,M,30,1993-12-11,Carabayllo,SOAT
+304,Víctor Gómez Flores,M,74,1949-03-19,San Miguel,Rimac Seguros
+305,Gabriela Gómez Puma,F,19,2004-09-14,Villa El Salvador,Rimac Seguros
+306,Claudia Rivera Pérez,F,72,1951-10-22,Ate,Pacífico Seguros
+307,Alejandra Gutiérrez Pérez,F,45,1978-07-01,El Agustino,Pacífico Seguros
+308,Sandra Morales Rodríguez,F,39,1984-04-10,Rímac,SOAT
+309,Gabriela Lazo Flores,F,39,1984-05-18,Villa María del Triunfo,SOAT
+310,Manuel Morales Morales,M,72,1951-07-05,Independencia,SOAT
+311,Fernando Torres Díaz,M,83,1940-07-16,Surco,EsSalud
+312,Manuel Mamani Ccopa,M,25,1998-06-28,San Isidro,Particular
+313,Luis Torres Condori,M,76,1947-10-01,Villa El Salvador,Rimac Seguros
+314,Sofía Lazo Cusi,F,43,1980-09-25,Magdalena,SIS
+315,Miguel Mamani Huanca,M,62,1961-03-13,Barranco,Pacífico Seguros
+316,Sergio Cusi Flores,M,71,1952-08-27,San Miguel,Mapfre
+317,Verónica Ramos Vargas,F,46,1977-07-12,Magdalena,Particular
+318,Verónica Martínez Condori,F,61,1962-07-11,San Miguel,SOAT
+319,Sandra Pérez Herrera,F,29,1994-08-28,San Borja,SIS
+320,Claudia Rodríguez Torres,F,43,1980-03-26,Barranco,EsSalud
+321,Raúl Ramos Vargas,M,44,1979-05-07,Pueblo Libre,Mapfre
+322,Verónica Sánchez Mamani,F,46,1977-04-08,Jesús María,SOAT
+323,Patricia Cusi Puma,F,70,1953-04-25,El Agustino,SIS
+324,Luis Ccopa Castillo,M,7,2016-10-24,Miraflores,EsSalud
+325,Luis Quispe Rodríguez,M,2,2021-05-13,Lince,Rimac Seguros
+326,Ana Medina Vargas,F,79,1944-05-16,San Martín de Porres,Pacífico Seguros
+327,Carlos Ramos Ramos,M,53,1970-04-18,Miraflores,SIS
+328,Alejandra Gómez García,F,65,1958-06-11,Villa María del Triunfo,Pacífico Seguros
+329,Miguel Cusi Martínez,M,68,1955-10-12,San Borja,SOAT
+330,Fernanda Rivera Condori,F,51,1972-06-20,Surco,Particular
+331,Natalia Flores Quispe,F,29,1994-11-28,Magdalena,Pacífico Seguros
+332,Luis Cruz Cruz,M,49,1974-12-16,Carabayllo,EsSalud
+333,José López Gutiérrez,M,56,1967-07-30,El Agustino,Mapfre
+334,Víctor Cusi Pérez,M,30,1993-01-19,Lince,Mapfre
+335,Valeria Pérez Cusi,F,10,2013-03-31,Villa El Salvador,Particular
+336,José Cusi Lazo,M,41,1982-03-17,Miraflores,SOAT
+337,Sergio Cusi López,M,39,1984-09-09,Jesús María,Rimac Seguros
+338,Alejandra Díaz Cruz,F,18,2005-11-26,Villa María del Triunfo,Pacífico Seguros
+339,Ana Martínez Morales,F,30,1993-03-05,Surco,Particular
+340,Daniela García Vargas,F,35,1988-09-15,Los Olivos,EsSalud
+341,Alejandra Cruz Morales,F,24,1999-02-03,Villa El Salvador,Rimac Seguros
+342,Lucía Huanca Medina,F,38,1985-12-04,Barranco,Pacífico Seguros
+343,Fernando Rodríguez Cruz,M,82,1941-07-06,San Borja,Pacífico Seguros
+344,Fernanda Martínez López,F,1,2022-07-01,Magdalena,EsSalud
+345,Carmen Rodríguez López,F,24,1999-03-28,Comas,EsSalud
+346,Carmen García López,F,46,1977-03-13,Carabayllo,SIS
+347,Paola García Gómez,F,53,1970-12-02,Rímac,Mapfre
+348,Daniel Chávez Sánchez,M,49,1974-08-29,Jesús María,SOAT
+349,Valeria Gutiérrez Rodríguez,F,9,2014-08-15,Jesús María,EsSalud
+350,Claudia Gutiérrez Condori,F,10,2013-08-30,Breña,Particular
+351,Gloria Medina Torres,F,59,1964-08-13,La Molina,SOAT
+352,Sergio Díaz Ccopa,M,80,1943-08-06,Rímac,Mapfre
+353,Daniela Morales Ccopa,F,84,1939-08-22,Santa Anita,SOAT
+354,Gloria Quispe Torres,F,62,1961-06-27,San Miguel,SOAT
+355,Claudia Mamani Quispe,F,82,1941-09-19,San Martín de Porres,Rimac Seguros
+356,Paola Rivera Ccopa,F,51,1972-03-31,Breña,SIS
+357,Daniel Ramos Sánchez,M,71,1952-05-27,Miraflores,Pacífico Seguros
+358,Gonzalo Condori Gómez,M,9,2014-04-23,Comas,Pacífico Seguros
+359,Eduardo Flores Rivera,M,85,1938-06-20,San Borja,Pacífico Seguros
+360,Lucía Ortiz Medina,F,62,1961-04-18,Ate,EsSalud
+361,Alejandra Pérez Condori,F,47,1976-04-13,Villa María del Triunfo,Mapfre
+362,Miguel Huanca Flores,M,85,1938-10-29,Villa El Salvador,Particular
+363,Daniel Vargas Castillo,M,83,1940-08-05,Rímac,Mapfre
+364,Carmen García Martínez,F,34,1989-04-19,Barranco,Rimac Seguros
+365,Gonzalo Reyes Cruz,M,60,1963-01-28,Villa El Salvador,Rimac Seguros
+366,Alejandro García Gutiérrez,M,14,2009-11-22,Magdalena,EsSalud
+367,Pedro Reyes Gómez,M,44,1979-09-29,Los Olivos,Mapfre
+368,Fernanda Gutiérrez Martínez,F,57,1966-08-05,Villa María del Triunfo,EsSalud
+369,Eduardo Pérez Condori,M,15,2008-07-13,Miraflores,Mapfre
+370,José Cusi Mamani,M,32,1991-04-02,Independencia,SOAT
+371,Roberto Ramos Morales,M,60,1963-06-23,Barranco,Mapfre
+372,José Vargas Castillo,M,56,1967-03-07,Rímac,SIS
+373,Gonzalo Herrera Morales,M,50,1973-09-26,Miraflores,Pacífico Seguros
+374,Fernando Huanca Quispe,M,9,2014-04-04,Ate,SIS
+375,Alejandro Díaz Torres,M,59,1964-02-07,La Molina,Particular
+376,Jessica Vargas Díaz,F,77,1946-07-04,Rímac,Rimac Seguros
+377,Alejandro Reyes Lazo,M,59,1964-02-06,Santa Anita,SOAT
+378,Gloria Herrera López,F,18,2005-09-05,San Miguel,SIS
+379,Carmen Sánchez Reyes,F,19,2004-06-05,Independencia,EsSalud
+380,Daniel Cruz Morales,M,24,1999-04-07,San Martín de Porres,Pacífico Seguros
+381,Manuel Sánchez Gutiérrez,M,37,1986-08-02,San Borja,SOAT
+382,Gloria Pérez Lazo,F,46,1977-11-04,Miraflores,EsSalud
+383,Sergio Ramos Chávez,M,84,1939-02-06,San Martín de Porres,EsSalud
+384,Sandra Quispe Ccopa,F,57,1966-12-04,San Martín de Porres,SOAT
+385,Andrés Gómez Pérez,M,36,1987-08-16,Barranco,Rimac Seguros
+386,Gonzalo Herrera Mamani,M,64,1959-11-21,Carabayllo,Rimac Seguros
+387,Fernando Huanca Ramos,M,47,1976-12-22,Carabayllo,Mapfre
+388,Alejandra Torres Morales,F,14,2009-08-31,El Agustino,Mapfre
+389,Ana Ortiz Rivera,F,45,1978-11-13,Surco,EsSalud
+390,Diego Condori Mamani,M,76,1947-01-22,Villa María del Triunfo,Particular
+391,Patricia Medina Rodríguez,F,27,1996-12-08,Lince,Mapfre
+392,Alejandra Rivera Medina,F,69,1954-01-23,Jesús María,Particular
+393,Claudia Herrera Rivera,F,66,1957-11-30,Villa El Salvador,Mapfre
+394,Ricardo Cusi Pérez,M,36,1987-01-16,El Agustino,SOAT
+395,Andrés Rodríguez Quispe,M,42,1981-01-30,Barranco,Mapfre
+396,Mónica Rodríguez Herrera,F,81,1942-06-23,Pueblo Libre,Pacífico Seguros
+397,Verónica López Vargas,F,12,2011-08-15,Rímac,Rimac Seguros
+398,Verónica Gutiérrez Díaz,F,75,1948-12-03,Miraflores,Mapfre
+399,Fernanda Lazo López,F,69,1954-06-13,Rímac,SOAT
+400,Raúl Rivera Díaz,M,37,1986-03-21,San Miguel,Rimac Seguros
+401,Daniel Lazo Gutiérrez,M,44,1979-12-19,Villa El Salvador,Mapfre
+402,Miguel Vargas Condori,M,59,1964-10-27,Miraflores,SIS
+403,Verónica García Morales,F,26,1997-02-09,Villa María del Triunfo,SOAT
+404,Patricia Lazo Cusi,F,36,1987-07-10,Surco,Pacífico Seguros
+405,Lucía Reyes Castillo,F,84,1939-07-04,Jesús María,SIS
+406,Gabriela Morales Vargas,F,12,2012-01-04,Villa María del Triunfo,SIS
+407,Raúl López Rodríguez,M,76,1947-02-06,Barranco,Rimac Seguros
+408,María García Quispe,F,44,1979-06-10,La Molina,Mapfre
+409,Raúl López Flores,M,50,1973-11-22,Surco,Pacífico Seguros
+410,Roberto Reyes Puma,M,39,1984-11-03,San Borja,EsSalud
+411,Luis Chávez Herrera,M,2,2021-10-09,Santa Anita,Pacífico Seguros
+412,Fernanda Mamani Torres,F,81,1942-03-12,San Borja,EsSalud
+413,Sofía López Puma,F,13,2010-11-02,San Borja,Mapfre
+414,Fernanda Morales Díaz,F,18,2005-02-09,Barranco,Particular
+415,Andrés Ramos Medina,M,77,1946-02-01,Santa Anita,Particular
+416,Eduardo Torres Chávez,M,78,1945-07-04,Independencia,SOAT
+417,Ana Condori Puma,F,31,1992-11-12,San Martín de Porres,EsSalud
+418,Raúl Vargas Medina,M,10,2013-07-03,Independencia,SIS
+419,Rosa Cruz Lazo,F,73,1950-04-15,Comas,Particular
+420,Raúl Huanca López,M,3,2020-12-25,Ate,SIS
+421,Sofía Pérez Cusi,F,8,2015-08-10,Rímac,Rimac Seguros
+422,Sandra Quispe Cruz,F,11,2012-04-03,El Agustino,Rimac Seguros
+423,Fernando López Gómez,M,11,2012-10-16,Independencia,SOAT
+424,Paola Herrera Vargas,F,84,1939-12-20,Villa El Salvador,Pacífico Seguros
+425,Sandra Mamani Lazo,F,31,1992-11-25,San Isidro,SOAT
+426,Carmen Ortiz Medina,F,78,1945-02-13,San Isidro,Particular
+427,Miguel García Quispe,M,18,2005-10-14,Villa María del Triunfo,SIS
+428,Fernanda Chávez Chávez,F,34,1989-11-06,Jesús María,Particular
+429,Carmen Huanca Puma,F,4,2019-05-28,San Miguel,Mapfre
+430,Jessica López Rivera,F,74,1949-05-10,El Agustino,SIS
+431,Jessica Reyes Pérez,F,64,1959-07-13,Ate,SOAT
+432,Fernando Huanca Martínez,M,74,1949-11-21,Villa El Salvador,Pacífico Seguros
+433,Víctor García Pérez,M,2,2021-05-05,Barranco,SIS
+434,Paola Cusi Rodríguez,F,23,2000-02-06,San Isidro,Rimac Seguros
+435,Gabriela Díaz Flores,F,54,1969-12-06,San Miguel,Particular
+436,Carmen Chávez Castillo,F,7,2016-04-13,Jesús María,SOAT
+437,Sergio López Puma,M,60,1963-08-10,Magdalena,Mapfre
+438,Lucía Ramos Ortiz,F,2,2021-08-05,Breña,SOAT
+439,Gloria Flores Ortiz,F,48,1975-10-05,Ate,EsSalud
+440,Pedro García Cusi,M,53,1970-04-12,Miraflores,SOAT
+441,María Díaz García,F,85,1938-08-18,Rímac,Mapfre
+442,Diego Chávez Flores,M,54,1969-11-03,San Martín de Porres,SIS
+443,Lucía Pérez Cusi,F,30,1993-01-15,Independencia,EsSalud
+444,Verónica Mamani López,F,75,1948-11-12,La Molina,Rimac Seguros
+445,Lucía Herrera Herrera,F,8,2015-10-29,Comas,Pacífico Seguros
+446,Eduardo Rivera Lazo,M,41,1982-07-28,Rímac,Pacífico Seguros
+447,Verónica Rivera Flores,F,10,2013-03-10,Lince,SOAT
+448,Pedro Martínez Sánchez,M,58,1965-06-21,Los Olivos,Particular
+449,Manuel Reyes Huanca,M,27,1996-05-15,Los Olivos,Particular
+450,Carmen López Sánchez,F,39,1984-03-08,Villa María del Triunfo,Pacífico Seguros
+451,Diego Ccopa Lazo,M,42,1981-01-12,San Borja,SIS
+452,Alejandro Cruz Chávez,M,7,2016-08-22,Villa El Salvador,Particular
+453,Carlos Cruz Lazo,M,58,1965-04-09,Carabayllo,Pacífico Seguros
+454,Miguel Ortiz Martínez,M,18,2005-12-05,La Molina,SIS
+455,Pedro Torres Ccopa,M,52,1971-02-26,Breña,Pacífico Seguros
+456,Daniel Herrera Rivera,M,10,2013-09-24,Miraflores,SIS
+457,Rosa López Puma,F,43,1980-05-20,La Molina,SIS
+458,José Cusi Herrera,M,56,1967-12-31,Rímac,EsSalud
+459,Sandra Sánchez Reyes,F,28,1995-08-18,Jesús María,Particular
+460,Rosa Pérez Medina,F,80,1943-02-24,Santa Anita,SOAT
+461,Mónica Morales Puma,F,71,1952-12-05,San Martín de Porres,SIS
+462,Paola Rodríguez Morales,F,26,1997-04-13,El Agustino,Mapfre
+463,Manuel Condori García,M,49,1974-05-13,Villa María del Triunfo,Particular
+464,Fernanda Cusi Herrera,F,65,1958-09-01,San Miguel,EsSalud
+465,Carlos Díaz Medina,M,29,1994-08-18,Miraflores,Mapfre
+466,Raúl Chávez Reyes,M,75,1948-11-29,Barranco,SOAT
+467,Andrés Rivera Ramos,M,8,2015-06-19,Barranco,Rimac Seguros
+468,Patricia Sánchez Flores,F,76,1947-01-28,San Miguel,Mapfre
+469,Natalia García Quispe,F,46,1977-11-01,Ate,Rimac Seguros
+470,Raúl Ramos Gómez,M,23,2000-11-21,San Martín de Porres,SIS
+471,Andrés Medina Flores,M,3,2021-01-01,Independencia,EsSalud
+472,Gloria Torres Condori,F,17,2006-10-07,San Miguel,Pacífico Seguros
+473,Ana García Rodríguez,F,76,1947-11-25,Villa María del Triunfo,SOAT
+474,Lucía Reyes Quispe,F,85,1938-12-02,Rímac,Rimac Seguros
+475,Claudia Díaz Rodríguez,F,21,2002-02-13,Comas,Mapfre
+476,Daniela Sánchez Quispe,F,72,1951-07-21,Villa María del Triunfo,Rimac Seguros
+477,Daniel Ccopa Sánchez,M,49,1974-01-26,Magdalena,Pacífico Seguros
+478,Rosa Sánchez Mamani,F,1,2022-06-15,Villa María del Triunfo,Rimac Seguros
+479,José Medina Díaz,M,79,1944-04-06,Barranco,Pacífico Seguros
+480,Raúl Rodríguez Díaz,M,10,2013-07-24,Barranco,Particular
+481,Luis Ccopa Quispe,M,82,1942-01-16,San Miguel,EsSalud
+482,Sofía Flores Quispe,F,9,2014-11-09,Breña,Particular
+483,Juan Cruz Ortiz,M,54,1969-05-07,Jesús María,EsSalud
+484,Fernanda Ramos Cruz,F,13,2010-03-15,San Martín de Porres,Mapfre
+485,José Ortiz López,M,5,2018-07-23,Magdalena,SIS
+486,Carmen López Díaz,F,22,2001-11-29,Rímac,SOAT
+487,Roberto Medina Medina,M,62,1961-06-10,Villa María del Triunfo,SIS
+488,Héctor Puma Morales,M,21,2002-07-21,San Isidro,SIS
+489,Diego Morales Quispe,M,71,1952-02-15,Carabayllo,Particular
+490,Claudia Flores Martínez,F,7,2016-03-27,Rímac,Rimac Seguros
+491,Rosa Pérez Reyes,F,1,2022-08-04,Comas,SIS
+492,Sofía Martínez García,F,27,1996-08-11,Jesús María,Pacífico Seguros
+493,Raúl Lazo Martínez,M,40,1983-05-06,Rímac,EsSalud
+494,Lucía Vargas Ramos,F,50,1973-07-02,Jesús María,Particular
+495,Patricia Ortiz Pérez,F,34,1989-08-28,Los Olivos,EsSalud
+496,Fernando Herrera Pérez,M,20,2003-11-18,Villa María del Triunfo,Pacífico Seguros
+497,Alejandro Condori Ramos,M,53,1970-04-06,Ate,SOAT
+498,Sergio Ccopa Chávez,M,54,1969-05-16,Carabayllo,Pacífico Seguros
+499,Raúl Gómez López,M,51,1972-05-01,Villa María del Triunfo,SIS
+500,Miguel Huanca Ortiz,M,23,2000-09-30,Jesús María,SOAT
+501,Juan Morales López,M,56,1967-02-28,Lince,Mapfre
+502,Héctor Rivera Díaz,M,9,2014-03-25,Surco,EsSalud
+503,Alejandra Díaz Lazo,F,36,1988-01-04,Independencia,EsSalud
+504,Carmen Morales Rodríguez,F,19,2004-03-13,Ate,Rimac Seguros
+505,Miguel Herrera Huanca,M,13,2010-04-05,Magdalena,Mapfre
+506,Sandra Rivera Cruz,F,84,1939-03-17,San Martín de Porres,Rimac Seguros
+507,Ana Sánchez Rivera,F,52,1971-03-09,San Borja,Rimac Seguros
+508,Ana Cruz Puma,F,43,1980-12-17,Villa María del Triunfo,SOAT
+509,Valeria Puma Reyes,F,3,2020-07-30,San Miguel,Mapfre
+510,Valeria Ccopa Gutiérrez,F,13,2010-08-04,Barranco,SOAT
+511,Daniela Rivera Mamani,F,54,1969-11-30,Santa Anita,Pacífico Seguros
+512,Gonzalo Torres Cusi,M,53,1970-04-25,San Martín de Porres,Mapfre
+513,Ana Chávez Condori,F,21,2002-01-08,Surco,Particular
+514,Rosa Huanca Lazo,F,68,1955-10-22,Ate,SIS
+515,Diego Ccopa Pérez,M,32,1991-12-15,San Isidro,EsSalud
+516,Sofía Rivera Reyes,F,60,1963-02-25,Independencia,EsSalud
+517,Carlos Flores Reyes,M,63,1960-10-18,Santa Anita,EsSalud
+518,Natalia Ramos Reyes,F,45,1978-09-02,Jesús María,Mapfre
+519,Eduardo García Cruz,M,7,2016-03-16,Jesús María,Mapfre
+520,Andrés Vargas Flores,M,27,1996-06-12,Pueblo Libre,Pacífico Seguros
+521,Carlos Gutiérrez Cusi,M,17,2006-03-04,El Agustino,SOAT
+522,Andrés Rivera Medina,M,40,1983-02-16,Villa María del Triunfo,Pacífico Seguros
+523,Sandra Puma Cruz,F,45,1978-09-23,Los Olivos,Particular
+524,Claudia Castillo Chávez,F,80,1943-11-30,Rímac,Rimac Seguros
+525,Víctor Castillo Ccopa,M,48,1975-03-15,Carabayllo,Pacífico Seguros
+526,Claudia Castillo Martínez,F,62,1961-08-28,Surco,Particular
+527,Valeria Rivera Vargas,F,84,1939-11-07,Magdalena,SOAT
+528,Juan Condori Lazo,M,77,1946-08-10,Rímac,Pacífico Seguros
+529,Carlos Vargas Gutiérrez,M,38,1985-06-17,Pueblo Libre,EsSalud
+530,Ana Herrera Quispe,F,74,1949-09-28,Lince,Particular
+531,Fernanda Chávez Gómez,F,22,2001-10-06,Villa El Salvador,Rimac Seguros
+532,Carmen Gutiérrez Rodríguez,F,34,1989-10-08,Carabayllo,Mapfre
+533,Lucía Flores Reyes,F,29,1994-07-23,Magdalena,EsSalud
+534,Valeria Herrera Gómez,F,60,1963-12-20,La Molina,EsSalud
+535,Raúl Puma Torres,M,65,1958-02-03,La Molina,Mapfre
+536,Jessica Gómez Morales,F,7,2016-09-22,San Borja,SOAT
+537,Sandra Herrera Puma,F,59,1964-10-15,San Borja,Particular
+538,Raúl Díaz Vargas,M,23,2000-12-08,San Miguel,Pacífico Seguros
+539,Gonzalo Rivera Torres,M,22,2001-10-17,Ate,Mapfre
+540,Lucía Rodríguez Medina,F,56,1967-06-23,El Agustino,EsSalud
+541,Mónica Cruz García,F,5,2018-06-25,Carabayllo,SOAT
+542,Roberto Huanca Ccopa,M,68,1955-02-06,Lince,SIS
+543,Andrés Flores Quispe,M,45,1978-11-21,Magdalena,SOAT
+544,Jessica Herrera Gómez,F,22,2001-12-14,Surco,Mapfre
+545,Claudia Ortiz Mamani,F,67,1956-07-29,Santa Anita,Rimac Seguros
+546,Rosa Díaz Puma,F,63,1960-10-12,Breña,Mapfre
+547,Sergio García Flores,M,29,1994-12-28,San Borja,SOAT
+548,Miguel Reyes Quispe,M,84,1939-03-01,San Isidro,EsSalud
+549,Alejandra Medina Pérez,F,77,1946-11-26,San Isidro,Pacífico Seguros
+550,Juan Quispe Martínez,M,54,1969-11-12,Los Olivos,EsSalud
+551,Mónica Quispe Rodríguez,F,27,1996-02-20,Villa María del Triunfo,Pacífico Seguros
+552,Eduardo Morales Castillo,M,13,2010-08-19,Villa El Salvador,Rimac Seguros
+553,Ricardo Ccopa Puma,M,14,2009-02-22,Independencia,Pacífico Seguros
+554,Eduardo Martínez Condori,M,14,2009-02-27,San Martín de Porres,SOAT
+555,Fernando Ccopa Chávez,M,26,1997-06-12,Breña,Pacífico Seguros
+556,Patricia Pérez Ramos,F,64,1959-05-16,Lince,Pacífico Seguros
+557,Gabriela García García,F,12,2011-03-17,La Molina,Mapfre
+558,Rosa López Huanca,F,66,1957-11-27,Surco,Pacífico Seguros
+559,Gabriela Ortiz Gómez,F,34,1989-11-19,Los Olivos,SIS
+560,Juan Lazo Gómez,M,47,1976-06-08,Villa El Salvador,Particular
+561,Miguel Lazo Huanca,M,6,2017-10-24,Miraflores,Mapfre
+562,Roberto Reyes Puma,M,57,1966-11-29,Santa Anita,Particular
+563,Daniela Sánchez Martínez,F,52,1971-08-28,Rímac,EsSalud
+564,Mónica Condori Morales,F,84,1939-11-16,Jesús María,SIS
+565,José Martínez Morales,M,76,1947-04-04,San Martín de Porres,Mapfre
+566,Patricia Medina Cruz,F,46,1977-01-27,Santa Anita,SIS
+567,Raúl Cusi Gutiérrez,M,15,2008-12-12,Comas,EsSalud
+568,Fernando Vargas Díaz,M,2,2021-01-19,Villa María del Triunfo,Mapfre
+569,Roberto Chávez Chávez,M,80,1943-02-17,La Molina,EsSalud
+570,Raúl Reyes Castillo,M,83,1940-04-11,Rímac,SOAT
+571,Carlos Vargas Cusi,M,21,2002-05-11,Independencia,Mapfre
+572,Patricia López Huanca,F,63,1960-07-31,San Miguel,SOAT
+573,Ana Chávez Flores,F,71,1952-06-26,El Agustino,EsSalud
+574,Luis Ortiz Ortiz,M,74,1949-05-09,Los Olivos,SIS
+575,Daniela Martínez Gutiérrez,F,84,1939-06-30,Miraflores,SIS
+576,Ana Ramos Ramos,F,1,2022-02-26,Surco,Mapfre
+577,Jessica Ramos Torres,F,84,1939-08-01,Villa El Salvador,EsSalud
+578,Ana Ccopa Flores,F,59,1964-03-04,San Miguel,Rimac Seguros
+579,Fernanda Quispe Ortiz,F,15,2008-02-02,La Molina,Mapfre
+580,Carlos Díaz Reyes,M,82,1941-04-29,Magdalena,Rimac Seguros
+581,Carmen Pérez Puma,F,22,2001-06-11,San Martín de Porres,SOAT
+582,Fernando Medina Torres,M,25,1998-06-20,La Molina,Mapfre
+583,Gonzalo Ccopa Condori,M,25,1998-11-13,Villa María del Triunfo,Particular
+584,Ana Cusi Vargas,F,76,1947-06-04,La Molina,Mapfre
+585,Natalia Chávez Rodríguez,F,64,1959-12-24,Miraflores,Rimac Seguros
+586,Natalia Gutiérrez Cusi,F,66,1957-03-27,Jesús María,Pacífico Seguros
+587,Pedro Martínez Cruz,M,85,1938-08-11,Santa Anita,Rimac Seguros
+588,Sandra Medina Cusi,F,32,1991-07-18,Pueblo Libre,EsSalud
+589,Verónica Condori Rodríguez,F,18,2005-01-12,Comas,Rimac Seguros
+590,Alejandra Lazo Díaz,F,71,1952-10-08,El Agustino,SOAT
+591,Héctor Quispe Gómez,M,45,1978-01-14,Villa El Salvador,SOAT
+592,Víctor Ramos Quispe,M,82,1941-11-23,San Miguel,Pacífico Seguros
+593,Alejandra Gutiérrez Herrera,F,74,1949-06-20,Villa El Salvador,Pacífico Seguros
+594,Sandra Condori García,F,67,1956-07-06,La Molina,SIS
+595,Juan Castillo Pérez,M,26,1997-10-17,Pueblo Libre,Mapfre
+596,Valeria Rodríguez Ccopa,F,8,2015-08-05,Villa María del Triunfo,Mapfre
+597,Manuel Pérez Reyes,M,58,1965-02-04,La Molina,Rimac Seguros
+598,Manuel Cruz Flores,M,66,1957-01-28,Villa María del Triunfo,Particular
+599,Sergio Cruz Morales,M,41,1983-01-05,Carabayllo,SIS
+600,Sofía Medina Lazo,F,57,1966-01-20,Barranco,Pacífico Seguros
+601,Natalia Ramos Mamani,F,78,1945-10-13,Lince,Mapfre
+602,Verónica Sánchez Castillo,F,10,2013-04-15,Jesús María,SOAT
+603,Sergio Pérez Morales,M,36,1987-11-05,Carabayllo,Particular
+604,Daniel Lazo Rivera,M,1,2022-01-03,San Miguel,EsSalud
+605,Juan Rodríguez Cusi,M,42,1981-02-25,Santa Anita,SIS
+606,Mónica Condori Herrera,F,71,1952-01-22,Breña,SIS
+607,Jessica Flores Sánchez,F,67,1956-05-04,Surco,Mapfre
+608,Ricardo Ramos Ramos,M,52,1971-09-23,Surco,Particular
+609,Roberto Díaz Reyes,M,38,1985-02-28,Lince,Mapfre
+610,Alejandra Ccopa Huanca,F,84,1939-02-14,Miraflores,SIS
+611,Verónica Flores Puma,F,83,1940-09-19,Santa Anita,Rimac Seguros
+612,Roberto Cruz Cusi,M,15,2008-04-03,Rímac,Particular
+613,María Cusi Chávez,F,48,1975-04-28,Independencia,Mapfre
+614,Mónica Pérez Gómez,F,84,1939-05-04,Lince,Particular
+615,Miguel Sánchez Huanca,M,69,1954-03-04,Carabayllo,SIS
+616,Diego Castillo Vargas,M,28,1995-11-16,Villa El Salvador,EsSalud
+617,Manuel Ccopa Quispe,M,56,1967-12-10,El Agustino,Mapfre
+618,Carlos Ortiz Quispe,M,43,1980-12-05,San Isidro,SIS
+619,José Condori Rivera,M,72,1951-09-25,Surco,Rimac Seguros
+620,Sandra Cruz Ortiz,F,81,1942-08-13,Rímac,EsSalud
+621,Sergio Castillo Martínez,M,69,1954-03-08,Miraflores,Pacífico Seguros
+622,Daniel Pérez Quispe,M,10,2013-11-10,Breña,Rimac Seguros
+623,Claudia Medina López,F,37,1986-06-22,Los Olivos,EsSalud
+624,Raúl Sánchez Ramos,M,29,1994-06-22,San Borja,Pacífico Seguros
+625,Rosa Gómez Castillo,F,83,1940-04-13,Breña,SIS
+626,Miguel Pérez García,M,74,1949-04-19,Santa Anita,EsSalud
+627,Eduardo Torres Mamani,M,45,1978-02-16,Lince,EsSalud
+628,José Sánchez Flores,M,79,1944-11-23,Pueblo Libre,SOAT
+629,Daniel Lazo Pérez,M,71,1952-04-12,Los Olivos,Pacífico Seguros
+630,Eduardo Castillo López,M,33,1990-03-18,La Molina,SOAT
+631,Daniela Reyes Rodríguez,F,84,1939-08-30,Barranco,SIS
+632,Diego Díaz Gutiérrez,M,58,1965-02-12,San Miguel,Rimac Seguros
+633,Natalia Rodríguez Herrera,F,73,1950-08-11,Breña,Mapfre
+634,Patricia García Díaz,F,32,1991-02-15,Barranco,Pacífico Seguros
+635,Valeria Ccopa Reyes,F,18,2005-07-20,Villa El Salvador,Pacífico Seguros
+636,Verónica Ortiz Reyes,F,40,1983-11-17,San Martín de Porres,Rimac Seguros
+637,Héctor López Ccopa,M,36,1987-10-02,San Borja,Rimac Seguros
+638,Lucía Mamani López,F,3,2020-12-17,Independencia,Pacífico Seguros
+639,Natalia Torres Cusi,F,5,2018-03-30,Carabayllo,Particular
+640,Rosa Reyes Cruz,F,29,1994-08-13,Ate,Pacífico Seguros
+641,Gonzalo Chávez Chávez,M,12,2011-04-22,Rímac,Particular
+642,Andrés Lazo Condori,M,79,1944-05-02,Villa El Salvador,SOAT
+643,Gonzalo Sánchez Sánchez,M,73,1950-11-06,Ate,Pacífico Seguros
+644,Fernanda Pérez Flores,F,63,1960-09-03,Barranco,SIS
+645,Gabriela Pérez Castillo,F,27,1996-07-07,Independencia,Mapfre
+646,Mónica Cusi Ortiz,F,6,2017-07-21,San Isidro,Pacífico Seguros
+647,Víctor Vargas Ccopa,M,36,1987-04-07,Pueblo Libre,Rimac Seguros
+648,Sergio Vargas Cruz,M,47,1976-12-04,Ate,Pacífico Seguros
+649,Paola Cusi Flores,F,67,1956-07-25,Rímac,Particular
+650,Mónica Puma Medina,F,1,2022-05-21,Independencia,SOAT
+651,Andrés López Chávez,M,83,1940-11-06,Pueblo Libre,SOAT
+652,José Reyes Medina,M,16,2007-06-07,Villa El Salvador,SOAT
+653,Carmen Gutiérrez Castillo,F,62,1961-03-20,San Martín de Porres,SOAT
+654,Ricardo García Flores,M,6,2017-03-05,San Borja,Rimac Seguros
+655,Pedro Vargas Chávez,M,6,2017-12-05,Ate,SOAT
+656,Fernando Cusi Sánchez,M,67,1956-04-04,Rímac,Rimac Seguros
+657,Eduardo López Torres,M,58,1965-05-14,Santa Anita,EsSalud
+658,Andrés Ccopa Morales,M,77,1946-03-28,San Borja,Mapfre
+659,Héctor Castillo Chávez,M,34,1989-01-23,Jesús María,Pacífico Seguros
+660,Verónica Medina Herrera,F,9,2014-06-20,Barranco,EsSalud
+661,Miguel García Torres,M,67,1956-06-17,Independencia,Pacífico Seguros
+662,Héctor Martínez Sánchez,M,61,1962-12-28,Santa Anita,Rimac Seguros
+663,Luis Gutiérrez Castillo,M,17,2007-01-05,Santa Anita,Rimac Seguros
+664,Jessica Morales Reyes,F,6,2017-05-28,Villa María del Triunfo,Rimac Seguros
+665,Raúl Condori Huanca,M,49,1974-01-22,Breña,Rimac Seguros
+666,Ricardo Rodríguez Rivera,M,62,1961-12-05,Barranco,Mapfre
+667,Gloria Puma Ramos,F,53,1971-01-12,Pueblo Libre,SOAT
+668,Daniel Chávez Martínez,M,67,1956-02-17,Miraflores,EsSalud
+669,Roberto Morales Reyes,M,14,2009-02-05,San Borja,EsSalud
+670,Valeria Lazo Ramos,F,55,1968-03-07,Ate,Particular
+671,Paola Huanca Torres,F,53,1970-04-04,Carabayllo,Mapfre
+672,Patricia Reyes Ramos,F,72,1951-08-15,San Martín de Porres,Particular
+673,Paola Mamani Rodríguez,F,85,1938-09-27,La Molina,Pacífico Seguros
+674,Patricia Martínez Torres,F,66,1957-07-28,Rímac,Mapfre
+675,José Cruz Vargas,M,1,2022-10-19,Surco,Mapfre
+676,Gloria Morales López,F,9,2014-06-28,Pueblo Libre,SOAT
+677,Héctor Pérez Mamani,M,50,1973-02-12,Rímac,Rimac Seguros
+678,Gloria Pérez Huanca,F,23,2000-05-27,El Agustino,EsSalud
+679,Diego Lazo Castillo,M,67,1956-12-31,Magdalena,SOAT
+680,Héctor Sánchez Castillo,M,5,2018-02-01,Breña,SOAT
+681,José López Rivera,M,52,1971-06-26,Breña,Pacífico Seguros
+682,Natalia Torres Chávez,F,2,2021-11-16,Villa María del Triunfo,SIS
+683,Alejandra Cusi Herrera,F,45,1978-08-24,Breña,Mapfre
+684,Héctor Torres Ortiz,M,52,1971-09-03,Ate,SIS
+685,Ricardo Chávez Martínez,M,72,1951-08-22,Surco,Rimac Seguros
+686,Carmen Condori Chávez,F,33,1990-03-21,Carabayllo,Mapfre
+687,Verónica Cruz Herrera,F,62,1961-07-27,Barranco,Mapfre
+688,Verónica Puma Herrera,F,4,2019-08-23,San Martín de Porres,SIS
+689,Sergio Vargas Condori,M,29,1994-09-13,Villa El Salvador,Pacífico Seguros
+690,Sandra Reyes Chávez,F,69,1954-09-06,Miraflores,Pacífico Seguros
+691,Eduardo López Cruz,M,44,1979-10-13,Surco,Rimac Seguros
+692,Daniela Reyes Torres,F,74,1949-02-04,Pueblo Libre,SOAT
+693,Raúl Mamani Torres,M,31,1992-08-26,Barranco,Mapfre
+694,Andrés Torres Ccopa,M,32,1991-10-22,Santa Anita,Particular
+695,Miguel Cusi López,M,85,1939-01-19,San Martín de Porres,Rimac Seguros
+696,Raúl Reyes Medina,M,41,1982-08-24,San Martín de Porres,Rimac Seguros
+697,Patricia Huanca Cusi,F,66,1957-09-26,Pueblo Libre,EsSalud
+698,Juan Chávez Condori,M,55,1968-12-29,San Martín de Porres,Rimac Seguros
+699,Paola Lazo Castillo,F,23,2000-01-15,Los Olivos,SIS
+700,Daniela Quispe García,F,2,2021-06-21,Villa El Salvador,SOAT
+701,Roberto Reyes Medina,M,34,1989-08-28,Jesús María,Rimac Seguros
+702,Fernando Gutiérrez Medina,M,44,1979-05-02,Breña,SOAT
+703,Sofía Morales Quispe,F,48,1975-06-22,Breña,Mapfre
+704,Verónica Sánchez Herrera,F,17,2006-09-10,Ate,Pacífico Seguros
+705,Fernando Condori Flores,M,72,1951-07-08,Comas,Mapfre
+706,Pedro Condori Mamani,M,20,2004-01-02,San Martín de Porres,Mapfre
+707,Ricardo Gutiérrez Rodríguez,M,81,1942-08-13,Independencia,Rimac Seguros
+708,Claudia Rivera Ramos,F,73,1950-11-30,San Isidro,EsSalud
+709,Juan Torres Ccopa,M,33,1990-02-21,San Martín de Porres,Mapfre
+710,Gonzalo Mamani Díaz,M,34,1989-03-29,Breña,Particular
+711,Fernanda García Morales,F,16,2007-01-23,Breña,Mapfre
+712,Daniel Herrera Vargas,M,84,1939-08-30,Carabayllo,SOAT
+713,Daniela Castillo Chávez,F,63,1960-07-05,Los Olivos,SIS
+714,Verónica Vargas Rodríguez,F,22,2001-07-18,El Agustino,Mapfre
+715,Gloria Herrera Cruz,F,10,2013-07-12,Surco,SOAT
+716,Roberto Díaz Vargas,M,38,1985-03-07,Villa María del Triunfo,Particular
+717,Valeria Puma Ortiz,F,47,1976-05-27,Ate,Rimac Seguros
+718,Patricia Sánchez Lazo,F,3,2020-09-03,San Borja,Pacífico Seguros
+719,Lucía Torres Sánchez,F,51,1972-12-12,La Molina,SIS
+720,Alejandra Pérez García,F,51,1972-12-02,Independencia,Mapfre
+721,Fernando Medina Rodríguez,M,11,2012-07-29,El Agustino,EsSalud
+722,Andrés Mamani Gómez,M,57,1966-11-09,El Agustino,SOAT
+723,Carlos Pérez Castillo,M,46,1977-05-14,San Miguel,Mapfre
+724,Alejandra Cusi Rivera,F,71,1952-01-27,Los Olivos,SOAT
+725,Daniel Medina Ortiz,M,81,1942-06-13,El Agustino,Rimac Seguros
+726,Fernanda Gutiérrez Ramos,F,30,1993-08-04,Surco,EsSalud
+727,Sandra Rivera Rodríguez,F,39,1984-04-18,Miraflores,SIS
+728,Alejandro Gómez Gutiérrez,M,69,1954-05-12,Miraflores,Pacífico Seguros
+729,Claudia García Huanca,F,56,1967-09-19,Magdalena,Rimac Seguros
+730,Manuel Reyes Torres,M,53,1970-06-26,Carabayllo,EsSalud
+731,José Quispe Mamani,M,83,1940-07-12,Rímac,Mapfre
+732,Fernando López Morales,M,81,1942-03-14,Barranco,Rimac Seguros
+733,Claudia Vargas Mamani,F,69,1954-10-14,Pueblo Libre,EsSalud
+734,José Rodríguez Gómez,M,15,2008-02-23,El Agustino,EsSalud
+735,Valeria Quispe Medina,F,63,1961-01-07,Lince,Particular
+736,Juan Ramos García,M,24,1999-08-23,La Molina,Particular
+737,Gonzalo Mamani García,M,30,1994-01-01,Surco,SOAT
+738,Sofía Díaz Morales,F,40,1983-05-19,San Martín de Porres,Particular
+739,Roberto López Ccopa,M,19,2004-06-19,San Isidro,Particular
+740,Manuel Gutiérrez Sánchez,M,25,1998-06-26,Pueblo Libre,Mapfre
+741,Miguel Huanca Quispe,M,32,1991-05-28,Rímac,Mapfre
+742,Juan Torres Ortiz,M,13,2010-09-20,Independencia,Pacífico Seguros
+743,Paola Castillo Gómez,F,42,1981-12-21,Jesús María,Pacífico Seguros
+744,Fernando Gutiérrez Vargas,M,39,1984-12-15,Lince,Particular
+745,Miguel Flores Vargas,M,56,1967-10-22,San Miguel,SIS
+746,Natalia Martínez Cruz,F,32,1991-03-18,Miraflores,SIS
+747,Gloria Rodríguez Reyes,F,12,2011-04-24,Barranco,SOAT
+748,Héctor Díaz Cusi,M,81,1942-07-23,San Isidro,SIS
+749,Manuel Condori Martínez,M,17,2006-07-27,San Martín de Porres,SOAT
+750,Verónica Mamani Torres,F,3,2020-07-02,Villa María del Triunfo,EsSalud
+751,Fernando Puma Pérez,M,63,1960-04-05,Villa María del Triunfo,EsSalud
+752,Alejandra Quispe Gutiérrez,F,25,1998-04-04,Ate,SOAT
+753,Daniela Mamani Ortiz,F,36,1987-04-02,Santa Anita,Mapfre
+754,Luis Chávez Rodríguez,M,58,1965-09-03,Magdalena,Mapfre
+755,Verónica García Huanca,F,82,1941-10-19,Independencia,EsSalud
+756,Héctor Lazo Reyes,M,80,1943-12-20,Barranco,Particular
+757,Sofía Chávez Castillo,F,64,1959-03-10,Carabayllo,SOAT
+758,Daniela Morales Vargas,F,42,1981-04-19,La Molina,SIS
+759,Juan Ccopa Rodríguez,M,23,2000-11-13,San Isidro,SOAT
+760,Sofía Martínez Pérez,F,74,1949-07-05,El Agustino,Mapfre
+761,Jessica Medina Quispe,F,76,1947-07-17,Pueblo Libre,SIS
+762,Héctor Quispe López,M,2,2021-04-25,Lince,Pacífico Seguros
+763,Gonzalo Condori Vargas,M,8,2015-06-05,Breña,Rimac Seguros
+764,Ana Ccopa Medina,F,35,1988-12-04,Independencia,SIS
+765,Lucía Torres Chávez,F,13,2010-09-08,La Molina,Pacífico Seguros
+766,Sofía Torres Chávez,F,85,1938-03-08,Barranco,Rimac Seguros
+767,Manuel Mamani Ramos,M,54,1969-02-22,La Molina,Mapfre
+768,Verónica Quispe Castillo,F,55,1968-10-14,La Molina,SOAT
+769,Jessica Díaz Castillo,F,21,2002-05-25,Carabayllo,Rimac Seguros
+770,Daniela Ramos Díaz,F,48,1975-02-23,Comas,Mapfre
+771,Daniela Medina Flores,F,73,1950-07-11,Carabayllo,SOAT
+772,Fernanda Ortiz Ortiz,F,51,1972-12-27,Miraflores,Pacífico Seguros
+773,Gloria García Chávez,F,18,2005-08-05,Magdalena,SIS
+774,Diego Lazo Díaz,M,3,2020-08-13,Villa María del Triunfo,Mapfre
+775,Miguel Pérez Ortiz,M,46,1977-08-30,San Borja,SOAT
+776,Natalia Flores Flores,F,33,1990-03-23,Magdalena,SIS
+777,Natalia Cusi Torres,F,10,2013-05-01,San Miguel,Mapfre
+778,Raúl Ccopa Puma,M,74,1949-02-25,La Molina,Rimac Seguros
+779,Ana Mamani Condori,F,74,1949-12-22,Rímac,SIS
+780,Fernanda Puma Ccopa,F,56,1967-11-15,Comas,Mapfre
+781,Héctor Cusi García,M,82,1941-12-25,El Agustino,EsSalud
+782,Jessica Pérez Díaz,F,70,1953-08-04,Ate,SOAT
+783,Pedro Pérez Castillo,M,51,1972-03-15,Los Olivos,Mapfre
+784,Andrés Morales Gómez,M,51,1972-07-25,San Borja,SOAT
+785,Raúl Herrera Mamani,M,7,2016-08-21,Carabayllo,EsSalud
+786,Sergio Chávez Morales,M,17,2006-03-25,San Borja,EsSalud
+787,Raúl Cruz Vargas,M,74,1949-03-10,Lince,Rimac Seguros
+788,Andrés López Rivera,M,56,1967-03-27,San Miguel,Pacífico Seguros
+789,Miguel Castillo Morales,M,55,1968-10-09,Breña,Particular
+790,Fernanda Medina Vargas,F,4,2019-07-07,Magdalena,SOAT
+791,Gloria Rodríguez Ortiz,F,6,2017-01-17,Barranco,SOAT
+792,Rosa Huanca Mamani,F,11,2012-12-07,La Molina,Pacífico Seguros
+793,Héctor Cusi Rodríguez,M,37,1986-01-20,Miraflores,Particular
+794,Eduardo Ortiz Gutiérrez,M,3,2020-04-01,San Miguel,SOAT
+795,Diego Ramos Chávez,M,34,1989-02-25,Carabayllo,EsSalud
+796,Carlos Cruz Herrera,M,85,1938-09-14,Independencia,SIS
+797,Juan Gómez Torres,M,80,1943-05-28,Pueblo Libre,SIS
+798,Luis Cruz Castillo,M,35,1988-02-07,Villa El Salvador,Mapfre
+799,Carmen García Gómez,F,84,1939-07-12,Rímac,SOAT
+800,Roberto Gutiérrez Lazo,M,77,1946-10-17,Carabayllo,SIS
+801,Víctor Ortiz Ramos,M,3,2020-04-05,San Isidro,SOAT
+802,Daniela Gutiérrez Cruz,F,21,2002-01-21,Miraflores,Particular
+803,Fernanda Vargas Gómez,F,31,1992-12-08,Independencia,Particular
+804,Paola Puma Ccopa,F,4,2019-09-09,Carabayllo,Particular
+805,Roberto Puma Cruz,M,85,1938-07-11,San Borja,SIS
+806,Ricardo Flores Herrera,M,20,2003-03-03,Comas,Particular
+807,Verónica Ramos Rodríguez,F,27,1996-03-16,El Agustino,SOAT
+808,Pedro Gómez Quispe,M,68,1955-11-05,San Borja,EsSalud
+809,Roberto López Ramos,M,69,1954-08-09,La Molina,SOAT
+810,Carlos Huanca Díaz,M,53,1970-06-02,Comas,Particular
+811,Rosa Huanca Torres,F,14,2009-12-22,San Borja,SOAT
+812,Gloria Herrera Medina,F,30,1993-09-12,Santa Anita,SOAT
+813,Alejandro López Quispe,M,62,1961-03-13,San Borja,Rimac Seguros
+814,Fernanda Sánchez Lazo,F,50,1973-11-04,San Martín de Porres,EsSalud
+815,Diego Flores Pérez,M,53,1970-06-17,Miraflores,Particular
+816,Diego Huanca Torres,M,9,2014-02-22,Jesús María,EsSalud
+817,Daniela Lazo Ortiz,F,32,1991-12-19,Comas,EsSalud
+818,Daniela Cruz Medina,F,74,1949-04-26,Santa Anita,Rimac Seguros
+819,Víctor Martínez Ortiz,M,59,1964-04-25,San Isidro,SOAT
+820,Ana Ramos Cruz,F,67,1956-10-12,El Agustino,SIS
+821,Verónica Cruz Puma,F,39,1984-10-17,Magdalena,EsSalud
+822,Claudia Medina Cusi,F,7,2016-10-22,Villa María del Triunfo,Rimac Seguros
+823,Verónica López Mamani,F,65,1958-03-24,La Molina,SOAT
+824,Sergio Morales Díaz,M,58,1965-05-28,Miraflores,SOAT
+825,Gonzalo López Rivera,M,42,1981-01-12,Villa María del Triunfo,Pacífico Seguros
+826,Miguel López Martínez,M,58,1965-12-03,El Agustino,Particular
+827,Jessica Medina Sánchez,F,49,1974-12-22,Carabayllo,EsSalud
+828,Roberto Herrera Lazo,M,85,1938-11-09,San Borja,SOAT
+829,Juan Morales Gómez,M,40,1983-02-25,Los Olivos,Particular
+830,Miguel Puma Rodríguez,M,26,1997-08-31,Miraflores,Rimac Seguros
+831,Gonzalo Gutiérrez Lazo,M,64,1960-01-15,Carabayllo,Mapfre
+832,Gabriela Torres Herrera,F,85,1938-06-27,San Martín de Porres,EsSalud
+833,Lucía Medina Medina,F,1,2022-08-12,Barranco,Rimac Seguros
+834,Juan Sánchez Rodríguez,M,8,2015-12-16,El Agustino,Particular
+835,Juan Castillo Herrera,M,78,1945-12-07,Magdalena,Particular
+836,Miguel Morales Sánchez,M,21,2002-02-28,Villa El Salvador,Particular
+837,Gonzalo Mamani Herrera,M,47,1976-08-12,San Isidro,SIS
+838,Fernanda Puma Cruz,F,9,2014-03-28,Comas,Mapfre
+839,Eduardo Gutiérrez Rodríguez,M,16,2007-08-18,Villa María del Triunfo,Mapfre
+840,Jessica Morales Chávez,F,27,1996-02-29,Villa María del Triunfo,SOAT
+841,Miguel Herrera Mamani,M,81,1942-05-19,Independencia,SIS
+842,Sandra Medina Lazo,F,41,1982-03-23,Pueblo Libre,Rimac Seguros
+843,Rosa Medina Herrera,F,64,1959-02-28,Independencia,Pacífico Seguros
+844,Mónica Condori Sánchez,F,79,1944-08-25,Barranco,Pacífico Seguros
+845,Carlos Martínez García,M,60,1963-11-17,El Agustino,Mapfre
+846,Héctor Morales Morales,M,6,2017-03-22,San Miguel,Particular
+847,Carlos Vargas Torres,M,37,1986-12-07,Pueblo Libre,Mapfre
+848,Claudia Chávez Ramos,F,42,1981-01-25,Miraflores,SIS
+849,Daniela Cruz Mamani,F,73,1950-10-22,Santa Anita,SIS
+850,Roberto Ccopa Díaz,M,62,1961-12-29,San Martín de Porres,Mapfre
+851,Raúl Rodríguez Vargas,M,59,1964-05-24,Carabayllo,Particular
+852,Ana Ccopa Chávez,F,39,1984-01-29,Ate,Pacífico Seguros
+853,Alejandra Ramos García,F,27,1996-07-22,Ate,Pacífico Seguros
+854,Lucía Rodríguez Rivera,F,4,2019-02-16,San Miguel,EsSalud
+855,Daniel Medina Cruz,M,24,1999-08-03,Santa Anita,SIS
+856,Ana Rivera Morales,F,12,2011-06-28,San Martín de Porres,SOAT
+857,Claudia Torres Chávez,F,39,1984-07-03,Jesús María,SIS
+858,Diego Cusi López,M,57,1966-05-13,Independencia,SIS
+859,Diego Díaz Cusi,M,62,1961-08-02,Independencia,Particular
+860,Miguel Ccopa Chávez,M,17,2006-12-18,Lince,Pacífico Seguros
+861,Paola Quispe Lazo,F,67,1956-08-11,La Molina,SIS
+862,Héctor Lazo López,M,43,1980-11-20,Los Olivos,SIS
+863,María Herrera Huanca,F,40,1983-07-31,El Agustino,SOAT
+864,Diego Gómez Rivera,M,69,1954-06-07,San Miguel,Mapfre
+865,Fernando Rodríguez Sánchez,M,36,1987-02-26,La Molina,SIS
+866,Diego Ramos Reyes,M,71,1952-11-07,San Miguel,Particular
+867,Natalia Flores Sánchez,F,10,2013-07-14,Magdalena,Rimac Seguros
+868,Ana Rodríguez García,F,61,1962-11-23,Villa El Salvador,SIS
+869,Ana López Morales,F,51,1972-03-14,Jesús María,Pacífico Seguros
+870,Gloria Reyes Gómez,F,43,1980-02-03,Lince,Pacífico Seguros
+871,Gonzalo Herrera Rodríguez,M,12,2011-11-16,Villa María del Triunfo,EsSalud
+872,Claudia Castillo Vargas,F,60,1963-09-24,San Martín de Porres,SOAT
+873,Héctor Rivera Cusi,M,47,1976-01-20,Rímac,SOAT
+874,Daniela Ortiz Gutiérrez,F,4,2019-11-06,Surco,EsSalud
+875,Mónica Ortiz Lazo,F,22,2001-07-12,Magdalena,Mapfre
+876,Víctor Martínez Cruz,M,14,2009-02-06,San Miguel,Rimac Seguros
+877,Eduardo Ramos Ortiz,M,52,1971-09-14,Ate,EsSalud
+878,Manuel Sánchez Gutiérrez,M,50,1973-09-29,Surco,Particular
+879,Sandra Herrera Condori,F,44,1979-09-14,Carabayllo,Pacífico Seguros
+880,Luis Mamani Cusi,M,74,1949-03-22,San Martín de Porres,SIS
+881,Daniela Ramos Martínez,F,57,1966-06-22,Jesús María,Particular
+882,Héctor Martínez Castillo,M,77,1946-05-12,Rímac,Particular
+883,Luis Torres Ccopa,M,18,2005-02-14,Ate,Mapfre
+884,Pedro Castillo Rodríguez,M,58,1965-06-30,Carabayllo,Particular
+885,Sofía Torres Castillo,F,41,1982-01-29,Magdalena,Rimac Seguros
+886,Sandra Quispe Cusi,F,45,1979-01-08,Surco,Rimac Seguros
+887,Rosa Lazo Gómez,F,8,2015-12-07,Breña,Rimac Seguros
+888,Manuel Ccopa Reyes,M,15,2008-12-20,Magdalena,Mapfre
+889,Ricardo Quispe Herrera,M,51,1972-01-15,El Agustino,Particular
+890,Paola Cruz Morales,F,70,1953-10-22,Lince,Pacífico Seguros
+891,Rosa Torres Ramos,F,50,1973-06-14,Breña,Mapfre
+892,Eduardo Lazo Castillo,M,17,2006-11-30,San Borja,SIS
+893,Pedro Mamani Puma,M,63,1960-11-08,Villa El Salvador,EsSalud
+894,Pedro Vargas Condori,M,54,1969-01-23,Los Olivos,Mapfre
+895,Gloria Sánchez Ortiz,F,66,1957-06-01,Comas,Rimac Seguros
+896,Fernanda Flores Sánchez,F,55,1968-03-25,Santa Anita,SIS
+897,Gabriela Quispe Chávez,F,35,1988-03-20,Comas,Rimac Seguros
+898,Ana Pérez Herrera,F,62,1961-11-20,Villa María del Triunfo,Particular
+899,Lucía Rodríguez Mamani,F,68,1955-04-29,Pueblo Libre,EsSalud
+900,Víctor Puma Medina,M,12,2011-02-16,Barranco,EsSalud
+901,Manuel Condori Herrera,M,40,1983-07-20,Santa Anita,SIS
+902,Raúl Ortiz Chávez,M,61,1962-07-31,Ate,Pacífico Seguros
+903,Fernanda Condori Gómez,F,38,1985-01-20,Jesús María,SIS
+904,Natalia Rivera Pérez,F,81,1942-10-27,San Martín de Porres,Rimac Seguros
+905,Eduardo Condori Mamani,M,80,1943-05-18,Miraflores,Particular
+906,Pedro Chávez López,M,36,1987-03-01,Pueblo Libre,SOAT
+907,Valeria Lazo Rivera,F,2,2021-10-04,La Molina,Rimac Seguros
+908,Gonzalo Reyes Condori,M,23,2000-01-14,Pueblo Libre,Mapfre
+909,Raúl Sánchez Condori,M,68,1955-12-06,San Isidro,Particular
+910,Héctor Cusi Ccopa,M,20,2003-06-09,San Martín de Porres,Mapfre
+911,Gabriela Castillo Ortiz,F,82,1941-04-01,Jesús María,SOAT
+912,Ana Vargas Rivera,F,15,2008-05-12,San Isidro,SOAT
+913,Mónica Gómez Gutiérrez,F,69,1954-02-03,Barranco,EsSalud
+914,Mónica Rivera Rodríguez,F,68,1955-08-24,Comas,SIS
+915,Paola Castillo Díaz,F,68,1955-11-30,Villa El Salvador,SIS
+916,Sandra Medina Cusi,F,84,1939-09-06,Pueblo Libre,Particular
+917,Carmen Rivera Vargas,F,75,1948-02-09,Rímac,EsSalud
+918,Daniel Huanca Torres,M,67,1956-01-30,San Miguel,Pacífico Seguros
+919,Roberto Ramos García,M,2,2021-06-05,Surco,SIS
+920,Víctor Martínez Castillo,M,58,1965-08-23,Breña,SOAT
+921,Sofía Pérez García,F,80,1943-03-23,Surco,SIS
+922,Héctor Vargas Martínez,M,16,2007-03-02,Surco,Mapfre
+923,Sergio Castillo Huanca,M,83,1940-10-19,Ate,Mapfre
+924,José Rivera Gómez,M,60,1963-02-23,Villa El Salvador,SIS
+925,Valeria Huanca Morales,F,42,1981-12-05,Pueblo Libre,SOAT
+926,Ana Cruz Cruz,F,43,1980-08-29,San Isidro,Particular
+927,Gonzalo López Gutiérrez,M,26,1997-10-08,Santa Anita,EsSalud
+928,Carmen Rodríguez Ramos,F,56,1967-02-20,Lince,Rimac Seguros
+929,Gonzalo Quispe Rivera,M,14,2009-11-29,San Isidro,SIS
+930,Verónica García Puma,F,64,1959-02-24,San Borja,Pacífico Seguros
+931,Juan Castillo Cruz,M,35,1988-07-25,San Borja,Pacífico Seguros
+932,Natalia García Chávez,F,63,1960-06-24,San Martín de Porres,EsSalud
+933,Manuel Flores García,M,50,1973-05-12,Villa María del Triunfo,Mapfre
+934,Daniel Ramos Cusi,M,46,1977-08-10,San Miguel,Pacífico Seguros
+935,Ana Vargas Vargas,F,12,2011-07-14,Breña,Rimac Seguros
+936,Gonzalo Huanca Huanca,M,38,1985-10-12,El Agustino,SOAT
+937,Sergio Castillo Torres,M,39,1984-11-17,Villa María del Triunfo,EsSalud
+938,Mónica López Puma,F,81,1942-10-16,Los Olivos,Pacífico Seguros
+939,Juan Torres García,M,76,1947-07-05,Barranco,EsSalud
+940,Manuel Vargas Gómez,M,64,1959-06-01,Carabayllo,Mapfre
+941,Juan Díaz Pérez,M,44,1979-11-13,San Isidro,EsSalud
+942,Víctor Ortiz Castillo,M,69,1954-03-28,San Borja,Pacífico Seguros
+943,Luis Pérez Mamani,M,19,2004-12-27,San Martín de Porres,Pacífico Seguros
+944,Gloria Pérez Flores,F,84,1939-10-26,San Borja,SIS
+945,Eduardo Ccopa Condori,M,13,2010-10-09,Los Olivos,Rimac Seguros
+946,Miguel Martínez Gutiérrez,M,77,1946-12-19,Santa Anita,SOAT
+947,Ricardo Díaz Condori,M,52,1971-01-29,San Miguel,SIS
+948,Roberto Ccopa Condori,M,28,1995-10-12,San Isidro,Rimac Seguros
+949,Lucía Martínez Rivera,F,19,2004-01-15,Comas,SOAT
+950,Alejandra Sánchez Ortiz,F,32,1991-11-02,Ate,SIS
+951,Héctor Cruz Huanca,M,21,2002-11-26,Miraflores,EsSalud
+952,Carlos Sánchez Cusi,M,12,2011-03-07,Villa María del Triunfo,Pacífico Seguros
+953,Sandra Quispe Condori,F,61,1962-10-03,Villa María del Triunfo,SOAT
+954,Fernando Chávez Ortiz,M,53,1970-03-08,Barranco,SOAT
+955,Héctor Sánchez Quispe,M,64,1959-03-02,Santa Anita,SIS
+956,Fernanda Morales García,F,72,1951-11-20,Barranco,SOAT
+957,Héctor Reyes Lazo,M,70,1953-05-26,Independencia,SOAT
+958,Fernando Pérez Torres,M,15,2008-05-07,San Borja,Pacífico Seguros
+959,Patricia Sánchez Castillo,F,6,2017-06-30,San Isidro,Pacífico Seguros
+960,Sofía Morales Rivera,F,43,1980-05-24,Santa Anita,Mapfre
+961,Miguel Mamani Pérez,M,69,1955-01-04,Jesús María,SOAT
+962,Jessica Martínez López,F,31,1992-03-18,Los Olivos,Rimac Seguros
+963,Sandra Torres Mamani,F,42,1981-11-16,Barranco,Mapfre
+964,Gabriela Martínez Flores,F,53,1970-09-24,Lince,EsSalud
+965,Raúl Herrera Gutiérrez,M,7,2016-09-14,Comas,SOAT
+966,Patricia Cruz Reyes,F,18,2005-09-28,Los Olivos,Pacífico Seguros
+967,Valeria Torres Díaz,F,17,2006-03-20,San Isidro,Pacífico Seguros
+968,Fernando Rodríguez Martínez,M,60,1963-10-21,Los Olivos,EsSalud
+969,Gabriela Puma Gómez,F,78,1945-02-28,Jesús María,Mapfre
+970,Daniel Ramos Lazo,M,30,1993-04-16,Surco,EsSalud
+971,Sofía Herrera Gutiérrez,F,60,1963-06-11,Pueblo Libre,SIS
+972,Andrés Díaz Morales,M,75,1948-11-04,Barranco,Rimac Seguros
+973,Ricardo Pérez Pérez,M,61,1962-06-13,Independencia,SIS
+974,Mónica Condori Condori,F,13,2010-09-03,Los Olivos,EsSalud
+975,Manuel Huanca García,M,53,1970-07-15,Lince,SOAT
+976,Gabriela Vargas López,F,3,2020-07-29,San Martín de Porres,Pacífico Seguros
+977,Gonzalo Lazo Herrera,M,75,1948-05-27,Miraflores,EsSalud
+978,Sergio Sánchez Condori,M,48,1975-01-18,El Agustino,EsSalud
+979,Luis Cruz Puma,M,43,1980-08-13,Independencia,SIS
+980,Valeria Quispe Medina,F,70,1953-10-04,Ate,Mapfre
+981,Héctor Puma Díaz,M,8,2015-07-01,Independencia,Pacífico Seguros
+982,Miguel Cruz Reyes,M,60,1963-07-13,Santa Anita,SIS
+983,Patricia Vargas Ramos,F,9,2014-09-21,Carabayllo,Pacífico Seguros
+984,Roberto Flores Ramos,M,15,2008-03-13,El Agustino,EsSalud
+985,Andrés Díaz Reyes,M,35,1988-06-07,Independencia,Pacífico Seguros
+986,Ana López Reyes,F,45,1978-05-01,Los Olivos,EsSalud
+987,Raúl Quispe Ramos,M,69,1954-03-07,Magdalena,EsSalud
+988,Lucía Torres Puma,F,59,1964-06-29,Surco,SIS
+989,Eduardo López Martínez,M,22,2001-01-15,Pueblo Libre,SIS
+990,Raúl Rodríguez Lazo,M,27,1996-12-27,Independencia,Pacífico Seguros
+991,Sandra Castillo Ramos,F,17,2006-06-04,San Martín de Porres,Particular
+992,María Gómez Torres,F,9,2014-09-07,Miraflores,Mapfre
+993,Sandra Herrera Díaz,F,84,1939-08-08,El Agustino,Mapfre
+994,Natalia Castillo Quispe,F,68,1955-05-29,Carabayllo,EsSalud
+995,Natalia Rodríguez Puma,F,40,1983-08-31,Jesús María,Mapfre
+996,Raúl Reyes Gómez,M,7,2016-08-10,San Borja,Particular
+997,Patricia Medina Cusi,F,21,2002-08-13,Villa María del Triunfo,Rimac Seguros
+998,José Ccopa Quispe,M,20,2003-11-08,Jesús María,SOAT
+999,Roberto Herrera Rodríguez,M,57,1966-10-13,Pueblo Libre,Particular
+1000,Manuel Quispe Pérez,M,41,1982-07-05,Breña,SOAT
+1001,Alejandra Sánchez Ramos,F,39,1984-06-17,La Molina,SIS
+1002,Rosa Ortiz Cusi,F,41,1982-04-07,San Borja,SIS
+1003,Claudia Gutiérrez Puma,F,38,1985-10-27,Ate,Pacífico Seguros
+1004,Daniela Quispe Martínez,F,62,1961-02-03,San Isidro,SOAT
+1005,Eduardo García Cruz,M,80,1943-07-23,Barranco,EsSalud
+1006,Roberto Pérez Medina,M,83,1940-04-27,Lince,Rimac Seguros
+1007,Fernando Torres García,M,11,2012-05-20,Carabayllo,Mapfre
+1008,Víctor Cruz Torres,M,63,1960-03-13,San Miguel,Rimac Seguros
+1009,Alejandro Cruz Rodríguez,M,55,1968-07-08,Breña,EsSalud
+1010,Eduardo Reyes Reyes,M,40,1983-03-30,Los Olivos,Mapfre
+1011,Diego Mamani Puma,M,57,1966-06-03,Comas,Mapfre
+1012,Patricia Condori Mamani,F,55,1968-03-20,Comas,SOAT
+1013,Pedro Torres Gómez,M,61,1962-12-14,Independencia,Particular
+1014,Lucía García Morales,F,82,1941-10-24,Pueblo Libre,EsSalud
+1015,Natalia Huanca Cusi,F,18,2005-06-24,Lince,SOAT
+1016,Alejandra Gutiérrez Pérez,F,39,1984-05-03,Ate,Particular
+1017,Gabriela García Condori,F,1,2022-08-01,San Borja,Particular
+1018,Carmen Vargas Castillo,F,37,1986-05-04,Comas,SOAT
+1019,Carlos Martínez Huanca,M,36,1987-03-10,San Martín de Porres,SIS
+1020,Natalia Gutiérrez Herrera,F,56,1967-01-29,Pueblo Libre,Pacífico Seguros
+1021,Carmen Reyes Chávez,F,74,1949-09-09,Miraflores,Mapfre
+1022,Daniel Pérez Rodríguez,M,41,1982-11-03,Los Olivos,Pacífico Seguros
+1023,Patricia Pérez Rivera,F,47,1976-07-14,Comas,Pacífico Seguros
+1024,Eduardo Gómez Chávez,M,82,1941-10-14,Surco,Rimac Seguros
+1025,Miguel Medina Huanca,M,22,2001-07-29,Carabayllo,Particular
+1026,Valeria Castillo Quispe,F,47,1976-03-22,La Molina,Rimac Seguros
+1027,Rosa García Rodríguez,F,67,1956-05-14,Magdalena,Particular
+1028,Daniela Cusi Cusi,F,21,2002-10-19,La Molina,SOAT
+1029,Diego Condori Puma,M,72,1951-04-25,Santa Anita,Pacífico Seguros
+1030,Ricardo Ortiz Cusi,M,10,2013-10-28,La Molina,Mapfre
+1031,Raúl Reyes Gómez,M,47,1976-05-31,San Borja,Mapfre
+1032,Patricia Quispe Gómez,F,4,2019-10-29,La Molina,SOAT
+1033,Andrés Gómez Rodríguez,M,27,1996-06-04,San Borja,SIS
+1034,Luis García Huanca,M,62,1961-10-08,Comas,SIS
+1035,Juan Condori Castillo,M,66,1957-05-22,Ate,SIS
+1036,Fernando Pérez López,M,39,1984-11-22,Villa El Salvador,SIS
+1037,Héctor Torres Herrera,M,26,1997-07-12,Jesús María,Pacífico Seguros
+1038,Luis Rodríguez Lazo,M,36,1987-07-14,Ate,Particular
+1039,Víctor Huanca Mamani,M,79,1944-04-04,Barranco,Rimac Seguros
+1040,Miguel Ccopa Herrera,M,2,2021-09-25,Independencia,SOAT
+1041,Patricia Puma Huanca,F,69,1954-11-29,Miraflores,Pacífico Seguros
+1042,Víctor Lazo Quispe,M,61,1962-03-21,Breña,Pacífico Seguros
+1043,Gonzalo Castillo Martínez,M,24,1999-06-04,Breña,EsSalud
+1044,Víctor Flores Morales,M,15,2008-05-11,San Miguel,SIS
+1045,Víctor Rodríguez Gutiérrez,M,47,1976-04-02,Villa María del Triunfo,Particular
+1046,Luis Díaz Gutiérrez,M,15,2008-05-16,Rímac,Particular
+1047,Verónica Flores Ramos,F,53,1970-06-09,Magdalena,Mapfre
+1048,Luis Puma Ccopa,M,61,1962-10-17,Villa El Salvador,Particular
+1049,Raúl Castillo Martínez,M,51,1972-02-11,Los Olivos,Rimac Seguros
+1050,Miguel Rodríguez Cruz,M,52,1971-11-23,Villa María del Triunfo,Rimac Seguros
+1051,Luis Reyes Torres,M,44,1979-06-20,Lince,Rimac Seguros
+1052,Andrés Ccopa Morales,M,64,1959-03-26,Pueblo Libre,Mapfre
+1053,Paola Reyes Gutiérrez,F,78,1945-05-04,Rímac,EsSalud
+1054,Rosa Huanca Ortiz,F,14,2009-04-29,La Molina,Particular
+1055,Gabriela Vargas Rodríguez,F,4,2019-12-06,La Molina,Pacífico Seguros
+1056,Raúl Castillo García,M,23,2000-01-25,Rímac,Rimac Seguros
+1057,Rosa Gómez Medina,F,80,1943-12-13,La Molina,Mapfre
+1058,Verónica Torres Gómez,F,85,1938-05-09,San Martín de Porres,EsSalud
+1059,Alejandra Díaz Condori,F,70,1954-01-02,Carabayllo,SIS
+1060,Carmen Cruz Ortiz,F,41,1982-05-21,Rímac,EsSalud
+1061,Juan Sánchez Ramos,M,85,1938-10-30,Magdalena,Pacífico Seguros
+1062,Sandra Rodríguez Gómez,F,50,1973-11-18,San Martín de Porres,Mapfre
+1063,Alejandra Castillo Ramos,F,74,1949-04-07,San Martín de Porres,EsSalud
+1064,Víctor Pérez Cruz,M,34,1989-06-30,San Martín de Porres,Rimac Seguros
+1065,Claudia Díaz Pérez,F,4,2019-10-29,Ate,SIS
+1066,Fernanda Condori Mamani,F,75,1948-03-05,Miraflores,Mapfre
+1067,Paola Martínez Morales,F,45,1978-07-17,Breña,EsSalud
+1068,Andrés Flores Flores,M,83,1940-12-09,Magdalena,Rimac Seguros
+1069,Eduardo Martínez Díaz,M,22,2001-07-24,Miraflores,Rimac Seguros
+1070,Gonzalo Castillo Lazo,M,55,1968-06-13,Ate,Rimac Seguros
+1071,María Quispe Gutiérrez,F,76,1947-07-11,Miraflores,Particular
+1072,Daniela Herrera Martínez,F,63,1960-02-06,La Molina,Pacífico Seguros
+1073,Roberto Gutiérrez Chávez,M,44,1979-08-12,Jesús María,Rimac Seguros
+1074,Sandra Torres Gutiérrez,F,82,1941-04-22,Surco,Mapfre
+1075,Eduardo Rivera Pérez,M,39,1984-09-17,Ate,EsSalud
+1076,Daniel Martínez Herrera,M,44,1979-03-28,Pueblo Libre,SIS
+1077,Sandra Torres Reyes,F,10,2013-08-02,El Agustino,Mapfre
+1078,Sandra Castillo Ramos,F,41,1982-06-20,Lince,EsSalud
+1079,Gloria Chávez Ortiz,F,71,1952-03-03,Jesús María,SIS
+1080,Daniel Gutiérrez Torres,M,85,1938-03-02,Los Olivos,Particular
+1081,Natalia Mamani Vargas,F,8,2015-07-01,Independencia,SOAT
+1082,Rosa Flores Rodríguez,F,39,1984-07-31,Comas,EsSalud
+1083,Diego Lazo Morales,M,35,1988-10-19,Magdalena,Pacífico Seguros
+1084,Gloria Flores Cruz,F,31,1992-10-02,La Molina,SOAT
+1085,Andrés Condori Ccopa,M,40,1983-03-31,Los Olivos,EsSalud
+1086,Sandra Vargas Puma,F,5,2018-08-16,Lince,SOAT
+1087,Carlos Rivera Condori,M,36,1987-10-12,Villa El Salvador,Rimac Seguros
+1088,Raúl Condori García,M,8,2015-03-01,Surco,Particular
+1089,Lucía Puma Morales,F,47,1976-11-27,Villa El Salvador,Pacífico Seguros
+1090,Rosa Flores Martínez,F,74,1949-04-27,Independencia,SIS
+1091,Mónica Puma López,F,31,1992-08-01,Santa Anita,SIS
+1092,Natalia Mamani Cruz,F,31,1992-10-27,Comas,SOAT
+1093,José Torres Rivera,M,57,1966-03-20,Comas,Particular
+1094,Raúl Ramos Reyes,M,15,2008-06-02,San Miguel,Rimac Seguros
+1095,Gabriela Rivera Puma,F,19,2004-07-01,Breña,EsSalud
+1096,María Vargas Puma,F,78,1945-02-15,San Isidro,Mapfre
+1097,Andrés Rivera Ramos,M,50,1973-01-20,Magdalena,Pacífico Seguros
+1098,Carmen Ramos Lazo,F,31,1993-01-04,Los Olivos,EsSalud
+1099,Valeria Gómez López,F,31,1992-10-18,Magdalena,SOAT
+1100,Daniela Puma Condori,F,83,1941-01-04,Comas,Mapfre
+1101,Lucía Ccopa Huanca,F,63,1960-06-19,San Martín de Porres,Pacífico Seguros
+1102,Sandra Puma Cusi,F,13,2010-08-24,Jesús María,Pacífico Seguros
+1103,Alejandro Morales Medina,M,71,1952-01-29,San Miguel,EsSalud
+1104,Juan Vargas Vargas,M,24,1999-02-13,El Agustino,EsSalud
+1105,Carlos Cruz Torres,M,81,1942-04-02,Magdalena,Particular
+1106,Miguel Sánchez Flores,M,67,1956-02-20,Villa María del Triunfo,Mapfre
+1107,Héctor Castillo Morales,M,41,1982-11-04,Los Olivos,EsSalud
+1108,Patricia Castillo Herrera,F,42,1981-11-29,Magdalena,SOAT
+1109,Fernanda Sánchez Cruz,F,49,1975-01-03,Ate,SOAT
+1110,Manuel Vargas Medina,M,81,1942-05-30,Barranco,SIS
+1111,Fernando Quispe Lazo,M,22,2001-02-24,San Isidro,EsSalud
+1112,Gloria Rivera Rodríguez,F,12,2011-03-20,Breña,SOAT
+1113,Carlos Quispe Chávez,M,56,1967-02-05,Los Olivos,Mapfre
+1114,Carmen Flores Quispe,F,27,1996-08-24,Lince,Mapfre
+1115,Mónica Cruz Rodríguez,F,56,1967-09-27,Lince,Rimac Seguros
+1116,Sofía Morales Sánchez,F,53,1970-08-19,San Borja,SIS
+1117,Gabriela Medina Ortiz,F,32,1991-01-24,Breña,Rimac Seguros
+1118,Lucía García Gutiérrez,F,18,2005-06-16,San Miguel,Pacífico Seguros
+1119,Sergio Quispe Morales,M,77,1946-12-03,Pueblo Libre,SIS
+1120,Juan Díaz Cusi,M,31,1992-03-04,San Martín de Porres,Particular
+1121,Carlos Rivera Chávez,M,80,1943-07-03,Rímac,Particular
+1122,Rosa Puma Ramos,F,6,2017-08-22,Ate,SOAT
+1123,Víctor Gutiérrez Cusi,M,44,1979-11-28,Los Olivos,SOAT
+1124,Jessica Morales Rodríguez,F,34,1989-12-18,La Molina,Particular
+1125,Raúl Lazo Ccopa,M,36,1987-08-19,Breña,EsSalud
+1126,Gloria Ccopa Huanca,F,34,1989-05-31,Independencia,Particular
+1127,Roberto Mamani Gutiérrez,M,20,2003-02-04,Carabayllo,Mapfre
+1128,Ana Torres Rodríguez,F,7,2016-12-15,Barranco,SOAT
+1129,Valeria Sánchez Quispe,F,60,1963-05-08,Comas,SIS
+1130,Gonzalo Reyes Quispe,M,72,1951-05-12,San Martín de Porres,EsSalud
+1131,Pedro Martínez Reyes,M,12,2011-08-12,Lince,Mapfre
+1132,José Mamani Chávez,M,35,1988-03-16,Ate,Pacífico Seguros
+1133,Daniel García Chávez,M,74,1949-12-11,Jesús María,EsSalud
+1134,Raúl Castillo Martínez,M,43,1980-01-29,Miraflores,Particular
+1135,Sergio Reyes Herrera,M,14,2009-12-21,San Miguel,SOAT
+1136,Gonzalo Ccopa Quispe,M,85,1938-03-07,San Martín de Porres,EsSalud
+1137,Gloria Castillo García,F,43,1980-02-28,San Isidro,Pacífico Seguros
+1138,Daniela Mamani Mamani,F,73,1950-12-26,San Borja,SOAT
+1139,Daniela Condori Pérez,F,10,2013-06-22,Carabayllo,Rimac Seguros
+1140,Sergio Rivera Sánchez,M,31,1992-12-29,Rímac,SIS
+1141,José Cruz Huanca,M,52,1971-02-14,Magdalena,Pacífico Seguros
+1142,Miguel Gómez Gutiérrez,M,56,1967-03-13,Magdalena,Pacífico Seguros
+1143,Alejandro Castillo Martínez,M,48,1975-05-08,Independencia,SOAT
+1144,Paola Gutiérrez Rivera,F,73,1950-12-04,Santa Anita,EsSalud
+1145,Fernanda Medina Sánchez,F,56,1967-11-29,El Agustino,EsSalud
+1146,Víctor Díaz Ortiz,M,29,1994-10-21,El Agustino,Pacífico Seguros
+1147,Jessica Vargas Vargas,F,68,1955-05-24,Surco,Particular
+1148,Lucía Cusi Condori,F,62,1961-11-12,Magdalena,SOAT
+1149,Gabriela Chávez Morales,F,38,1985-04-03,Ate,SIS
+1150,Juan Chávez Martínez,M,66,1957-11-30,Comas,EsSalud
+1151,Natalia Ccopa Rivera,F,46,1977-12-02,Pueblo Libre,Rimac Seguros
+1152,Miguel Mamani Castillo,M,60,1963-10-15,Jesús María,Mapfre
+1153,Ana López Morales,F,39,1984-05-23,San Miguel,Rimac Seguros
+1154,Gloria Condori Rivera,F,44,1979-10-10,Jesús María,SOAT
+1155,Héctor Rivera Lazo,M,14,2009-12-26,Comas,Rimac Seguros
+1156,Sergio Martínez García,M,22,2001-05-16,El Agustino,EsSalud
+1157,Gloria Mamani Gutiérrez,F,39,1984-03-01,Santa Anita,Mapfre
+1158,Paola Condori Gómez,F,12,2011-12-28,San Borja,SOAT
+1159,Miguel Ccopa García,M,25,1998-05-06,Miraflores,SOAT
+1160,Andrés Morales Ccopa,M,81,1942-12-08,Carabayllo,SOAT
+1161,Verónica Rodríguez Gutiérrez,F,55,1968-10-21,Miraflores,SIS
+1162,Gonzalo Gutiérrez Gutiérrez,M,3,2020-08-30,Los Olivos,Rimac Seguros
+1163,Eduardo Herrera Ccopa,M,51,1973-01-09,San Isidro,Particular
+1164,Ricardo Morales Lazo,M,64,1959-04-09,Ate,Rimac Seguros
+1165,Ana Gutiérrez Cruz,F,63,1960-03-09,Independencia,Rimac Seguros
+1166,Gabriela Quispe Pérez,F,68,1955-03-29,Miraflores,EsSalud
+1167,Alejandra López Rivera,F,83,1940-11-23,Comas,EsSalud
+1168,Gloria Vargas Reyes,F,58,1966-01-05,Villa María del Triunfo,EsSalud
+1169,Eduardo Mamani Torres,M,61,1962-09-20,Breña,EsSalud
+1170,Daniel Cusi Castillo,M,44,1979-02-10,Santa Anita,Mapfre
+1171,Rosa Puma Gómez,F,50,1973-02-03,Comas,Mapfre
+1172,Mónica Condori Lazo,F,21,2002-08-15,Santa Anita,SOAT
+1173,Raúl Rodríguez Sánchez,M,26,1997-05-01,Jesús María,Rimac Seguros
+1174,Ricardo Gutiérrez Gómez,M,31,1992-12-15,Lince,Rimac Seguros
+1175,Alejandro Puma Rivera,M,46,1977-10-15,Villa El Salvador,SOAT
+1176,Luis Díaz Morales,M,15,2008-11-04,Santa Anita,SOAT
+1177,Raúl Rivera Díaz,M,46,1977-04-02,San Isidro,Mapfre
+1178,Rosa Lazo Quispe,F,66,1957-11-25,Santa Anita,Pacífico Seguros
+1179,Gonzalo Condori Ortiz,M,15,2008-02-27,La Molina,Mapfre
+1180,Manuel Pérez Chávez,M,14,2009-11-05,Jesús María,Pacífico Seguros
+1181,Alejandro Sánchez Mamani,M,38,1985-04-26,Villa María del Triunfo,EsSalud
+1182,Carmen Rodríguez Vargas,F,47,1976-11-03,San Miguel,Mapfre
+1183,Diego Ortiz Morales,M,1,2022-05-04,Barranco,Mapfre
+1184,Claudia Chávez Sánchez,F,11,2012-06-05,Pueblo Libre,Particular
+1185,Gabriela Rodríguez Huanca,F,68,1955-09-24,Comas,Mapfre
+1186,Ricardo Morales Cusi,M,53,1970-04-25,Los Olivos,Mapfre
+1187,María Ortiz Rodríguez,F,2,2021-04-12,Villa María del Triunfo,Mapfre
+1188,Luis Díaz Díaz,M,52,1971-12-14,Jesús María,EsSalud
+1189,Ana Castillo Cusi,F,83,1940-12-23,San Borja,Rimac Seguros
+1190,Sandra Cruz Puma,F,71,1952-08-11,Magdalena,Pacífico Seguros
+1191,María Ccopa Rivera,F,68,1955-01-25,Santa Anita,SOAT
+1192,Verónica Vargas Torres,F,70,1953-03-08,Santa Anita,Mapfre
+1193,Fernanda Puma Condori,F,84,1939-10-13,Rímac,Mapfre
+1194,Lucía Pérez Ramos,F,43,1980-11-08,Rímac,Pacífico Seguros
+1195,Sofía López Chávez,F,71,1952-07-28,Magdalena,Rimac Seguros
+1196,Carlos García Puma,M,70,1953-09-17,Ate,Particular
+1197,Sandra Chávez Martínez,F,8,2015-02-16,Breña,Particular
+1198,Carmen Pérez Huanca,F,84,1939-08-23,La Molina,EsSalud
+1199,Gonzalo Díaz Flores,M,75,1948-03-04,Ate,Pacífico Seguros
+1200,Alejandro Gómez Gómez,M,74,1949-07-10,Villa El Salvador,SOAT
+1201,Miguel Díaz Chávez,M,75,1948-07-19,Lince,Mapfre
+1202,Carmen Rodríguez Quispe,F,55,1968-11-28,Comas,SIS
+1203,Ricardo Puma Rodríguez,M,61,1962-12-08,Lince,EsSalud
+1204,Jessica Cruz Herrera,F,72,1951-07-01,Independencia,Mapfre
+1205,Natalia Gutiérrez Vargas,F,55,1968-05-09,Los Olivos,Pacífico Seguros
+1206,Patricia Rodríguez Chávez,F,17,2006-05-16,San Martín de Porres,Pacífico Seguros
+1207,Víctor Lazo Chávez,M,16,2007-05-17,Villa María del Triunfo,SOAT
+1208,Ana Mamani Sánchez,F,72,1951-03-17,Breña,SIS
+1209,Carmen Martínez Reyes,F,74,1949-04-27,Magdalena,SIS
+1210,Miguel Reyes Gómez,M,48,1975-05-10,Magdalena,Particular
+1211,Pedro Rodríguez Condori,M,76,1947-08-17,Comas,SIS
+1212,Sofía Sánchez Ccopa,F,63,1960-04-11,Miraflores,SIS
+1213,Lucía Lazo Pérez,F,54,1969-08-09,San Martín de Porres,Rimac Seguros
+1214,Daniela Condori Cruz,F,61,1962-11-07,Santa Anita,SOAT
+1215,Verónica Castillo Ortiz,F,20,2003-02-21,San Miguel,SIS
+1216,Paola Flores Puma,F,51,1972-12-21,San Miguel,Rimac Seguros
+1217,Valeria Vargas López,F,22,2001-03-20,Villa María del Triunfo,SIS
+1218,Alejandra Vargas Martínez,F,83,1940-10-15,Carabayllo,SIS
+1219,Daniel Chávez Torres,M,61,1962-11-16,Independencia,SIS
+1220,Carlos Rivera Condori,M,27,1996-01-12,Barranco,Mapfre
+1221,Lucía Condori Ramos,F,78,1945-03-25,San Miguel,EsSalud
+1222,Raúl Lazo Cusi,M,3,2020-10-01,San Miguel,EsSalud
+1223,María Lazo Chávez,F,41,1982-11-26,Rímac,Particular
+1224,Miguel Ramos Sánchez,M,37,1986-09-02,San Borja,SOAT
+1225,Pedro Gómez Morales,M,22,2001-07-24,San Isidro,Rimac Seguros
+1226,Carlos Quispe Pérez,M,39,1984-07-31,Rímac,SIS
+1227,Ricardo Puma Díaz,M,34,1989-11-09,Rímac,Mapfre
+1228,Diego Flores Huanca,M,77,1946-05-13,Ate,SOAT
+1229,Carmen Rivera Pérez,F,41,1982-06-17,Los Olivos,Rimac Seguros
+1230,Raúl García Morales,M,82,1941-09-06,Barranco,SIS
+1231,Andrés Huanca Ramos,M,84,1939-04-07,San Borja,Particular
+1232,Verónica López Lazo,F,82,1941-11-10,Independencia,SOAT
+1233,Alejandra Sánchez Condori,F,32,1991-03-31,Carabayllo,EsSalud
+1234,Ana García Ccopa,F,60,1963-02-16,Santa Anita,Particular
+1235,Carlos Pérez Cusi,M,62,1961-09-10,Pueblo Libre,Rimac Seguros
+1236,Fernanda Ccopa Vargas,F,28,1995-04-22,Ate,Mapfre
+1237,Ana Sánchez Mamani,F,69,1954-08-18,Ate,SIS
+1238,Sergio Quispe Martínez,M,18,2005-05-29,Carabayllo,Particular
+1239,Héctor Chávez Condori,M,41,1982-02-20,Villa El Salvador,Particular
+1240,Verónica Rivera Flores,F,85,1938-10-07,San Miguel,Particular
+1241,Gloria Díaz García,F,18,2005-02-28,El Agustino,SIS
+1242,María Puma García,F,23,2000-01-16,Comas,Rimac Seguros
+1243,Paola Ramos López,F,84,1939-04-22,El Agustino,SIS
+1244,Gonzalo Castillo Martínez,M,46,1977-03-11,Rímac,Mapfre
+1245,Paola Sánchez Ccopa,F,2,2021-06-26,La Molina,EsSalud
+1246,Gonzalo García Flores,M,3,2020-01-04,Pueblo Libre,Pacífico Seguros
+1247,Sofía López Ccopa,F,79,1944-09-29,El Agustino,Particular
+1248,Raúl Reyes Pérez,M,36,1987-01-14,San Martín de Porres,Pacífico Seguros
+1249,Carlos Torres Ccopa,M,82,1941-09-01,Rímac,SIS
+1250,Patricia Ramos Torres,F,85,1938-02-07,Ate,Pacífico Seguros
+1251,Luis Herrera Rodríguez,M,9,2014-03-18,San Borja,Particular
+1252,Víctor Mamani Condori,M,36,1987-01-28,Lince,Mapfre
+1253,Manuel Medina Rivera,M,72,1951-06-15,Los Olivos,SIS
+1254,Roberto Morales Lazo,M,53,1970-01-31,Pueblo Libre,SIS
+1255,Mónica Reyes Chávez,F,6,2017-08-13,Barranco,SIS
+1256,Alejandra Ortiz Díaz,F,1,2022-07-14,Rímac,SOAT
+1257,Daniel Condori García,M,29,1994-12-01,Villa María del Triunfo,EsSalud
+1258,Diego Sánchez Díaz,M,40,1983-02-25,Surco,Pacífico Seguros
+1259,Carlos Gutiérrez Morales,M,4,2019-02-16,Ate,Mapfre
+1260,Valeria Flores Martínez,F,61,1962-12-20,Barranco,Particular
+1261,Jessica Condori Flores,F,10,2013-05-24,Santa Anita,Rimac Seguros
+1262,Gonzalo Herrera Martínez,M,11,2012-06-24,San Isidro,SIS
+1263,Lucía Condori Rodríguez,F,8,2015-08-02,Los Olivos,SIS
+1264,Lucía Martínez Castillo,F,8,2015-08-06,Carabayllo,SIS
+1265,Paola Martínez Medina,F,53,1970-03-14,Barranco,Mapfre
+1266,Gonzalo Cruz Ortiz,M,55,1968-11-24,Santa Anita,Rimac Seguros
+1267,María Ortiz Chávez,F,43,1980-11-17,Ate,SOAT
+1268,Carlos Medina Quispe,M,9,2014-09-26,Ate,Mapfre
+1269,Víctor Rivera Reyes,M,54,1969-03-03,San Martín de Porres,Pacífico Seguros
+1270,Patricia Flores Rodríguez,F,6,2017-07-27,San Isidro,SOAT
+1271,Jessica Vargas Huanca,F,46,1977-04-10,Magdalena,Rimac Seguros
+1272,Pedro Gutiérrez Gómez,M,78,1945-07-16,San Miguel,Particular
+1273,Víctor Herrera Castillo,M,19,2004-04-21,San Isidro,SOAT
+1274,Ricardo Reyes Torres,M,26,1997-12-03,El Agustino,SOAT
+1275,Sofía Castillo Gutiérrez,F,60,1963-07-31,Santa Anita,Pacífico Seguros
+1276,Gloria Gómez Morales,F,43,1980-05-24,Jesús María,SIS
+1277,Raúl Flores Cusi,M,1,2022-01-12,El Agustino,SOAT
+1278,Gonzalo Medina Torres,M,31,1992-07-23,San Martín de Porres,Pacífico Seguros
+1279,Sofía Cruz Sánchez,F,1,2022-11-25,Breña,SIS
+1280,María Ramos Martínez,F,19,2004-09-28,Magdalena,EsSalud
+1281,Ana García Torres,F,26,1997-09-17,Magdalena,SOAT
+1282,Patricia Díaz Lazo,F,71,1952-10-10,Barranco,SOAT
+1283,José Ccopa Rivera,M,13,2010-01-23,Miraflores,Mapfre
+1284,Sergio Vargas Condori,M,15,2008-08-01,San Miguel,SOAT
+1285,Gabriela Reyes Condori,F,48,1975-04-19,Villa El Salvador,SOAT
+1286,Lucía Martínez Rodríguez,F,17,2006-04-08,Lince,SOAT
+1287,Fernanda Díaz Medina,F,55,1968-12-22,El Agustino,SOAT
+1288,Manuel Gómez Condori,M,20,2003-12-10,San Miguel,SOAT
+1289,Rosa Lazo Chávez,F,75,1948-12-09,San Martín de Porres,SOAT
+1290,Gloria López Sánchez,F,66,1957-02-21,Rímac,Mapfre
+1291,Mónica Chávez Ortiz,F,23,2000-06-29,San Miguel,Pacífico Seguros
+1292,Mónica Gutiérrez Rivera,F,75,1948-03-27,Rímac,Pacífico Seguros
+1293,Diego Flores Puma,M,26,1997-09-09,Los Olivos,Mapfre
+1294,Sofía Gómez Morales,F,49,1974-07-06,Ate,SOAT
+1295,Alejandra López Rodríguez,F,11,2012-04-13,Magdalena,EsSalud
+1296,Gabriela Herrera Pérez,F,60,1963-07-28,Independencia,Rimac Seguros
+1297,Verónica Ortiz Morales,F,53,1970-05-05,Breña,Mapfre
+1298,Valeria Cruz García,F,23,2000-08-24,Los Olivos,SOAT
+1299,Alejandro Puma López,M,38,1985-04-06,Independencia,Rimac Seguros
+1300,Fernando Cusi Flores,M,13,2010-07-04,La Molina,SIS
+1301,Manuel Torres Díaz,M,26,1997-09-01,Villa El Salvador,Particular
+1302,Valeria Torres Quispe,F,78,1945-04-17,San Borja,Mapfre
+1303,María Huanca Gómez,F,37,1986-06-18,Breña,Mapfre
+1304,Natalia Huanca Vargas,F,2,2021-04-14,San Martín de Porres,Pacífico Seguros
+1305,Sergio Flores Flores,M,27,1996-04-18,San Martín de Porres,SOAT
+1306,Verónica Díaz Condori,F,11,2012-09-29,San Miguel,Mapfre
+1307,Sandra Torres Ortiz,F,58,1965-07-08,Carabayllo,SIS
+1308,Daniel Lazo Rodríguez,M,40,1983-02-08,Miraflores,EsSalud
+1309,Daniela Flores Morales,F,55,1968-06-22,Villa El Salvador,Mapfre
+1310,Daniela Herrera García,F,73,1950-11-02,San Isidro,SOAT
+1311,Natalia Vargas Condori,F,78,1945-07-04,Santa Anita,Rimac Seguros
+1312,Sofía Cruz López,F,69,1954-05-20,Rímac,SOAT
+1313,Roberto Herrera Ortiz,M,82,1941-10-26,Magdalena,SIS
+1314,Manuel Sánchez Pérez,M,78,1945-10-17,San Martín de Porres,SIS
+1315,Luis Cusi Cruz,M,37,1986-08-14,Lince,SOAT
+1316,Gonzalo Pérez Reyes,M,67,1956-08-03,Miraflores,SOAT
+1317,Paola Sánchez Martínez,F,17,2006-05-06,Carabayllo,EsSalud
+1318,Sergio Puma Lazo,M,27,1996-09-24,San Borja,Mapfre
+1319,Sandra Ccopa Quispe,F,61,1962-03-28,Jesús María,Rimac Seguros
+1320,Natalia Torres Chávez,F,59,1965-01-12,Pueblo Libre,SOAT
+1321,Gonzalo López Ccopa,M,52,1971-09-10,Santa Anita,Mapfre
+1322,Natalia Puma Gutiérrez,F,59,1964-12-26,Los Olivos,Rimac Seguros
+1323,Eduardo Vargas Puma,M,59,1964-01-17,Breña,Pacífico Seguros
+1324,Paola Medina Ccopa,F,23,2000-10-07,Comas,SOAT
+1325,Verónica Cruz Cusi,F,85,1938-04-06,Jesús María,Pacífico Seguros
+1326,Sergio Quispe Pérez,M,31,1992-02-22,Jesús María,Particular
+1327,Lucía Quispe Mamani,F,28,1995-03-31,San Martín de Porres,EsSalud
+1328,Alejandro López Huanca,M,14,2009-07-22,Independencia,Mapfre
+1329,Verónica Sánchez Rivera,F,27,1996-05-16,Independencia,SIS
+1330,Luis Vargas Quispe,M,60,1963-06-26,Rímac,Particular
+1331,Sergio Pérez García,M,33,1990-11-01,La Molina,Pacífico Seguros
+1332,Verónica Gutiérrez Ortiz,F,9,2014-02-01,Surco,Rimac Seguros
+1333,Gonzalo Rodríguez Gutiérrez,M,36,1988-01-01,Jesús María,SOAT
+1334,José Gómez Martínez,M,69,1954-12-10,Rímac,SOAT
+1335,Fernando Rodríguez Ortiz,M,46,1977-12-26,Jesús María,SOAT
+1336,Gonzalo Quispe Pérez,M,82,1941-02-16,Independencia,Pacífico Seguros
+1337,Sergio Quispe Gómez,M,57,1967-01-13,San Isidro,Rimac Seguros
+1338,Sergio Huanca Torres,M,32,1991-09-29,Breña,SOAT
+1339,Carlos Morales García,M,2,2021-09-25,San Miguel,Mapfre
+1340,Andrés Puma Martínez,M,22,2001-06-08,Jesús María,SIS
+1341,Roberto Díaz Ramos,M,81,1942-10-07,Lince,Rimac Seguros
+1342,Sandra Martínez Flores,F,28,1995-07-27,La Molina,Particular
+1343,Carlos Cruz Vargas,M,41,1982-09-25,Miraflores,EsSalud
+1344,Gabriela López Castillo,F,36,1987-07-06,El Agustino,Rimac Seguros
+1345,Luis Puma Torres,M,53,1970-03-14,Magdalena,Mapfre
+1346,Carmen Quispe Ramos,F,73,1950-12-02,Jesús María,Particular
+1347,Paola Castillo Cusi,F,18,2005-02-14,San Miguel,SOAT
+1348,Mónica López Díaz,F,3,2020-05-17,Santa Anita,Rimac Seguros
+1349,Jessica Vargas Mamani,F,30,1993-01-13,Independencia,Rimac Seguros
+1350,Andrés García Medina,M,16,2007-05-31,Magdalena,SOAT
+1351,Héctor López Pérez,M,18,2005-08-07,Breña,EsSalud
+1352,Pedro Cruz Torres,M,83,1940-03-21,San Isidro,SOAT
+1353,Daniela Rodríguez Rivera,F,41,1982-12-22,El Agustino,Mapfre
+1354,Claudia Huanca García,F,30,1993-09-06,San Miguel,Particular
+1355,Manuel Pérez Cusi,M,32,1991-09-18,Villa El Salvador,Pacífico Seguros
+1356,Jessica Díaz Sánchez,F,57,1966-12-13,El Agustino,SIS
+1357,Lucía Torres Pérez,F,82,1941-11-18,San Borja,SOAT
+1358,José Herrera Ramos,M,27,1996-11-28,Barranco,Rimac Seguros
+1359,Verónica Gómez Sánchez,F,26,1997-10-09,Barranco,EsSalud
+1360,Eduardo Gómez Herrera,M,58,1965-08-29,El Agustino,SOAT
+1361,Lucía Reyes Cruz,F,49,1974-06-02,Jesús María,EsSalud
+1362,Jessica Medina Mamani,F,56,1967-05-14,San Borja,Mapfre
+1363,Sergio Morales Lazo,M,11,2012-04-03,Magdalena,Rimac Seguros
+1364,Manuel Mamani Sánchez,M,33,1990-08-06,Rímac,EsSalud
+1365,Claudia Cruz Ramos,F,78,1945-08-03,San Martín de Porres,SIS
+1366,Raúl Torres Rodríguez,M,25,1998-04-26,Miraflores,SIS
+1367,Mónica Cruz Cusi,F,54,1969-07-07,Rímac,Pacífico Seguros
+1368,Mónica Gómez Vargas,F,76,1948-01-01,Surco,EsSalud
+1369,Sergio Cusi Herrera,M,21,2002-05-28,Lince,Mapfre
+1370,Fernanda Chávez Quispe,F,63,1960-07-12,El Agustino,Pacífico Seguros
+1371,Sergio Cusi Morales,M,32,1991-12-23,Barranco,EsSalud
+1372,María Quispe Castillo,F,83,1940-03-18,San Borja,Particular
+1373,Rosa Rivera Flores,F,78,1945-10-30,Ate,Pacífico Seguros
+1374,Miguel Huanca López,M,83,1940-07-02,Villa María del Triunfo,EsSalud
+1375,Víctor Cusi Torres,M,55,1968-06-10,Jesús María,Mapfre
+1376,Claudia Chávez Ramos,F,85,1938-08-18,Rímac,Rimac Seguros
+1377,Lucía Martínez Vargas,F,74,1949-11-07,Breña,Mapfre
+1378,Sofía Cusi Mamani,F,51,1973-01-10,Villa María del Triunfo,Particular
+1379,Raúl García Martínez,M,9,2014-04-10,Villa María del Triunfo,EsSalud
+1380,Claudia Mamani Morales,F,22,2001-10-03,Jesús María,Particular
+1381,Diego Gutiérrez Sánchez,M,65,1958-04-02,La Molina,EsSalud
+1382,José Torres Pérez,M,24,1999-06-12,Lince,Particular
+1383,Gloria Martínez Lazo,F,82,1941-08-24,Jesús María,SIS
+1384,Sergio Martínez Rivera,M,9,2014-03-10,San Miguel,SIS
+1385,Raúl Gutiérrez Castillo,M,13,2010-08-21,Miraflores,SIS
+1386,Daniel Condori Pérez,M,13,2011-01-01,Lince,Rimac Seguros
+1387,Gloria Chávez Huanca,F,35,1988-07-21,San Martín de Porres,EsSalud
+1388,Daniela Reyes Castillo,F,44,1979-09-12,San Miguel,Mapfre
+1389,Paola Cruz Medina,F,8,2015-07-18,Breña,Mapfre
+1390,Carlos Ortiz Lazo,M,52,1971-03-12,San Borja,SIS
+1391,Víctor Rivera Quispe,M,32,1991-02-27,Breña,EsSalud
+1392,Jessica Morales Castillo,F,25,1998-07-27,Miraflores,Pacífico Seguros
+1393,Alejandro Lazo Pérez,M,42,1981-09-14,Villa El Salvador,EsSalud
+1394,Paola Mamani Medina,F,11,2012-05-05,Breña,EsSalud
+1395,Sergio Gómez Medina,M,25,1998-04-16,Villa María del Triunfo,SOAT
+1396,Pedro Gutiérrez Condori,M,12,2011-01-25,Magdalena,Mapfre
+1397,Patricia Puma Ortiz,F,15,2008-04-03,San Martín de Porres,Pacífico Seguros
+1398,Andrés Torres Sánchez,M,85,1938-11-29,Villa María del Triunfo,SIS
+1399,María Sánchez Cusi,F,42,1981-08-21,Rímac,Mapfre
+1400,Fernando Castillo Gutiérrez,M,16,2007-04-07,Villa El Salvador,SOAT
+1401,Lucía Condori Quispe,F,43,1980-03-10,Barranco,Rimac Seguros
+1402,Roberto Cruz Cusi,M,49,1974-04-01,El Agustino,Pacífico Seguros
+1403,Gabriela Flores Rivera,F,15,2008-11-08,Magdalena,SIS
+1404,Roberto Mamani Herrera,M,25,1998-07-03,La Molina,Rimac Seguros
+1405,Roberto Cruz Herrera,M,1,2022-03-05,Magdalena,SIS
+1406,Sergio Morales Díaz,M,47,1976-11-09,Villa El Salvador,Mapfre
+1407,Miguel Cruz García,M,69,1954-11-05,Los Olivos,Particular
+1408,Gabriela Gutiérrez Castillo,F,59,1964-08-23,San Borja,Rimac Seguros
+1409,Juan Medina Díaz,M,40,1983-11-09,Independencia,Pacífico Seguros
+1410,Natalia Gutiérrez Vargas,F,28,1995-01-13,San Martín de Porres,Particular
+1411,Ana Condori Díaz,F,20,2003-09-13,Villa María del Triunfo,SOAT
+1412,José Lazo Gutiérrez,M,51,1972-02-11,Magdalena,Mapfre
+1413,Carlos Ramos Cruz,M,44,1979-05-15,Comas,Pacífico Seguros
+1414,Paola Cruz López,F,68,1955-01-27,Magdalena,Particular
+1415,Manuel Cruz Martínez,M,17,2006-03-14,San Miguel,Mapfre
+1416,Eduardo Ortiz Vargas,M,21,2002-05-25,Ate,SOAT
+1417,Claudia Puma Rodríguez,F,27,1996-09-29,Lince,Mapfre
+1418,Alejandro Mamani Lazo,M,74,1949-11-05,La Molina,Pacífico Seguros
+1419,Sandra Castillo Ccopa,F,22,2001-07-08,San Isidro,SIS
+1420,Patricia Pérez Martínez,F,66,1957-03-20,El Agustino,Particular
+1421,Rosa Vargas Mamani,F,52,1971-11-15,Barranco,SIS
+1422,Sergio Gutiérrez Gómez,M,77,1946-07-12,Jesús María,Pacífico Seguros
+1423,Gonzalo Lazo Ccopa,M,84,1939-03-05,Rímac,Particular
+1424,Fernanda García Martínez,F,15,2008-04-29,Surco,SIS
+1425,Carlos Herrera Herrera,M,74,1949-01-29,San Martín de Porres,Particular
+1426,Daniel Sánchez Cruz,M,62,1961-06-08,El Agustino,Pacífico Seguros
+1427,Natalia Rodríguez Martínez,F,42,1981-04-11,Surco,Pacífico Seguros
+1428,Sergio Ccopa Quispe,M,3,2020-04-02,Rímac,Rimac Seguros
+1429,Lucía Chávez Ccopa,F,75,1948-02-21,Carabayllo,Pacífico Seguros
+1430,Diego Castillo Puma,M,16,2007-03-05,Jesús María,Mapfre
+1431,Carlos Ramos Ortiz,M,41,1982-11-07,La Molina,SIS
+1432,José López Ramos,M,33,1990-11-07,San Isidro,SIS
+1433,Fernanda Ramos Sánchez,F,55,1968-09-09,Villa El Salvador,SIS
+1434,Ana Chávez Puma,F,38,1985-05-28,Villa El Salvador,Rimac Seguros
+1435,Daniel Gutiérrez Quispe,M,41,1982-03-07,Independencia,Particular
+1436,Miguel Castillo Ccopa,M,6,2017-09-28,Barranco,SIS
+1437,Eduardo Lazo Ccopa,M,28,1995-04-01,San Borja,Rimac Seguros
+1438,Daniel Reyes Rivera,M,17,2006-11-28,Santa Anita,EsSalud
+1439,Valeria Cruz Vargas,F,21,2002-11-25,Rímac,EsSalud
+1440,Sandra Quispe Rodríguez,F,69,1954-03-02,Lince,SIS
+1441,Sofía Quispe Reyes,F,73,1950-05-03,Villa El Salvador,Pacífico Seguros
+1442,Ricardo Ccopa Rodríguez,M,41,1982-12-29,Comas,EsSalud
+1443,Luis Rivera Martínez,M,69,1954-04-13,La Molina,Pacífico Seguros
+1444,Lucía Díaz Vargas,F,12,2011-08-18,Breña,Particular
+1445,Andrés Rivera García,M,13,2010-06-25,Rímac,SOAT
+1446,Miguel Sánchez Chávez,M,40,1983-05-06,Ate,Mapfre
+1447,Víctor Reyes Quispe,M,74,1949-09-03,Magdalena,Rimac Seguros
+1448,Juan Sánchez Díaz,M,50,1973-01-31,Jesús María,Particular
+1449,Mónica Herrera Rodríguez,F,34,1989-04-22,Miraflores,Pacífico Seguros
+1450,Pedro Rodríguez Cruz,M,73,1950-02-26,Pueblo Libre,SIS
+1451,Gabriela Castillo Medina,F,54,1969-10-13,Villa María del Triunfo,EsSalud
+1452,Fernanda Condori Ortiz,F,65,1958-06-12,Magdalena,Particular
+1453,Eduardo Vargas Lazo,M,12,2011-07-28,Magdalena,EsSalud
+1454,Luis López Mamani,M,31,1992-03-20,Surco,SOAT
+1455,Luis Mamani Gómez,M,71,1953-01-13,San Martín de Porres,Mapfre
+1456,Jessica Cusi Mamani,F,18,2005-04-17,San Martín de Porres,EsSalud
+1457,Sergio García Medina,M,25,1998-06-04,Miraflores,Pacífico Seguros
+1458,Gabriela Mamani Castillo,F,68,1955-12-28,Villa El Salvador,Rimac Seguros
+1459,Patricia Castillo Cusi,F,68,1955-12-11,Barranco,SOAT
+1460,Rosa Chávez Reyes,F,7,2016-06-22,Comas,EsSalud
+1461,Alejandro Martínez Díaz,M,32,1991-11-10,Carabayllo,Mapfre
+1462,Claudia Gutiérrez Gómez,F,34,1989-02-20,Lince,SIS
+1463,Sofía Cusi Gómez,F,83,1941-01-03,Independencia,Mapfre
+1464,Gloria Lazo Gutiérrez,F,8,2015-02-22,Breña,SIS
+1465,Daniela Gómez Reyes,F,14,2009-10-01,Miraflores,Particular
+1466,Fernanda García Martínez,F,56,1967-12-03,San Martín de Porres,SOAT
+1467,Ricardo Martínez Cusi,M,63,1960-02-15,Miraflores,SOAT
+1468,Gabriela Gutiérrez Cruz,F,48,1975-06-08,Magdalena,Particular
+1469,Manuel Condori Rivera,M,14,2009-05-25,Los Olivos,Pacífico Seguros
+1470,Pedro Reyes Mamani,M,56,1967-01-17,Miraflores,Particular
+1471,Miguel Torres Gómez,M,6,2017-06-01,San Borja,EsSalud
+1472,Ana Sánchez Castillo,F,26,1997-08-24,San Martín de Porres,Pacífico Seguros
+1473,Ricardo Gutiérrez Ramos,M,64,1959-11-13,Villa El Salvador,Pacífico Seguros
+1474,Paola Chávez Mamani,F,50,1973-11-19,San Borja,SIS
+1475,Pedro Rodríguez Reyes,M,65,1958-02-01,Miraflores,Mapfre
+1476,Juan Castillo Ccopa,M,44,1980-01-08,Comas,Rimac Seguros
+1477,Mónica Gómez Gómez,F,63,1960-06-11,Surco,Mapfre
+1478,Héctor Rodríguez Mamani,M,66,1957-08-27,Jesús María,SOAT
+1479,Fernando Quispe Flores,M,55,1968-01-19,Lince,EsSalud
+1480,Víctor Medina Sánchez,M,25,1998-02-17,Ate,Pacífico Seguros
+1481,Andrés Martínez Rodríguez,M,52,1971-10-08,San Isidro,Particular
+1482,Ricardo García Medina,M,26,1997-12-12,Surco,Mapfre
+1483,Sandra Chávez Gómez,F,82,1941-08-02,Barranco,SOAT
+1484,Mónica Pérez Chávez,F,55,1968-08-12,El Agustino,SIS
+1485,Fernando Reyes Rivera,M,45,1978-09-08,Villa María del Triunfo,EsSalud
+1486,Ana Sánchez Pérez,F,1,2022-07-21,San Isidro,Pacífico Seguros
+1487,Eduardo Gutiérrez Rivera,M,78,1945-10-18,La Molina,EsSalud
+1488,Mónica Reyes Díaz,F,39,1984-02-03,La Molina,SIS
+1489,Manuel Huanca Lazo,M,17,2006-07-04,San Miguel,Particular
+1490,Gabriela Vargas Rivera,F,27,1996-11-24,Ate,EsSalud
+1491,Pedro Vargas Mamani,M,78,1945-03-26,La Molina,SIS
+1492,Diego Quispe Ortiz,M,13,2010-02-22,Surco,Rimac Seguros
+1493,Claudia Mamani Gutiérrez,F,26,1997-10-21,Carabayllo,Pacífico Seguros
+1494,Pedro Torres Morales,M,71,1952-04-07,Villa María del Triunfo,Particular
+1495,Fernanda Ortiz Vargas,F,16,2007-05-03,Comas,SIS
+1496,Jessica Cusi Chávez,F,3,2020-08-14,Jesús María,Rimac Seguros
+1497,Eduardo Pérez Herrera,M,8,2015-06-14,Villa María del Triunfo,SOAT
+1498,Alejandra Lazo Chávez,F,10,2013-04-18,Jesús María,EsSalud
+1499,Alejandra Huanca Cruz,F,52,1971-10-01,Santa Anita,Particular
+1500,Carlos Sánchez Herrera,M,28,1996-01-04,Ate,Pacífico Seguros
+1501,Jessica Quispe Mamani,F,68,1955-09-28,Pueblo Libre,Particular
+1502,Valeria Ramos Martínez,F,22,2001-04-08,Barranco,SIS
+1503,Eduardo Pérez Vargas,M,19,2004-08-20,Pueblo Libre,SOAT
+1504,Andrés Ccopa Torres,M,69,1954-02-20,La Molina,SIS
+1505,Gloria Reyes Díaz,F,11,2012-08-21,Villa María del Triunfo,Rimac Seguros
+1506,Ricardo Puma Medina,M,38,1985-02-24,San Miguel,SIS
+1507,Alejandro Flores Mamani,M,36,1988-01-02,Jesús María,Particular
+1508,Sergio Vargas Rivera,M,81,1942-04-14,El Agustino,Rimac Seguros
+1509,Gonzalo Flores Díaz,M,35,1988-02-22,Lince,Rimac Seguros
+1510,Rosa Ortiz Flores,F,56,1967-05-15,Breña,SOAT
+1511,Raúl Sánchez Ortiz,M,24,1999-03-22,Jesús María,SOAT
+1512,Patricia Vargas Gómez,F,3,2020-10-03,Magdalena,SOAT
+1513,Gloria Torres López,F,19,2004-09-02,Surco,EsSalud
+1514,Paola Martínez Mamani,F,68,1956-01-12,San Borja,Pacífico Seguros
+1515,Sergio Cruz García,M,15,2008-02-10,Miraflores,Mapfre
+1516,Pedro Flores Huanca,M,11,2012-02-17,Pueblo Libre,SOAT
+1517,Carlos Condori Martínez,M,70,1953-01-21,San Miguel,Mapfre
+1518,Diego Rodríguez Gutiérrez,M,73,1950-10-28,Los Olivos,Mapfre
+1519,Daniela Gutiérrez Rodríguez,F,32,1991-01-20,San Isidro,Rimac Seguros
+1520,Alejandra Martínez García,F,6,2017-08-04,La Molina,Rimac Seguros
+1521,Víctor Puma Ccopa,M,54,1969-09-22,San Borja,SIS
+1522,Andrés Morales Cruz,M,19,2004-08-12,Breña,Pacífico Seguros
+1523,Sergio Castillo Puma,M,15,2008-11-09,San Martín de Porres,SOAT
+1524,Miguel Gómez Reyes,M,10,2013-11-04,Santa Anita,Particular
+1525,Lucía Puma Pérez,F,78,1945-06-15,San Borja,SOAT
+1526,Gloria Sánchez Castillo,F,55,1968-01-29,San Borja,Pacífico Seguros
+1527,Gloria Ccopa Gómez,F,45,1978-05-02,La Molina,Particular
+1528,Valeria Condori Cusi,F,10,2013-10-19,Miraflores,Mapfre
+1529,Roberto Rodríguez Cruz,M,58,1965-12-12,San Martín de Porres,Mapfre
+1530,Daniel Morales Mamani,M,36,1987-07-29,San Borja,SIS
+1531,José Huanca Cruz,M,46,1977-06-09,San Miguel,EsSalud
+1532,Sandra Medina Condori,F,82,1941-02-21,San Miguel,SOAT
+1533,Sergio Morales Ramos,M,64,1959-05-10,Carabayllo,Rimac Seguros
+1534,Sergio López Herrera,M,54,1969-01-24,Independencia,Rimac Seguros
+1535,Luis Flores Reyes,M,1,2022-12-24,Lince,Mapfre
+1536,Alejandra Gutiérrez Rodríguez,F,15,2008-07-04,San Isidro,Particular
+1537,Eduardo Ortiz Rodríguez,M,71,1952-10-03,Comas,SOAT
+1538,Juan Mamani Rodríguez,M,16,2007-10-24,Villa María del Triunfo,Pacífico Seguros
+1539,María Quispe Morales,F,48,1975-11-20,San Isidro,Pacífico Seguros
+1540,Raúl Ccopa Medina,M,21,2002-07-03,Miraflores,SOAT
+1541,Luis Flores López,M,2,2021-06-02,Ate,Mapfre
+1542,José Gutiérrez Mamani,M,18,2005-08-05,Independencia,Pacífico Seguros
+1543,Sandra Mamani Díaz,F,57,1967-01-09,El Agustino,Pacífico Seguros
+1544,Carmen Rodríguez Pérez,F,83,1940-10-25,San Isidro,Rimac Seguros
+1545,Carlos Cruz Ccopa,M,55,1968-04-06,Villa El Salvador,EsSalud
+1546,Natalia Chávez Gómez,F,30,1993-08-22,Comas,SOAT
+1547,Víctor Cruz Rodríguez,M,28,1995-12-11,Rímac,Rimac Seguros
+1548,Sergio Sánchez Ccopa,M,72,1951-12-11,Santa Anita,Mapfre
+1549,Mónica Díaz Vargas,F,83,1940-07-11,Rímac,Mapfre
+1550,Juan Condori Reyes,M,83,1940-09-05,Comas,SOAT
+1551,Miguel López Reyes,M,78,1945-09-20,San Miguel,SIS
+1552,Patricia Ramos Martínez,F,9,2014-12-29,Lince,Rimac Seguros
+1553,Sofía Ramos Torres,F,82,1941-09-06,San Isidro,SOAT
+1554,Daniel Herrera Pérez,M,73,1950-12-26,San Martín de Porres,SIS
+1555,Lucía Gómez García,F,46,1977-05-01,Magdalena,EsSalud
+1556,Roberto Huanca Cruz,M,46,1977-02-01,San Borja,Pacífico Seguros
+1557,Roberto Morales Puma,M,65,1958-11-02,La Molina,Rimac Seguros
+1558,Daniel Condori Cruz,M,62,1961-12-28,Ate,Mapfre
+1559,Patricia Rodríguez Castillo,F,60,1963-11-30,Surco,Pacífico Seguros
+1560,Diego Condori Castillo,M,84,1939-11-01,San Borja,Mapfre
+1561,Verónica Condori Rodríguez,F,44,1979-02-27,Magdalena,Particular
+1562,Ana Puma Quispe,F,50,1973-03-07,Barranco,SOAT
+1563,Pedro Herrera Vargas,M,64,1960-01-10,La Molina,Mapfre
+1564,Eduardo Ramos Lazo,M,12,2011-05-17,San Martín de Porres,SIS
+1565,Patricia Cusi Gómez,F,21,2002-03-17,Surco,Particular
+1566,Fernanda López López,F,23,2000-05-16,Villa María del Triunfo,Mapfre
+1567,Mónica Rivera Huanca,F,57,1966-11-13,El Agustino,SOAT
+1568,Ana Reyes Lazo,F,37,1986-02-27,Rímac,EsSalud
+1569,Gonzalo Reyes Chávez,M,80,1943-12-10,San Miguel,Particular
+1570,Jessica Ortiz Rivera,F,6,2017-12-04,Santa Anita,Pacífico Seguros
+1571,Manuel García Rodríguez,M,14,2009-10-15,Magdalena,EsSalud
+1572,Lucía Flores Cruz,F,60,1963-07-22,Villa El Salvador,SIS
+1573,Verónica Vargas Ramos,F,60,1963-10-16,La Molina,SIS
+1574,Sergio Huanca Morales,M,26,1997-12-05,Rímac,Particular
+1575,Daniela Medina Gutiérrez,F,28,1995-05-10,Villa María del Triunfo,Pacífico Seguros
+1576,Fernando Ortiz Pérez,M,70,1953-11-05,San Borja,EsSalud
+1577,Roberto Herrera Pérez,M,77,1946-07-19,Rímac,SIS
+1578,Mónica Torres Pérez,F,28,1995-01-23,Miraflores,Mapfre
+1579,Valeria Rivera Vargas,F,23,2000-12-02,Surco,SOAT
+1580,Paola López Gómez,F,58,1965-09-28,Comas,Rimac Seguros
+1581,Patricia Ccopa Pérez,F,12,2011-08-05,Comas,Particular
+1582,Diego Reyes Morales,M,62,1961-01-29,San Martín de Porres,Rimac Seguros
+1583,Ricardo Reyes Cusi,M,74,1950-01-14,Rímac,Mapfre
+1584,Luis Mamani Castillo,M,75,1948-08-07,Santa Anita,SOAT
+1585,María Rodríguez Puma,F,59,1964-08-06,San Borja,EsSalud
+1586,Ricardo Rivera Chávez,M,1,2022-10-29,Los Olivos,Mapfre
+1587,Natalia Martínez Pérez,F,28,1995-01-17,Lince,EsSalud
+1588,Héctor Cruz Torres,M,45,1978-01-30,Lince,SOAT
+1589,Alejandro Ccopa Reyes,M,3,2020-04-19,Magdalena,Particular
+1590,Raúl Vargas Ortiz,M,53,1970-07-18,Comas,Particular
+1591,Jessica Huanca Díaz,F,15,2008-05-30,Jesús María,EsSalud
+1592,Patricia Ramos Medina,F,21,2002-06-25,Carabayllo,EsSalud
+1593,Sandra Vargas Gómez,F,80,1943-11-29,La Molina,SIS
+1594,Carlos Medina Cusi,M,53,1970-03-01,La Molina,EsSalud
+1595,Gonzalo Chávez Herrera,M,5,2018-06-01,Villa El Salvador,Particular
+1596,Andrés Huanca Ortiz,M,71,1952-10-10,Rímac,SIS
+1597,Carmen Reyes Condori,F,60,1963-02-20,Comas,Mapfre
+1598,María Reyes Condori,F,29,1994-08-24,Independencia,Particular
+1599,Claudia Ccopa Puma,F,54,1970-01-12,Villa El Salvador,SOAT
+1600,Ana García García,F,20,2003-04-16,Breña,Mapfre
+1601,Daniela Sánchez Herrera,F,56,1967-06-29,Barranco,Rimac Seguros
+1602,Héctor Vargas Cruz,M,7,2016-10-29,Ate,EsSalud
+1603,Patricia Cruz Puma,F,41,1982-06-02,Independencia,SOAT
+1604,Miguel Quispe Condori,M,17,2006-02-16,Independencia,SIS
+1605,Valeria Ccopa Ramos,F,21,2002-11-20,San Miguel,SOAT
+1606,Carlos Morales García,M,81,1943-01-07,Ate,SOAT
+1607,Daniel Cruz García,M,17,2006-02-16,Los Olivos,Pacífico Seguros
+1608,Patricia Flores Vargas,F,29,1994-04-09,Magdalena,SOAT
+1609,Sergio Huanca Rivera,M,85,1938-12-11,San Isidro,Particular
+1610,Carlos Vargas Herrera,M,14,2009-03-05,La Molina,EsSalud
+1611,Miguel Rodríguez Gómez,M,34,1989-12-01,Jesús María,SIS
+1612,Fernanda Cusi Ccopa,F,27,1996-05-01,Rímac,SIS
+1613,Ricardo López Gutiérrez,M,81,1942-02-04,Surco,SOAT
+1614,Paola Puma Díaz,F,82,1941-10-31,Los Olivos,Mapfre
+1615,Eduardo García Puma,M,23,2000-02-18,Villa El Salvador,Rimac Seguros
+1616,Miguel Díaz Reyes,M,62,1961-04-12,Santa Anita,Rimac Seguros
+1617,José Chávez Mamani,M,33,1990-03-05,La Molina,SOAT
+1618,Manuel García Chávez,M,66,1957-07-15,San Borja,SOAT
+1619,Diego García Díaz,M,18,2005-01-16,Barranco,SIS
+1620,Fernando Rivera Gutiérrez,M,26,1997-01-10,Surco,Particular
+1621,Verónica Mamani Condori,F,64,1959-06-27,Comas,Rimac Seguros
+1622,Fernando Sánchez Torres,M,36,1987-03-18,Rímac,SIS
+1623,Patricia Condori Torres,F,63,1960-06-14,Comas,EsSalud
+1624,Daniela Medina Martínez,F,78,1945-10-10,Rímac,EsSalud
+1625,Fernanda Puma Vargas,F,9,2014-12-17,Los Olivos,SOAT
+1626,Natalia Morales Gómez,F,78,1945-07-24,El Agustino,Rimac Seguros
+1627,María Martínez Sánchez,F,42,1981-10-08,Comas,Mapfre
+1628,Gabriela López Torres,F,85,1938-11-09,Breña,Particular
+1629,Carmen García Díaz,F,2,2021-09-14,Villa María del Triunfo,Particular
+1630,Natalia Condori Díaz,F,30,1993-06-25,Carabayllo,SIS
+1631,Gloria Torres Chávez,F,28,1995-08-19,La Molina,Rimac Seguros
+1632,Daniel Puma Vargas,M,54,1969-06-06,Villa El Salvador,Mapfre
+1633,Daniela Torres Torres,F,7,2016-12-10,San Martín de Porres,EsSalud
+1634,Sandra Martínez Martínez,F,58,1965-08-01,Jesús María,Rimac Seguros
+1635,Gabriela Herrera García,F,37,1986-03-22,Miraflores,Pacífico Seguros
+1636,Gonzalo Gómez Rodríguez,M,52,1971-04-19,San Isidro,Rimac Seguros
+1637,Roberto Vargas García,M,9,2014-06-05,San Martín de Porres,SIS
+1638,Valeria Díaz Huanca,F,45,1978-04-03,Rímac,SIS
+1639,Mónica Medina Pérez,F,51,1972-05-26,Magdalena,Pacífico Seguros
+1640,Carmen Ccopa Reyes,F,80,1943-09-29,La Molina,SIS
+1641,Carlos Rodríguez Martínez,M,42,1981-06-02,Villa María del Triunfo,Pacífico Seguros
+1642,José López Torres,M,48,1975-01-26,Carabayllo,SIS
+1643,Fernando Puma Condori,M,6,2017-07-31,La Molina,SIS
+1644,Fernando Díaz Quispe,M,79,1944-01-29,Rímac,Particular
+1645,Pedro Herrera Ortiz,M,16,2007-10-22,San Borja,Particular
+1646,Verónica Castillo Martínez,F,67,1956-03-28,Independencia,SOAT
+1647,Mónica Rivera Díaz,F,62,1961-09-03,Barranco,SIS
+1648,Lucía Reyes Ramos,F,32,1991-09-26,Villa El Salvador,Pacífico Seguros
+1649,Luis Gutiérrez Pérez,M,28,1995-09-20,Miraflores,Pacífico Seguros
+1650,Paola Torres Gutiérrez,F,14,2009-03-08,San Miguel,SOAT
+1651,Claudia Quispe Ortiz,F,84,1939-05-09,San Borja,Mapfre
+1652,Pedro Flores Cusi,M,47,1976-03-01,Rímac,EsSalud
+1653,Sergio Torres López,M,36,1987-01-24,Comas,SOAT
+1654,Natalia Vargas Martínez,F,19,2004-11-10,Los Olivos,SIS
+1655,Carlos Puma Ortiz,M,24,1999-05-09,Pueblo Libre,SIS
+1656,Fernanda Rivera Martínez,F,71,1952-06-12,Surco,Particular
+1657,Pedro Cruz Chávez,M,56,1967-12-19,Independencia,Particular
+1658,Valeria Reyes Martínez,F,7,2016-05-31,El Agustino,EsSalud
+1659,Eduardo Torres Cruz,M,23,2000-04-10,Santa Anita,Particular
+1660,Jessica Morales Martínez,F,7,2016-11-07,El Agustino,SOAT
+1661,Miguel Pérez Puma,M,5,2018-09-02,Ate,Particular
+1662,Manuel Martínez Rivera,M,29,1994-06-15,Santa Anita,Pacífico Seguros
+1663,Paola Martínez Flores,F,35,1988-10-14,San Martín de Porres,SOAT
+1664,Alejandro Vargas Gómez,M,77,1947-01-19,Magdalena,Pacífico Seguros
+1665,José Chávez Cusi,M,80,1943-08-18,San Martín de Porres,Pacífico Seguros
+1666,José Díaz Castillo,M,9,2014-07-17,Jesús María,SOAT
+1667,Rosa García Castillo,F,61,1963-01-06,Comas,Particular
+1668,Fernando Puma López,M,22,2002-01-02,Villa El Salvador,Mapfre
+1669,Mónica Herrera García,F,63,1960-11-21,Barranco,EsSalud
+1670,Carlos Herrera Castillo,M,38,1985-04-28,Barranco,Rimac Seguros
+1671,Pedro Huanca Martínez,M,13,2010-07-17,Magdalena,Mapfre
+1672,Mónica Mamani Reyes,F,70,1953-05-14,Pueblo Libre,Pacífico Seguros
+1673,Fernanda Ortiz García,F,46,1977-07-26,Magdalena,Pacífico Seguros
+1674,Carmen Rivera Castillo,F,67,1956-11-03,El Agustino,SIS
+1675,Gabriela Castillo Rodríguez,F,46,1977-09-09,San Martín de Porres,SIS
+1676,Fernanda Torres Mamani,F,12,2011-02-11,Lince,EsSalud
+1677,Fernando Puma Vargas,M,70,1953-10-21,Los Olivos,Rimac Seguros
+1678,Fernanda Puma Díaz,F,51,1972-08-25,Ate,EsSalud
+1679,Sofía Pérez Herrera,F,67,1956-03-10,Villa María del Triunfo,Particular
+1680,Ricardo Condori Ortiz,M,73,1950-11-24,Breña,Particular
+1681,Raúl Cusi Castillo,M,19,2004-10-21,Los Olivos,Pacífico Seguros
+1682,Gloria Ramos Castillo,F,21,2002-08-12,Magdalena,EsSalud
+1683,Eduardo García Ortiz,M,6,2017-03-05,Lince,Particular
+1684,Juan Gutiérrez Gómez,M,1,2022-01-28,Comas,Particular
+1685,Juan Rivera Rodríguez,M,45,1978-04-30,Magdalena,Mapfre
+1686,Luis Quispe Rivera,M,19,2004-03-12,Lince,EsSalud
+1687,Eduardo Flores Pérez,M,61,1962-02-03,Breña,SOAT
+1688,Sandra Cruz Puma,F,13,2010-03-05,Pueblo Libre,Particular
+1689,Patricia Herrera Morales,F,42,1981-01-27,Ate,SOAT
+1690,Fernando Rodríguez Morales,M,71,1952-08-15,Lince,Particular
+1691,Eduardo Herrera Cusi,M,81,1942-10-20,Los Olivos,Rimac Seguros
+1692,Sandra Martínez Rodríguez,F,68,1955-08-11,Los Olivos,Pacífico Seguros
+1693,Verónica Reyes Morales,F,60,1963-05-25,Comas,EsSalud
+1694,Manuel García Huanca,M,54,1969-11-04,Surco,Mapfre
+1695,Gabriela Herrera Chávez,F,48,1975-04-10,San Borja,Rimac Seguros
+1696,Ana Huanca Lazo,F,51,1972-02-05,San Borja,EsSalud
+1697,Gonzalo Condori Huanca,M,67,1956-12-21,Los Olivos,Mapfre
+1698,Juan Rivera Ccopa,M,84,1939-03-24,La Molina,Particular
+1699,Eduardo Herrera Gutiérrez,M,43,1980-03-18,San Isidro,SIS
+1700,Diego Chávez Rodríguez,M,72,1951-09-27,San Martín de Porres,SOAT
+1701,Eduardo Vargas Gómez,M,1,2022-01-14,San Martín de Porres,Rimac Seguros
+1702,Miguel López García,M,20,2003-04-15,Santa Anita,SIS
+1703,Andrés Torres Martínez,M,61,1962-05-03,Miraflores,Mapfre
+1704,Paola Pérez Cusi,F,16,2007-05-03,Magdalena,EsSalud
+1705,Andrés Ccopa Lazo,M,70,1953-03-11,Pueblo Libre,Mapfre
+1706,Gloria Martínez Morales,F,19,2004-10-03,El Agustino,SIS
+1707,Andrés Sánchez Chávez,M,70,1953-05-18,Lince,EsSalud
+1708,Claudia Castillo Martínez,F,76,1947-02-13,San Martín de Porres,Particular
+1709,Paola Cruz Quispe,F,14,2009-06-01,Los Olivos,EsSalud
+1710,Carlos Gómez Ortiz,M,16,2007-12-31,Ate,EsSalud
+1711,Ana Vargas Vargas,F,85,1939-01-01,Santa Anita,EsSalud
+1712,Rosa Ortiz Puma,F,59,1964-10-26,Pueblo Libre,SIS
+1713,Jessica Lazo Lazo,F,65,1958-01-21,Lince,Particular
+1714,Jessica López Sánchez,F,84,1939-02-21,San Borja,Particular
+1715,Verónica Quispe Lazo,F,18,2005-02-02,Pueblo Libre,Mapfre
+1716,Paola López Cusi,F,83,1940-05-25,San Martín de Porres,EsSalud
+1717,Daniel Quispe Cusi,M,65,1958-09-07,Villa El Salvador,Rimac Seguros
+1718,Roberto Herrera Herrera,M,45,1978-06-20,Ate,Rimac Seguros
+1719,Juan García Lazo,M,21,2002-01-31,Barranco,SIS
+1720,Raúl Cusi Castillo,M,61,1962-09-20,San Miguel,Mapfre
+1721,Miguel Puma Puma,M,23,2000-06-05,Rímac,Mapfre
+1722,Juan Medina Rivera,M,15,2008-11-28,San Isidro,Mapfre
+1723,Fernanda Medina Vargas,F,4,2019-11-08,Jesús María,Particular
+1724,Paola Rodríguez Vargas,F,74,1949-10-11,Carabayllo,SOAT
+1725,Mónica Ortiz Castillo,F,37,1986-10-20,Barranco,SOAT
+1726,Jessica Condori Condori,F,25,1998-12-26,Surco,Rimac Seguros
+1727,Diego Pérez Condori,M,18,2005-06-11,Miraflores,Particular
+1728,Roberto Sánchez Castillo,M,83,1940-10-16,Independencia,EsSalud
+1729,Daniel Ccopa Gutiérrez,M,65,1958-03-07,Breña,Particular
+1730,Luis Ortiz Morales,M,81,1942-12-16,Rímac,Mapfre
+1731,Pedro Condori Chávez,M,39,1984-04-30,La Molina,SIS
+1732,Juan Medina Ramos,M,43,1980-08-16,Miraflores,SOAT
+1733,Paola Quispe Reyes,F,9,2014-11-26,Jesús María,Particular
+1734,Víctor Cusi Medina,M,65,1958-03-07,Magdalena,EsSalud
+1735,Manuel Quispe Puma,M,15,2008-08-23,Ate,EsSalud
+1736,Juan Díaz Morales,M,34,1989-12-10,Lince,Particular
+1737,Diego Ramos Ccopa,M,43,1980-09-13,Villa El Salvador,SIS
+1738,Lucía Condori Herrera,F,79,1945-01-02,Villa María del Triunfo,Mapfre
+1739,Lucía Morales Medina,F,79,1944-05-20,Surco,Rimac Seguros
+1740,Fernando Mamani Pérez,M,14,2009-04-20,San Isidro,EsSalud
+1741,Alejandro Morales Gutiérrez,M,39,1984-12-13,Barranco,SIS
+1742,Diego Ramos Medina,M,49,1975-01-04,Villa El Salvador,Pacífico Seguros
+1743,Ana Cruz Huanca,F,49,1974-06-07,Villa María del Triunfo,SOAT
+1744,Alejandra Rodríguez Martínez,F,57,1966-07-11,La Molina,Rimac Seguros
+1745,Sofía Díaz Morales,F,8,2015-11-17,Barranco,SOAT
+1746,Andrés Morales Mamani,M,69,1955-01-11,Ate,SIS
+1747,Juan López Pérez,M,17,2006-08-14,Los Olivos,SOAT
+1748,Roberto Reyes Medina,M,84,1939-11-17,Barranco,Particular
+1749,Mónica Castillo Martínez,F,85,1938-09-16,Surco,SIS
+1750,Raúl Quispe Mamani,M,46,1977-08-11,Barranco,EsSalud
+1751,Alejandra Gómez Lazo,F,84,1939-09-08,Barranco,Rimac Seguros
+1752,Alejandra Chávez Martínez,F,7,2016-01-07,Breña,EsSalud
+1753,Valeria López Torres,F,18,2005-08-02,Independencia,SOAT
+1754,Miguel Reyes Mamani,M,19,2004-01-14,San Isidro,SOAT
+1755,Verónica Martínez García,F,64,1959-08-28,San Isidro,Particular
+1756,Claudia Ccopa López,F,8,2015-02-25,Pueblo Libre,Mapfre
+1757,Mónica García Lazo,F,49,1974-12-22,Rímac,EsSalud
+1758,Diego Cruz Sánchez,M,85,1938-12-27,Comas,Rimac Seguros
+1759,Ana Ramos Huanca,F,45,1978-07-24,Miraflores,Rimac Seguros
+1760,Natalia Torres Huanca,F,4,2019-02-18,San Miguel,Pacífico Seguros
+1761,Sandra Condori Mamani,F,8,2015-06-19,La Molina,Rimac Seguros
+1762,Alejandra Ortiz Morales,F,74,1949-04-29,Ate,Mapfre
+1763,Patricia Cruz Ortiz,F,31,1992-08-18,San Borja,SIS
+1764,Lucía Flores Huanca,F,70,1953-04-01,Magdalena,Particular
+1765,Ana Medina Rivera,F,47,1976-09-06,Pueblo Libre,Pacífico Seguros
+1766,Miguel Gómez Herrera,M,85,1938-09-09,San Miguel,Mapfre
+1767,Gonzalo Ortiz García,M,57,1966-12-28,Miraflores,EsSalud
+1768,Mónica Vargas Lazo,F,72,1951-12-21,Lince,EsSalud
+1769,Fernando Puma Medina,M,71,1952-06-07,San Miguel,SIS
+1770,Fernando Huanca Condori,M,36,1987-05-02,Pueblo Libre,Mapfre
+1771,Andrés Vargas Sánchez,M,19,2004-12-11,Santa Anita,Pacífico Seguros
+1772,Miguel Vargas Pérez,M,24,1999-05-27,Villa El Salvador,Rimac Seguros
+1773,Ana Ramos Quispe,F,30,1993-08-29,San Isidro,Pacífico Seguros
+1774,María Castillo Lazo,F,46,1977-12-21,Carabayllo,Pacífico Seguros
+1775,Alejandro Martínez López,M,65,1958-05-01,Los Olivos,SIS
+1776,Andrés Torres Díaz,M,74,1949-02-05,Breña,Mapfre
+1777,Lucía Vargas Morales,F,37,1986-07-27,San Borja,SIS
+1778,Daniela Morales Puma,F,84,1939-08-25,Breña,EsSalud
+1779,José Reyes Pérez,M,38,1985-12-28,San Borja,Rimac Seguros
+1780,Héctor Torres Condori,M,41,1982-04-26,Independencia,Pacífico Seguros
+1781,Sofía Cruz Ccopa,F,75,1948-11-04,San Isidro,Pacífico Seguros
+1782,Lucía López Cusi,F,29,1994-03-20,Ate,Rimac Seguros
+1783,Alejandra Mamani Martínez,F,68,1955-05-22,San Isidro,Rimac Seguros
+1784,Daniela Rivera Torres,F,74,1949-08-04,Magdalena,SOAT
+1785,Alejandro Flores Ortiz,M,41,1982-09-10,La Molina,Pacífico Seguros
+1786,Sandra Reyes López,F,46,1977-12-04,Carabayllo,Rimac Seguros
+1787,Mónica Medina Flores,F,58,1965-03-30,Comas,SOAT
+1788,Manuel Flores Huanca,M,53,1970-02-08,Villa El Salvador,Rimac Seguros
+1789,Héctor Rivera Condori,M,37,1986-11-11,San Miguel,Particular
+1790,Ricardo Morales Chávez,M,19,2004-02-17,Ate,EsSalud
+1791,José Puma Ortiz,M,2,2021-06-01,Jesús María,SIS
+1792,Alejandra Quispe Cusi,F,61,1962-12-30,La Molina,SOAT
+1793,María Quispe Sánchez,F,10,2013-04-07,San Borja,Rimac Seguros
+1794,Sandra Reyes Rodríguez,F,52,1971-09-13,Villa María del Triunfo,Rimac Seguros
+1795,Carmen Díaz Puma,F,44,1979-03-03,Ate,Rimac Seguros
+1796,Juan López Mamani,M,46,1977-02-24,Los Olivos,EsSalud
+1797,Sandra Gómez Huanca,F,62,1961-10-15,Villa María del Triunfo,SOAT
+1798,Pedro Puma García,M,76,1947-02-09,Ate,Particular
+1799,Paola Díaz Ortiz,F,23,2000-03-11,Independencia,Pacífico Seguros
+1800,Carmen Flores Gómez,F,64,1959-04-04,San Miguel,SIS
+1801,Claudia Díaz Cruz,F,41,1982-12-21,Jesús María,SOAT
+1802,Ricardo Chávez Rivera,M,74,1949-11-30,Santa Anita,Particular
+1803,Claudia Sánchez Martínez,F,37,1986-05-31,Pueblo Libre,EsSalud
+1804,José Gómez Cusi,M,34,1989-11-16,Santa Anita,Mapfre
+1805,Fernando Rodríguez Martínez,M,27,1996-04-22,Carabayllo,Mapfre
+1806,Carlos Medina Puma,M,6,2017-09-25,Carabayllo,Rimac Seguros
+1807,Raúl Ccopa Ccopa,M,4,2019-08-11,Breña,SOAT
+1808,Verónica Chávez Rodríguez,F,59,1964-01-20,Magdalena,SIS
+1809,Gonzalo Puma Morales,M,64,1959-11-08,Pueblo Libre,SIS
+1810,Carmen Reyes Condori,F,11,2012-11-26,Barranco,Pacífico Seguros
+1811,Patricia Chávez Díaz,F,36,1987-04-23,Los Olivos,Pacífico Seguros
+1812,Roberto Puma Cusi,M,5,2018-01-06,Comas,SIS
+1813,Sofía Ccopa Ramos,F,85,1938-03-04,El Agustino,SIS
+1814,Andrés Rodríguez Herrera,M,49,1974-10-05,Barranco,Pacífico Seguros
+1815,Mónica Rodríguez Gutiérrez,F,24,1999-11-01,San Martín de Porres,Particular
+1816,Luis Chávez Lazo,M,28,1995-12-05,Miraflores,EsSalud
+1817,Alejandra Medina Torres,F,23,2000-01-20,San Isidro,EsSalud
+1818,Gloria Cruz Vargas,F,75,1948-07-25,Barranco,Pacífico Seguros
+1819,Jessica Castillo Sánchez,F,39,1984-02-03,Barranco,Particular
+1820,Mónica Condori Vargas,F,51,1972-04-10,Santa Anita,Particular
+1821,Claudia Martínez Flores,F,15,2008-05-21,Magdalena,EsSalud
+1822,Gabriela Castillo Morales,F,15,2008-07-25,Jesús María,EsSalud
+1823,Alejandro Quispe Cruz,M,17,2006-04-30,San Martín de Porres,Mapfre
+1824,Gabriela García Gómez,F,35,1988-06-14,Independencia,SOAT
+1825,Manuel Huanca Díaz,M,34,1989-06-13,Villa El Salvador,Particular
+1826,Verónica Morales Cruz,F,34,1989-05-06,San Isidro,Particular
+1827,Roberto Vargas Ccopa,M,6,2017-06-07,Magdalena,EsSalud
+1828,Daniel Puma Sánchez,M,69,1954-03-04,Lince,Mapfre
+1829,Héctor Medina Díaz,M,17,2006-12-26,Santa Anita,Rimac Seguros
+1830,Sergio López Huanca,M,43,1980-04-03,Breña,Mapfre
+1831,Juan Chávez Torres,M,47,1976-10-24,Carabayllo,SOAT
+1832,Gabriela Gómez Condori,F,21,2002-06-09,Breña,Particular
+1833,Manuel Mamani Flores,M,2,2021-12-22,San Isidro,Mapfre
+1834,Víctor Cruz Condori,M,63,1960-08-25,San Isidro,SOAT
+1835,María Flores Vargas,F,32,1991-11-07,San Isidro,Particular
+1836,Paola Rodríguez Ccopa,F,35,1988-12-03,Surco,SIS
+1837,María García Mamani,F,70,1953-12-01,Santa Anita,SOAT
+1838,Sofía Ccopa Medina,F,40,1983-04-24,San Miguel,EsSalud
+1839,Eduardo Rivera Ortiz,M,26,1997-02-06,La Molina,Particular
+1840,Paola Gómez Morales,F,12,2011-03-23,Barranco,EsSalud
+1841,Mónica Gómez Cusi,F,69,1954-07-07,Independencia,SOAT
+1842,Raúl Mamani Cruz,M,48,1975-11-19,Carabayllo,Pacífico Seguros
+1843,Gabriela Herrera García,F,51,1972-07-08,Barranco,EsSalud
+1844,Natalia Martínez Vargas,F,40,1983-02-23,San Miguel,SOAT
+1845,Miguel Ramos Sánchez,M,27,1996-09-02,San Martín de Porres,Rimac Seguros
+1846,Pedro Cruz Medina,M,61,1962-04-01,Independencia,Pacífico Seguros
+1847,Juan Huanca Gutiérrez,M,33,1990-07-21,Comas,Particular
+1848,Juan Díaz Quispe,M,73,1951-01-17,Santa Anita,EsSalud
+1849,Sofía Huanca Ramos,F,63,1960-08-09,Carabayllo,EsSalud
+1850,Roberto Ortiz Quispe,M,62,1961-12-06,Independencia,Rimac Seguros
+1851,Ricardo Quispe López,M,49,1975-01-07,San Borja,Mapfre
+1852,Víctor Mamani Martínez,M,22,2001-11-09,Lince,EsSalud
+1853,Ricardo Gutiérrez Sánchez,M,81,1942-11-11,Independencia,EsSalud
+1854,Paola García Gómez,F,16,2007-01-24,Comas,Particular
+1855,Jessica Díaz Medina,F,48,1975-10-21,Ate,Pacífico Seguros
+1856,Eduardo Chávez Castillo,M,27,1996-07-01,Santa Anita,Pacífico Seguros
+1857,Mónica Ortiz Torres,F,43,1980-04-18,San Borja,SOAT
+1858,María Díaz Morales,F,23,2000-12-03,San Borja,EsSalud
+1859,Eduardo Quispe Torres,M,26,1997-04-07,Villa María del Triunfo,SIS
+1860,Daniela Martínez Pérez,F,80,1943-11-02,Los Olivos,Rimac Seguros
+1861,Alejandro Vargas Ramos,M,29,1995-01-01,Breña,Pacífico Seguros
+1862,Fernando Gómez Ccopa,M,55,1968-08-11,Ate,Pacífico Seguros
+1863,Gloria Huanca Cruz,F,33,1990-02-15,Carabayllo,Rimac Seguros
+1864,Luis Herrera Rodríguez,M,14,2009-10-05,Lince,Particular
+1865,Natalia Martínez Rodríguez,F,67,1956-07-05,Ate,Pacífico Seguros
+1866,Natalia Huanca Lazo,F,76,1947-03-11,Santa Anita,Particular
+1867,Sofía Sánchez García,F,30,1993-02-28,Lince,SIS
+1868,Pedro Sánchez Gutiérrez,M,1,2022-12-06,San Miguel,SIS
+1869,Víctor Condori Ortiz,M,55,1968-07-31,Villa El Salvador,EsSalud
+1870,Jessica Huanca Martínez,F,31,1992-06-29,Carabayllo,EsSalud
+1871,Mónica Reyes Gómez,F,67,1956-12-08,San Miguel,Rimac Seguros
+1872,José Vargas Ccopa,M,36,1987-06-01,Villa María del Triunfo,SOAT
+1873,Mónica Quispe Condori,F,33,1990-03-30,Villa El Salvador,SIS
+1874,Fernanda Sánchez García,F,47,1976-02-04,Los Olivos,Mapfre
+1875,Sandra Torres Medina,F,72,1951-07-12,Lince,EsSalud
+1876,Carlos Torres Ortiz,M,47,1977-01-10,Independencia,SOAT
+1877,Daniela Martínez Cusi,F,48,1976-01-07,Pueblo Libre,Rimac Seguros
+1878,Ana Vargas Rivera,F,83,1940-12-30,San Martín de Porres,EsSalud
+1879,Valeria Vargas Pérez,F,74,1949-05-23,Miraflores,Mapfre
+1880,Mónica Sánchez Gutiérrez,F,83,1940-11-29,Carabayllo,Mapfre
+1881,Alejandro García Medina,M,20,2003-10-08,Villa María del Triunfo,Pacífico Seguros
+1882,Luis Morales Ccopa,M,16,2007-02-13,San Isidro,EsSalud
+1883,Roberto Martínez Lazo,M,70,1953-10-11,Pueblo Libre,Mapfre
+1884,Roberto Ccopa Castillo,M,41,1982-03-17,Villa María del Triunfo,SOAT
+1885,Jessica García Castillo,F,52,1971-02-07,Comas,Mapfre
+1886,Luis Torres Ccopa,M,65,1958-09-03,San Borja,Pacífico Seguros
+1887,José Ortiz Pérez,M,36,1987-01-23,Santa Anita,SOAT
+1888,Patricia Vargas Mamani,F,1,2022-03-20,Magdalena,Particular
+1889,Carmen Díaz Ortiz,F,73,1950-04-05,Villa María del Triunfo,SIS
+1890,Lucía Martínez Cusi,F,12,2011-11-21,Jesús María,Pacífico Seguros
+1891,Roberto Herrera Vargas,M,3,2020-12-27,Jesús María,Mapfre
+1892,Alejandro Ortiz López,M,32,1991-01-26,Magdalena,Mapfre
+1893,Pedro Gómez Pérez,M,49,1974-10-14,Villa María del Triunfo,Particular
+1894,Rosa Herrera Díaz,F,53,1970-10-10,Barranco,Mapfre
+1895,Sofía Sánchez Gómez,F,34,1989-08-27,Villa María del Triunfo,EsSalud
+1896,Raúl Reyes Herrera,M,47,1976-02-19,Breña,Mapfre
+1897,Patricia Pérez Ccopa,F,75,1948-04-19,Rímac,SOAT
+1898,Ricardo Reyes Vargas,M,37,1986-01-17,Lince,Particular
+1899,Lucía Chávez Huanca,F,27,1996-05-13,Pueblo Libre,SOAT
+1900,Ana Cusi Martínez,F,67,1956-10-14,Villa El Salvador,Pacífico Seguros
+1901,Rosa Ortiz Herrera,F,42,1981-07-02,Breña,Rimac Seguros
+1902,Roberto Quispe Martínez,M,81,1943-01-17,Breña,Mapfre
+1903,Ricardo Gutiérrez Díaz,M,44,1979-10-09,El Agustino,SIS
+1904,Claudia Sánchez Ortiz,F,70,1954-01-07,Jesús María,Mapfre
+1905,Gloria Ortiz Herrera,F,74,1949-06-29,Villa María del Triunfo,EsSalud
+1906,Gabriela Rivera Mamani,F,48,1975-05-11,Santa Anita,Particular
+1907,Claudia Pérez Cusi,F,30,1993-06-07,Independencia,SIS
+1908,Valeria Herrera Cruz,F,76,1947-05-03,Miraflores,SOAT
+1909,Eduardo Puma Medina,M,68,1955-11-08,Lince,Rimac Seguros
+1910,Roberto Condori Pérez,M,12,2011-10-24,Magdalena,Mapfre
+1911,Verónica Cruz Sánchez,F,59,1964-11-01,Miraflores,Pacífico Seguros
+1912,José Gómez Gómez,M,11,2012-09-21,Jesús María,SOAT
+1913,Lucía Mamani Flores,F,20,2003-06-29,Villa El Salvador,Rimac Seguros
+1914,Raúl Sánchez Reyes,M,13,2010-01-18,San Martín de Porres,Rimac Seguros
+1915,Sofía Cusi Gutiérrez,F,49,1974-09-11,Los Olivos,Pacífico Seguros
+1916,Sergio Rodríguez Díaz,M,18,2005-07-22,Rímac,Mapfre
+1917,Sandra Medina Cruz,F,69,1954-05-13,Surco,Particular
+1918,Andrés Puma Medina,M,23,2000-07-05,Barranco,Particular
+1919,Jessica Ccopa García,F,79,1944-07-01,Santa Anita,Mapfre
+1920,Andrés Rodríguez Gutiérrez,M,25,1998-08-06,San Isidro,SOAT
+1921,Lucía Díaz Cruz,F,84,1939-11-06,Jesús María,EsSalud
+1922,Claudia Cruz Castillo,F,62,1961-06-15,San Isidro,Particular
+1923,José Cruz Castillo,M,67,1956-12-06,La Molina,EsSalud
+1924,Carmen Vargas Lazo,F,52,1971-08-04,Miraflores,SOAT
+1925,Daniel Chávez Cruz,M,59,1964-02-16,Miraflores,EsSalud
+1926,Sandra Huanca Pérez,F,39,1984-02-21,Comas,Particular
+1927,Héctor Condori Condori,M,58,1965-05-18,Independencia,Particular
+1928,Alejandra Reyes Martínez,F,23,2000-06-24,Comas,Rimac Seguros
+1929,Pedro García Díaz,M,76,1947-05-02,Pueblo Libre,SOAT
+1930,Sandra Pérez Ortiz,F,37,1986-05-05,San Isidro,SIS
+1931,Fernanda Pérez Puma,F,77,1946-09-13,Villa El Salvador,Particular
+1932,Daniela Castillo Gómez,F,4,2019-10-03,Carabayllo,Particular
+1933,Fernanda Morales García,F,58,1965-02-24,San Miguel,Particular
+1934,Héctor Martínez Reyes,M,5,2018-06-14,Carabayllo,Pacífico Seguros
+1935,José López Ramos,M,13,2010-10-22,San Borja,Pacífico Seguros
+1936,Sandra Puma Rivera,F,45,1978-03-02,Los Olivos,Pacífico Seguros
+1937,Víctor Herrera Ortiz,M,6,2017-06-26,Surco,Particular
+1938,Pedro Medina Mamani,M,82,1941-05-04,La Molina,EsSalud
+1939,Roberto Cusi Vargas,M,39,1984-12-30,Comas,EsSalud
+1940,Fernando Mamani Vargas,M,11,2012-09-27,Comas,SIS
+1941,Claudia Medina Chávez,F,70,1953-12-24,Barranco,Pacífico Seguros
+1942,Natalia Gutiérrez Torres,F,56,1967-01-28,Pueblo Libre,Pacífico Seguros
+1943,Fernando Chávez Castillo,M,6,2017-10-02,Santa Anita,EsSalud
+1944,Valeria García Morales,F,27,1996-06-09,Miraflores,Mapfre
+1945,Fernando Rivera Ortiz,M,77,1946-12-02,El Agustino,Particular
+1946,Andrés García Quispe,M,42,1981-03-04,Barranco,SIS
+1947,Gloria Ccopa Ortiz,F,76,1947-03-22,Comas,Pacífico Seguros
+1948,Alejandra Cruz Gutiérrez,F,72,1951-07-29,Miraflores,Particular
+1949,Fernanda Ccopa Ortiz,F,20,2003-04-26,Los Olivos,Mapfre
+1950,Manuel Quispe Sánchez,M,50,1973-12-28,Pueblo Libre,EsSalud
+1951,Raúl Ramos Reyes,M,11,2012-04-07,Lince,Pacífico Seguros
+1952,Claudia Gómez Huanca,F,41,1982-05-17,Los Olivos,Pacífico Seguros
+1953,Pedro Medina Herrera,M,22,2001-03-23,Santa Anita,Particular
+1954,Sandra Huanca García,F,37,1986-05-04,Carabayllo,Pacífico Seguros
+1955,Sergio Cusi Ramos,M,17,2006-11-03,Rímac,Rimac Seguros
+1956,Sergio Torres Torres,M,15,2008-10-05,Ate,Particular
+1957,Sergio Ramos Morales,M,46,1977-03-12,Lince,EsSalud
+1958,Daniela Huanca Reyes,F,81,1942-02-04,La Molina,Pacífico Seguros
+1959,Jessica Ramos Ramos,F,51,1972-06-21,Barranco,Mapfre
+1960,Verónica Gómez Ccopa,F,58,1965-10-17,Jesús María,Mapfre
+1961,Claudia García Ramos,F,43,1980-10-15,Los Olivos,Pacífico Seguros
+1962,Sergio Herrera Vargas,M,54,1969-10-10,Comas,EsSalud
+1963,Héctor Flores Rodríguez,M,79,1944-12-10,Santa Anita,Rimac Seguros
+1964,María Díaz Medina,F,32,1991-02-23,Jesús María,Rimac Seguros
+1965,Lucía Reyes García,F,77,1946-04-13,El Agustino,EsSalud
+1966,José Ortiz Reyes,M,31,1992-01-10,Jesús María,EsSalud
+1967,Roberto Rodríguez Gómez,M,9,2014-03-14,Miraflores,SOAT
+1968,Verónica Flores Castillo,F,78,1945-10-22,Los Olivos,SOAT
+1969,Jessica Vargas Martínez,F,78,1945-10-31,San Miguel,Mapfre
+1970,Gonzalo Mamani López,M,1,2022-01-20,San Isidro,Pacífico Seguros
+1971,Jessica Gutiérrez Lazo,F,50,1973-06-14,Surco,Mapfre
+1972,Alejandra Martínez Quispe,F,78,1946-01-08,El Agustino,Rimac Seguros
+1973,Mónica Ccopa Mamani,F,8,2015-06-14,Magdalena,Mapfre
+1974,Alejandro Cruz Quispe,M,66,1957-06-06,El Agustino,Pacífico Seguros
+1975,Carmen Martínez Rodríguez,F,34,1989-11-13,Ate,Mapfre
+1976,Alejandro Morales Castillo,M,44,1979-05-10,San Borja,SOAT
+1977,Fernando Martínez Díaz,M,83,1940-06-01,Villa María del Triunfo,SIS
+1978,Gabriela Huanca Rivera,F,44,1979-05-30,Magdalena,Pacífico Seguros
+1979,Verónica Quispe Rivera,F,73,1951-01-01,Pueblo Libre,Rimac Seguros
+1980,Pedro Chávez Gómez,M,4,2019-03-20,Barranco,Particular
+1981,Claudia Gómez Quispe,F,21,2002-08-03,Ate,Pacífico Seguros
+1982,Verónica Castillo Gómez,F,20,2003-10-23,Villa María del Triunfo,SOAT
+1983,Paola Rivera Vargas,F,30,1993-09-22,Miraflores,Mapfre
+1984,Rosa Herrera García,F,34,1989-04-24,Breña,Pacífico Seguros
+1985,Mónica Medina Puma,F,22,2001-10-19,Breña,Pacífico Seguros
+1986,Jessica Reyes Cruz,F,63,1960-04-23,El Agustino,SOAT
+1987,Patricia Gutiérrez Puma,F,49,1974-12-11,Miraflores,Pacífico Seguros
+1988,Gabriela Gómez Torres,F,29,1994-03-03,San Borja,Particular
+1989,Diego Reyes Gutiérrez,M,59,1965-01-09,Ate,Pacífico Seguros
+1990,Diego Reyes Castillo,M,5,2018-11-13,Rímac,Pacífico Seguros
+1991,Jessica López Rivera,F,71,1952-04-18,Carabayllo,Mapfre
+1992,Juan Ortiz Herrera,M,67,1956-09-08,Barranco,SOAT
+1993,Andrés Flores Quispe,M,59,1964-03-10,Jesús María,SIS
+1994,Alejandra Rivera López,F,25,1998-04-15,Surco,SOAT
+1995,Ana Torres Flores,F,32,1991-03-18,Ate,Mapfre
+1996,Verónica Martínez Ramos,F,7,2016-02-13,San Miguel,Mapfre
+1997,Diego Gutiérrez Martínez,M,57,1966-10-06,Surco,EsSalud
+1998,Manuel Herrera Torres,M,77,1946-04-04,San Martín de Porres,Particular
+1999,Daniel Morales Lazo,M,15,2008-02-10,Los Olivos,Mapfre
+2000,Daniel Condori Vargas,M,79,1944-09-14,Los Olivos,SIS
+2001,Gloria Rivera Gutiérrez,F,81,1942-05-07,Jesús María,Particular
+2002,Jessica Gómez Vargas,F,39,1984-04-13,Pueblo Libre,Mapfre
+2003,Roberto Rivera Castillo,M,72,1951-03-05,Independencia,Particular
+2004,Carmen Huanca Sánchez,F,63,1960-05-01,Miraflores,Particular
+2005,Mónica Sánchez Sánchez,F,9,2014-08-01,Comas,Pacífico Seguros
+2006,Gonzalo Díaz Vargas,M,69,1954-11-24,Jesús María,SOAT
+2007,Diego Gómez Chávez,M,40,1983-04-15,San Miguel,Mapfre
+2008,Carmen Castillo Gómez,F,79,1944-02-11,Lince,Rimac Seguros
+2009,Roberto Sánchez Torres,M,51,1972-10-25,Jesús María,Mapfre
+2010,Roberto Chávez Gutiérrez,M,84,1939-06-23,Santa Anita,Mapfre
+2011,Gabriela Cusi Rivera,F,61,1962-11-03,Magdalena,Particular
+2012,Daniela Mamani Reyes,F,41,1982-06-08,Los Olivos,Particular
+2013,Sandra García Huanca,F,52,1971-07-17,San Isidro,EsSalud
+2014,Gonzalo Huanca Rivera,M,3,2020-09-17,Villa María del Triunfo,SOAT
+2015,Claudia Ccopa Reyes,F,4,2019-06-21,San Miguel,EsSalud
+2016,Alejandra Ramos Mamani,F,26,1997-04-25,Lince,Rimac Seguros
+2017,Valeria Martínez López,F,32,1991-05-09,Jesús María,Particular
+2018,Ana Huanca Castillo,F,50,1973-05-09,Villa María del Triunfo,Pacífico Seguros
+2019,Fernando Medina Herrera,M,49,1974-12-16,San Isidro,SIS
+2020,Valeria Ramos Reyes,F,57,1966-05-19,Magdalena,SIS
+2021,Luis Díaz Huanca,M,53,1970-10-29,San Borja,Mapfre
+2022,Natalia Torres Ramos,F,12,2011-07-21,Los Olivos,SOAT
+2023,Alejandra Chávez Ccopa,F,38,1985-10-31,Villa María del Triunfo,SIS
+2024,Roberto Lazo Reyes,M,58,1965-08-04,Lince,SOAT
+2025,Gabriela Ortiz Reyes,F,43,1980-01-17,Lince,Pacífico Seguros
+2026,Valeria Medina Mamani,F,3,2020-02-08,San Borja,SIS
+2027,Sandra Cruz Condori,F,63,1960-04-21,San Isidro,Mapfre
+2028,Víctor Reyes García,M,73,1950-05-06,Comas,SIS
+2029,Alejandra Gutiérrez Gómez,F,74,1949-12-16,San Miguel,Pacífico Seguros
+2030,Daniel López Ramos,M,15,2008-04-17,Carabayllo,SOAT
+2031,Daniel Cusi Ortiz,M,79,1944-12-14,El Agustino,SOAT
+2032,Valeria Ortiz Ortiz,F,20,2003-11-30,El Agustino,Particular
+2033,Daniel Díaz Ortiz,M,68,1955-06-11,Villa María del Triunfo,Pacífico Seguros
+2034,Sergio Herrera Gómez,M,1,2022-06-16,Santa Anita,Mapfre
+2035,Carlos Flores Díaz,M,55,1968-09-22,San Borja,Particular
+2036,Alejandra Ortiz Vargas,F,26,1997-03-18,Ate,Particular
+2037,Diego Huanca Rodríguez,M,27,1996-11-17,Magdalena,SOAT
+2038,Manuel Medina Lazo,M,6,2017-07-08,San Borja,Rimac Seguros
+2039,Roberto Lazo Díaz,M,30,1993-09-27,Villa El Salvador,SOAT
+2040,Patricia Morales Rivera,F,30,1993-07-11,Lince,Mapfre
+2041,Pedro Puma Puma,M,57,1966-07-07,La Molina,Mapfre
+2042,Gonzalo Lazo Mamani,M,27,1996-05-24,Rímac,SIS
+2043,Paola Torres Torres,F,49,1974-11-11,Ate,Mapfre
+2044,José Chávez Cusi,M,75,1948-10-28,Independencia,SIS
+2045,Miguel Gutiérrez Mamani,M,78,1945-08-11,Breña,Pacífico Seguros
+2046,Sofía Torres López,F,65,1958-09-09,Breña,EsSalud
+2047,Gonzalo García García,M,49,1974-11-23,Comas,EsSalud
+2048,Fernanda Gómez Ccopa,F,9,2014-02-04,Comas,Mapfre
+2049,Gabriela Quispe López,F,84,1939-07-07,El Agustino,Mapfre
+2050,María Rivera Mamani,F,83,1940-11-10,San Miguel,SIS
+2051,José Herrera García,M,17,2006-10-26,Independencia,SOAT
+2052,Ana Pérez Medina,F,27,1996-07-01,Villa El Salvador,Particular
+2053,Patricia Morales Sánchez,F,23,2000-01-30,Independencia,SOAT
+2054,Alejandro Puma Cusi,M,15,2008-04-25,Jesús María,SIS
+2055,Eduardo Cruz Vargas,M,48,1975-08-02,Pueblo Libre,Rimac Seguros
+2056,Carlos Díaz García,M,61,1962-11-04,San Isidro,Pacífico Seguros
+2057,Ana Ramos Cruz,F,77,1946-11-01,Independencia,SOAT
+2058,Carlos Reyes Puma,M,29,1994-12-06,Surco,EsSalud
+2059,Raúl Ortiz Morales,M,69,1954-03-16,Los Olivos,SOAT
+2060,Eduardo Gutiérrez Gutiérrez,M,33,1990-02-07,San Borja,Particular
+2061,Gloria Castillo Quispe,F,13,2010-03-18,San Martín de Porres,EsSalud
+2062,Pedro Flores Chávez,M,17,2006-02-02,San Borja,SOAT
+2063,Miguel Quispe Cruz,M,37,1986-09-05,Santa Anita,SIS
+2064,Fernando Sánchez Mamani,M,85,1938-01-24,Magdalena,Particular
+2065,Natalia Chávez Chávez,F,74,1949-11-13,Pueblo Libre,Mapfre
+2066,Sandra Reyes Castillo,F,19,2004-12-19,Ate,Pacífico Seguros
+2067,Ana Condori Torres,F,24,1999-02-17,Miraflores,SOAT
+2068,Andrés Sánchez Cruz,M,42,1981-05-10,Miraflores,Rimac Seguros
+2069,Fernanda Torres Vargas,F,74,1949-10-02,Rímac,EsSalud
+2070,Gloria Rivera Ramos,F,57,1966-08-25,La Molina,Pacífico Seguros
+2071,Daniela Puma Sánchez,F,33,1990-05-05,San Miguel,Mapfre
+2072,Carmen Castillo Lazo,F,44,1979-12-11,Independencia,Particular
+2073,Sandra Vargas García,F,70,1953-09-24,San Borja,SIS
+2074,Carmen Martínez Ramos,F,38,1985-07-17,San Borja,Mapfre
+2075,Verónica Morales Ramos,F,11,2012-06-14,Independencia,SOAT
+2076,Pedro Ccopa Castillo,M,29,1994-07-11,Miraflores,SOAT
+2077,Daniel Lazo Chávez,M,68,1955-04-21,San Isidro,Mapfre
+2078,Alejandra Flores Quispe,F,68,1955-10-29,Jesús María,Particular
+2079,José Vargas Vargas,M,80,1943-11-05,Barranco,Mapfre
+2080,Sofía Rivera Pérez,F,52,1971-04-22,Magdalena,EsSalud
+2081,Mónica Ortiz Díaz,F,18,2005-11-28,Magdalena,SIS
+2082,Alejandra Castillo Gómez,F,27,1996-12-04,Santa Anita,Rimac Seguros
+2083,Ricardo Rodríguez Rodríguez,M,62,1961-09-14,Jesús María,Mapfre
+2084,Patricia Vargas Morales,F,51,1972-09-08,Ate,SOAT
+2085,Lucía Flores Rivera,F,18,2005-03-12,Rímac,SIS
+2086,Diego Ortiz Rodríguez,M,36,1987-02-18,San Miguel,SIS
+2087,Víctor Gómez Chávez,M,14,2009-05-08,El Agustino,Rimac Seguros
+2088,Gonzalo Gómez Ccopa,M,16,2007-02-27,Carabayllo,Pacífico Seguros
+2089,Rosa López Puma,F,44,1979-07-01,Pueblo Libre,SIS
+2090,Carmen Vargas Ortiz,F,55,1968-01-17,Ate,SOAT
+2091,Claudia Flores Chávez,F,14,2009-03-02,Surco,Pacífico Seguros
+2092,Gabriela Lazo Lazo,F,64,1959-06-16,Villa María del Triunfo,EsSalud
+2093,Miguel Lazo Huanca,M,36,1987-02-17,Pueblo Libre,Particular
+2094,Sandra Castillo Ccopa,F,33,1991-01-03,Breña,SIS
+2095,Raúl Flores Herrera,M,64,1959-06-09,Barranco,Rimac Seguros
+2096,Carmen Huanca Ccopa,F,63,1960-04-02,Carabayllo,Rimac Seguros
+2097,Gloria Chávez Lazo,F,49,1974-11-19,San Isidro,Rimac Seguros
+2098,Daniel Martínez Martínez,M,31,1992-01-30,Breña,Rimac Seguros
+2099,Paola Quispe Mamani,F,6,2017-05-22,Breña,Pacífico Seguros
+2100,Natalia Lazo Chávez,F,5,2018-02-15,Rímac,Mapfre
+2101,María Torres Herrera,F,24,1999-07-23,Miraflores,Pacífico Seguros
+2102,Eduardo Cusi Morales,M,4,2019-08-26,Los Olivos,Mapfre
+2103,Fernanda Reyes Flores,F,36,1987-12-17,Los Olivos,Mapfre
+2104,Verónica Quispe Vargas,F,34,1989-03-30,Jesús María,SOAT
+2105,Paola Huanca Reyes,F,23,2000-11-22,San Martín de Porres,Mapfre
+2106,Fernanda Medina Ramos,F,30,1993-08-05,San Miguel,Mapfre
+2107,Luis Vargas Cruz,M,41,1982-02-18,Santa Anita,EsSalud
+2108,Sergio Torres Rivera,M,63,1960-06-06,Breña,Particular
+2109,Patricia Sánchez Díaz,F,3,2020-03-10,La Molina,SOAT
+2110,Jessica Quispe Vargas,F,72,1951-04-08,Magdalena,Mapfre
+2111,Sergio Medina Quispe,M,10,2013-11-18,Lince,SIS
+2112,Valeria Rodríguez Quispe,F,44,1979-06-23,Carabayllo,Particular
+2113,Sergio Martínez Lazo,M,38,1985-11-29,Santa Anita,Rimac Seguros
+2114,Gabriela Ortiz Ccopa,F,6,2017-10-15,Barranco,Rimac Seguros
+2115,María Gutiérrez Flores,F,29,1994-05-28,Barranco,SOAT
+2116,Pedro García Gómez,M,32,1991-03-02,Miraflores,Mapfre
+2117,Verónica Morales Ramos,F,71,1952-06-21,Ate,SOAT
+2118,Víctor Herrera Cruz,M,81,1942-09-10,Ate,EsSalud
+2119,Valeria Morales Reyes,F,47,1976-04-11,Barranco,Particular
+2120,Lucía Quispe Rodríguez,F,42,1981-04-11,Villa María del Triunfo,SOAT
+2121,Miguel Cusi Condori,M,65,1958-04-18,Villa María del Triunfo,EsSalud
+2122,Carmen Condori Ccopa,F,78,1945-07-26,Barranco,Pacífico Seguros
+2123,Gonzalo Rivera Herrera,M,7,2016-05-23,Los Olivos,Rimac Seguros
+2124,Natalia Morales López,F,22,2001-05-22,Miraflores,Rimac Seguros
+2125,Alejandro Gutiérrez Lazo,M,19,2004-07-08,Surco,Pacífico Seguros
+2126,Fernando Herrera Rivera,M,4,2019-04-26,Villa María del Triunfo,Rimac Seguros
+2127,Rosa Cruz Torres,F,85,1938-04-22,Los Olivos,Particular
+2128,Daniela Flores Herrera,F,66,1957-04-16,Comas,SOAT
+2129,María Medina Pérez,F,46,1977-12-07,Ate,SIS
+2130,Víctor Morales Mamani,M,21,2002-03-05,Lince,SOAT
+2131,José García Vargas,M,64,1959-12-03,La Molina,Particular
+2132,Sergio Herrera Quispe,M,50,1973-01-22,Comas,EsSalud
+2133,Rosa Lazo Díaz,F,24,1999-07-10,La Molina,Particular
+2134,Ricardo Puma Rivera,M,64,1959-09-06,Surco,SOAT
+2135,Sofía Flores Reyes,F,83,1940-08-01,El Agustino,SIS
+2136,Carmen Chávez Rivera,F,3,2020-03-22,Santa Anita,SIS
+2137,Alejandro Martínez Sánchez,M,1,2022-12-30,Independencia,SIS
+2138,Paola Gómez García,F,73,1950-12-15,Ate,Particular
+2139,Diego Vargas Medina,M,64,1959-09-28,Jesús María,Rimac Seguros
+2140,Carmen Lazo Castillo,F,20,2003-03-19,Santa Anita,Particular
+2141,Gonzalo Quispe Lazo,M,23,2000-05-24,Independencia,SOAT
+2142,Héctor Pérez Cusi,M,69,1954-08-12,La Molina,Mapfre
+2143,Carmen Reyes Castillo,F,24,1999-10-14,Ate,Rimac Seguros
+2144,Raúl Torres Medina,M,20,2003-05-19,Santa Anita,Particular
+2145,Verónica Martínez Castillo,F,71,1952-09-14,Surco,Particular
+2146,Rosa Flores Ccopa,F,63,1960-06-24,Lince,Mapfre
+2147,Alejandro Pérez Cusi,M,62,1961-03-20,Villa El Salvador,Pacífico Seguros
+2148,Víctor López Castillo,M,84,1939-04-09,San Miguel,Rimac Seguros
+2149,Alejandra Vargas Torres,F,37,1986-05-26,San Miguel,SOAT
+2150,Eduardo Vargas Morales,M,52,1971-12-03,Comas,EsSalud
+2151,María Gutiérrez Martínez,F,42,1981-03-05,Carabayllo,EsSalud
+2152,Claudia Gutiérrez Condori,F,37,1986-12-13,Villa El Salvador,Pacífico Seguros
+2153,Diego López Gómez,M,76,1947-10-24,Ate,Rimac Seguros
+2154,Ana Ramos García,F,7,2016-09-28,Magdalena,EsSalud
+2155,Alejandra Pérez Ccopa,F,56,1967-10-16,Independencia,Rimac Seguros
+2156,Ana Cusi Torres,F,13,2010-09-13,Los Olivos,SOAT
+2157,Lucía Quispe Torres,F,64,1959-02-24,Lince,Rimac Seguros
+2158,Juan Cusi Cruz,M,27,1996-08-12,Villa María del Triunfo,SIS
+2159,Andrés Castillo Ccopa,M,43,1980-09-17,Jesús María,EsSalud
+2160,Paola Pérez Rodríguez,F,19,2004-02-22,Santa Anita,SOAT
+2161,Sandra Castillo Herrera,F,81,1942-02-21,Magdalena,SOAT
+2162,Sandra Quispe García,F,54,1969-08-25,Comas,EsSalud
+2163,Raúl Rivera Medina,M,2,2021-06-13,El Agustino,Pacífico Seguros
+2164,Gonzalo Rodríguez Castillo,M,29,1994-11-11,Surco,Pacífico Seguros
+2165,José Puma Condori,M,63,1960-04-17,Surco,SOAT
+2166,Patricia Mamani Rivera,F,51,1972-08-20,Magdalena,Rimac Seguros
+2167,Natalia Rivera Martínez,F,16,2007-09-24,Rímac,Mapfre
+2168,Manuel Lazo Gutiérrez,M,26,1997-12-20,San Borja,Rimac Seguros
+2169,Mónica Martínez Martínez,F,30,1993-06-24,San Isidro,Mapfre
+2170,Luis Huanca Quispe,M,9,2014-02-22,Barranco,EsSalud
+2171,Verónica Mamani Rodríguez,F,57,1966-12-25,Santa Anita,Mapfre
+2172,Diego Mamani Díaz,M,6,2017-10-16,Ate,SIS
+2173,Valeria Cusi Sánchez,F,45,1978-02-17,Los Olivos,SOAT
+2174,Sergio Cruz Rodríguez,M,38,1985-09-17,Independencia,SIS
+2175,Diego Díaz Castillo,M,57,1966-06-04,Miraflores,Mapfre
+2176,Andrés Medina Chávez,M,37,1986-10-29,Carabayllo,SOAT
+2177,Ana Martínez Castillo,F,9,2014-04-05,Comas,Rimac Seguros
+2178,Héctor Mamani Sánchez,M,42,1981-10-30,Breña,SIS
+2179,Andrés García Cruz,M,1,2022-06-17,Ate,SIS
+2180,Andrés Huanca Vargas,M,5,2018-11-26,Ate,Rimac Seguros
+2181,Raúl Cusi Herrera,M,83,1940-02-05,Rímac,Particular
+2182,Verónica Cusi Mamani,F,31,1992-03-01,Villa El Salvador,EsSalud
+2183,Fernanda Vargas Ortiz,F,62,1961-04-17,San Borja,EsSalud
+2184,Gabriela Rodríguez Gómez,F,82,1941-09-12,Jesús María,EsSalud
+2185,Alejandro Mamani García,M,56,1967-12-25,Magdalena,SOAT
+2186,Sandra Quispe Puma,F,70,1953-11-15,Barranco,EsSalud
+2187,Sofía Cruz Morales,F,54,1969-05-28,Los Olivos,Pacífico Seguros
+2188,Paola Ortiz Reyes,F,44,1979-06-22,San Miguel,Pacífico Seguros
+2189,Víctor Torres Flores,M,28,1995-03-23,Villa María del Triunfo,SOAT
+2190,Héctor Reyes Puma,M,60,1963-06-21,Carabayllo,Mapfre
+2191,Claudia Torres Cruz,F,19,2004-04-03,San Martín de Porres,SIS
+2192,Claudia Puma Ccopa,F,80,1943-10-11,Comas,SIS
+2193,Roberto Ramos Puma,M,21,2002-04-17,Villa El Salvador,EsSalud
+2194,Patricia Ortiz García,F,27,1996-02-01,Rímac,Rimac Seguros
+2195,Fernando Mamani Castillo,M,73,1950-06-28,San Borja,Pacífico Seguros
+2196,Pedro Morales Díaz,M,60,1963-11-11,Barranco,Mapfre
+2197,Daniela Medina Cusi,F,79,1944-03-05,Independencia,Pacífico Seguros
+2198,Miguel Condori López,M,11,2012-12-07,Miraflores,SIS
+2199,Lucía Díaz Cusi,F,46,1977-10-27,Lince,Pacífico Seguros
+2200,Eduardo Ccopa López,M,47,1976-03-20,Santa Anita,Particular
+2201,Mónica Díaz Quispe,F,23,2000-11-16,Magdalena,Particular
+2202,Pedro Sánchez Morales,M,16,2007-06-10,Carabayllo,Rimac Seguros
+2203,Manuel Ramos Vargas,M,61,1962-01-28,Villa María del Triunfo,Particular
+2204,Miguel Castillo Rodríguez,M,57,1966-12-26,La Molina,Mapfre
+2205,Sergio Gutiérrez Cruz,M,62,1962-01-06,Jesús María,Mapfre
+2206,Verónica Herrera Herrera,F,24,1999-05-01,Los Olivos,SIS
+2207,Daniela López Puma,F,48,1975-11-05,Surco,SOAT
+2208,Paola Cusi Rodríguez,F,15,2008-02-15,Villa El Salvador,SOAT
+2209,Claudia Quispe Condori,F,11,2012-04-25,Breña,Rimac Seguros
+2210,Héctor Puma Herrera,M,54,1969-09-07,Jesús María,Particular
+2211,Víctor Rivera Chávez,M,4,2019-10-09,San Martín de Porres,Particular
+2212,Andrés Quispe Gómez,M,34,1989-07-21,Los Olivos,EsSalud
+2213,Fernando Mamani Huanca,M,85,1938-12-12,Los Olivos,Pacífico Seguros
+2214,Alejandra Pérez Rodríguez,F,80,1943-04-03,Miraflores,Pacífico Seguros
+2215,Eduardo Cruz Torres,M,61,1962-12-29,Rímac,EsSalud
+2216,Paola Díaz Reyes,F,66,1957-01-20,Comas,EsSalud
+2217,Rosa Reyes Mamani,F,34,1989-05-04,Carabayllo,SOAT
+2218,Valeria López Cusi,F,58,1965-02-08,Villa El Salvador,SIS
+2219,Jessica Puma Martínez,F,3,2020-11-08,San Borja,Mapfre
+2220,Luis Sánchez Reyes,M,9,2014-09-04,San Borja,Rimac Seguros
+2221,Luis García Mamani,M,2,2021-02-19,San Miguel,Mapfre
+2222,Pedro Herrera Vargas,M,59,1964-07-30,El Agustino,Mapfre
+2223,Héctor Martínez Pérez,M,18,2005-11-25,Lince,Pacífico Seguros
+2224,Luis Quispe López,M,1,2022-01-15,Comas,Mapfre
+2225,Diego Pérez Quispe,M,11,2012-02-18,Rímac,Particular
+2226,Raúl Ccopa Torres,M,64,1959-10-14,Santa Anita,Pacífico Seguros
+2227,Claudia Mamani Castillo,F,76,1947-10-18,San Isidro,EsSalud
+2228,Luis Sánchez Torres,M,34,1989-03-21,San Borja,Rimac Seguros
+2229,Miguel Quispe Huanca,M,10,2013-07-23,Lince,SOAT
+2230,José Cruz Vargas,M,76,1947-06-23,Magdalena,Rimac Seguros
+2231,Sofía Morales Rivera,F,45,1979-01-09,Barranco,Rimac Seguros
+2232,Claudia Huanca Sánchez,F,9,2014-04-26,San Isidro,SIS
+2233,Ana Medina Huanca,F,56,1967-06-01,Surco,Pacífico Seguros
+2234,Luis Díaz Herrera,M,47,1976-03-08,Villa María del Triunfo,Pacífico Seguros
+2235,Daniel Rivera Mamani,M,41,1982-05-11,Los Olivos,Particular
+2236,Mónica Gómez Huanca,F,63,1960-10-11,San Miguel,Rimac Seguros
+2237,Daniel Sánchez Pérez,M,46,1977-05-21,Comas,EsSalud
+2238,Paola Ortiz Lazo,F,60,1963-11-05,Los Olivos,SOAT
+2239,Sandra García Lazo,F,18,2005-02-16,San Miguel,EsSalud
+2240,Sergio Reyes García,M,56,1967-10-30,Villa El Salvador,SOAT
+2241,Diego Martínez García,M,51,1972-08-28,San Martín de Porres,SOAT
+2242,Sofía García Gutiérrez,F,51,1972-04-07,Jesús María,Particular
+2243,Gabriela Torres Gutiérrez,F,78,1945-06-12,San Martín de Porres,EsSalud
+2244,Raúl Castillo Pérez,M,46,1977-07-31,La Molina,SIS
+2245,Gloria Gómez Rodríguez,F,31,1992-09-20,Independencia,EsSalud
+2246,Mónica García Gómez,F,81,1942-03-05,Jesús María,Particular
+2247,Gloria Morales Medina,F,16,2007-04-09,Santa Anita,SOAT
+2248,Daniela Mamani Reyes,F,17,2006-05-08,Breña,Rimac Seguros
+2249,Carlos Ortiz Reyes,M,54,1969-07-31,Barranco,SOAT
+2250,Roberto Vargas Cusi,M,61,1962-07-26,Pueblo Libre,Rimac Seguros
+2251,Sofía Puma Rodríguez,F,42,1981-09-16,El Agustino,Rimac Seguros
+2252,Andrés Gutiérrez Herrera,M,61,1962-04-30,Miraflores,Particular
+2253,Sergio Huanca Rodríguez,M,80,1943-04-26,San Miguel,SIS
+2254,Verónica Medina Puma,F,35,1988-06-24,Surco,EsSalud
+2255,Fernando Quispe Rodríguez,M,47,1976-09-08,San Isidro,EsSalud
+2256,Carlos Díaz Reyes,M,80,1943-11-08,San Martín de Porres,Rimac Seguros
+2257,Daniela Gutiérrez Díaz,F,78,1945-02-24,Carabayllo,SOAT
+2258,Héctor Medina Martínez,M,38,1985-10-03,San Isidro,Pacífico Seguros
+2259,Gabriela Condori Cruz,F,55,1969-01-09,Villa María del Triunfo,Mapfre
+2260,Valeria Torres Rodríguez,F,38,1985-02-11,Miraflores,SIS
+2261,Lucía Reyes Ortiz,F,19,2004-06-24,Los Olivos,Pacífico Seguros
+2262,Héctor Ortiz Huanca,M,41,1982-05-23,La Molina,Particular
+2263,Sofía Quispe Medina,F,59,1964-03-21,Magdalena,SOAT
+2264,Roberto García Martínez,M,7,2016-05-03,San Miguel,Rimac Seguros
+2265,Rosa Díaz Ccopa,F,49,1974-02-26,Carabayllo,SIS
+2266,Daniela Cruz Sánchez,F,42,1981-12-25,Santa Anita,Mapfre
+2267,Daniela Herrera Huanca,F,73,1950-12-22,San Isidro,Rimac Seguros
+2268,Raúl López Cusi,M,9,2014-11-12,San Borja,SOAT
+2269,Andrés López Huanca,M,47,1976-12-02,Breña,Particular
+2270,Daniela Huanca López,F,64,1959-12-17,Rímac,Rimac Seguros
+2271,Paola Quispe Rodríguez,F,71,1952-10-04,Surco,Mapfre
+2272,Patricia Martínez Huanca,F,34,1989-12-12,Barranco,SOAT
+2273,Juan Vargas Ccopa,M,29,1994-12-18,San Martín de Porres,SIS
+2274,Andrés Rodríguez Lazo,M,18,2005-07-24,Independencia,Particular
+2275,Paola García Chávez,F,38,1985-02-02,San Martín de Porres,SIS
+2276,Alejandra López Pérez,F,26,1997-09-23,Ate,SIS
+2277,Daniel Gutiérrez García,M,45,1978-03-21,Villa María del Triunfo,SIS
+2278,Jessica Puma Ccopa,F,22,2001-10-21,Rímac,SOAT
+2279,Héctor Gómez Rivera,M,72,1951-07-05,Breña,Rimac Seguros
+2280,Diego Huanca Medina,M,33,1990-07-26,San Miguel,SOAT
+2281,Paola Martínez Vargas,F,37,1986-05-27,Los Olivos,SIS
+2282,Sofía Sánchez Martínez,F,6,2017-11-09,Rímac,Mapfre
+2283,Diego Huanca Herrera,M,39,1984-09-23,Villa María del Triunfo,Pacífico Seguros
+2284,Fernanda Ortiz Pérez,F,83,1940-04-06,El Agustino,SOAT
+2285,Sofía Chávez García,F,40,1983-10-11,Miraflores,SOAT
+2286,Sofía Gutiérrez Mamani,F,50,1973-06-27,San Miguel,EsSalud
+2287,Raúl Gutiérrez Ramos,M,77,1946-02-13,Magdalena,Mapfre
+2288,Luis Medina Martínez,M,1,2022-12-07,Miraflores,Rimac Seguros
+2289,Fernando Cusi García,M,39,1984-03-26,Los Olivos,EsSalud
+2290,Miguel Pérez Reyes,M,28,1995-06-06,El Agustino,SOAT
+2291,Lucía Rivera Morales,F,84,1940-01-05,Miraflores,Particular
+2292,Eduardo Rodríguez Rivera,M,59,1964-02-25,Lince,SIS
+2293,Raúl Sánchez García,M,15,2008-09-06,Surco,Pacífico Seguros
+2294,Natalia Quispe Ramos,F,35,1988-01-16,Pueblo Libre,SIS
+2295,Lucía Mamani Quispe,F,20,2003-06-17,Lince,SIS
+2296,María Pérez Gutiérrez,F,56,1967-10-18,Los Olivos,EsSalud
+2297,Daniel Puma Pérez,M,85,1938-09-01,Surco,Mapfre
+2298,Mónica Torres Condori,F,35,1988-08-23,Miraflores,Pacífico Seguros
+2299,Andrés Quispe Ortiz,M,1,2022-03-19,El Agustino,SIS
+2300,Alejandra Quispe Gutiérrez,F,30,1993-12-15,Villa María del Triunfo,Mapfre
+2301,Fernanda López Medina,F,48,1975-05-17,Los Olivos,Mapfre
+2302,Alejandro Castillo Puma,M,48,1975-10-31,Carabayllo,Rimac Seguros
+2303,Fernanda Morales Sánchez,F,75,1948-05-25,Rímac,Particular
+2304,Claudia Rodríguez Ccopa,F,64,1959-06-23,Villa El Salvador,Rimac Seguros
+2305,Sandra López Medina,F,33,1990-07-10,San Borja,Particular
+2306,Verónica Huanca Ramos,F,22,2001-04-22,San Isidro,Particular
+2307,Héctor Díaz Ramos,M,81,1942-04-03,Jesús María,Mapfre
+2308,Diego Ccopa Quispe,M,51,1972-06-13,Surco,Mapfre
+2309,Víctor Ramos Pérez,M,67,1957-01-15,La Molina,Rimac Seguros
+2310,Alejandra Castillo Sánchez,F,30,1993-07-21,Villa El Salvador,Pacífico Seguros
+2311,Carmen Díaz Mamani,F,48,1975-04-21,Carabayllo,EsSalud
+2312,Gabriela Herrera Reyes,F,53,1970-11-21,Villa María del Triunfo,Mapfre
+2313,Gonzalo Rodríguez Ccopa,M,25,1998-04-24,Villa María del Triunfo,SIS
+2314,Raúl Rodríguez Cusi,M,10,2013-09-02,Villa María del Triunfo,Particular
+2315,Claudia Ccopa Torres,F,70,1953-10-13,El Agustino,SIS
+2316,Carlos García Gómez,M,16,2007-01-22,Lince,SOAT
+2317,Luis Rivera Ortiz,M,16,2007-02-01,Comas,Particular
+2318,María Quispe Medina,F,39,1984-07-03,San Miguel,EsSalud
+2319,Eduardo Morales Medina,M,76,1947-03-12,San Martín de Porres,Pacífico Seguros
+2320,Raúl Pérez Gutiérrez,M,41,1982-09-03,Breña,SIS
+2321,Paola Huanca Ramos,F,13,2010-03-10,Comas,Pacífico Seguros
+2322,Mónica García Cruz,F,5,2018-11-19,San Martín de Porres,Mapfre
+2323,Valeria Ramos López,F,11,2012-02-15,Barranco,Pacífico Seguros
+2324,Gonzalo Cruz Mamani,M,44,1979-05-17,Barranco,Rimac Seguros
+2325,Roberto Gómez Ramos,M,58,1965-06-19,Lince,Rimac Seguros
+2326,Carlos Castillo Rodríguez,M,76,1948-01-06,Villa El Salvador,Mapfre
+2327,Lucía Chávez Sánchez,F,60,1963-04-02,Pueblo Libre,Pacífico Seguros
+2328,Alejandra Vargas Mamani,F,7,2016-11-03,Pueblo Libre,Rimac Seguros
+2329,Patricia Puma Ortiz,F,38,1985-08-15,Jesús María,SIS
+2330,Sandra Martínez Castillo,F,20,2003-05-05,Surco,SOAT
+2331,Gabriela García Cruz,F,84,1939-07-14,Jesús María,Mapfre
+2332,Eduardo Sánchez Flores,M,44,1979-05-05,Villa El Salvador,Rimac Seguros
+2333,Gonzalo Condori Quispe,M,15,2008-10-25,La Molina,SOAT
+2334,Héctor Herrera García,M,57,1966-01-23,San Martín de Porres,Particular
+2335,María Quispe Chávez,F,48,1975-11-20,El Agustino,Rimac Seguros
+2336,Mónica Pérez Rivera,F,56,1967-06-13,Carabayllo,Pacífico Seguros
+2337,Luis López Rivera,M,46,1977-04-28,San Martín de Porres,EsSalud
+2338,Pedro Martínez García,M,21,2002-10-03,Surco,Rimac Seguros
+2339,Gonzalo Castillo Ramos,M,48,1975-05-14,Carabayllo,Particular
+2340,José Herrera Morales,M,15,2008-09-08,Carabayllo,SIS
+2341,Pedro Gómez Rodríguez,M,51,1972-12-14,Miraflores,Particular
+2342,Miguel Chávez Castillo,M,35,1989-01-05,Ate,Rimac Seguros
+2343,Rosa Díaz Cusi,F,32,1991-09-22,San Martín de Porres,Mapfre
+2344,Raúl Gutiérrez Gutiérrez,M,28,1995-06-24,La Molina,SOAT
+2345,Pedro Castillo Rodríguez,M,66,1957-12-14,San Borja,Mapfre
+2346,Jessica López Herrera,F,22,2001-06-09,Barranco,Pacífico Seguros
+2347,Gabriela Ccopa Rivera,F,53,1970-06-07,San Isidro,Mapfre
+2348,Roberto Huanca Cruz,M,4,2019-06-25,Lince,Pacífico Seguros
+2349,Verónica Medina Ccopa,F,29,1994-02-28,San Borja,EsSalud
+2350,Patricia Flores Medina,F,67,1956-12-10,Magdalena,EsSalud
+2351,Gloria García Morales,F,9,2014-01-08,Carabayllo,SIS
+2352,Juan Reyes Rivera,M,51,1972-02-16,Pueblo Libre,EsSalud
+2353,Claudia Ccopa Ramos,F,78,1945-05-25,San Miguel,Particular
+2354,Paola Huanca Lazo,F,76,1947-02-05,Villa María del Triunfo,Rimac Seguros
+2355,Raúl Díaz López,M,63,1960-04-27,San Miguel,Rimac Seguros
+2356,Fernando Vargas Rivera,M,35,1988-04-22,Magdalena,Rimac Seguros
+2357,Roberto Cusi Puma,M,42,1981-10-06,Barranco,Rimac Seguros
+2358,Claudia Torres Ccopa,F,43,1980-06-15,Independencia,Pacífico Seguros
+2359,Valeria Medina Morales,F,85,1938-03-15,Lince,Mapfre
+2360,Eduardo Torres Castillo,M,47,1976-04-04,Villa María del Triunfo,Rimac Seguros
+2361,Sofía Condori Ortiz,F,75,1948-11-20,Independencia,SOAT
+2362,Gabriela Torres Medina,F,82,1941-02-24,San Miguel,SOAT
+2363,Fernanda Flores Cruz,F,62,1961-04-01,Villa María del Triunfo,Particular
+2364,Alejandra Díaz Rodríguez,F,33,1990-09-02,Santa Anita,SIS
+2365,Sergio Ccopa Ramos,M,51,1972-10-09,Miraflores,SIS
+2366,Mónica Ortiz Cusi,F,71,1952-08-30,Ate,Mapfre
+2367,Sofía Rivera Pérez,F,55,1968-03-16,El Agustino,EsSalud
+2368,Raúl Morales Cruz,M,41,1982-10-11,La Molina,SOAT
+2369,Alejandro Huanca Condori,M,7,2016-11-28,San Isidro,Mapfre
+2370,Carmen Ramos Ramos,F,35,1988-11-21,San Borja,Mapfre
+2371,Sofía Pérez Puma,F,85,1939-01-17,Ate,SIS
+2372,Roberto Medina Mamani,M,36,1987-09-09,Magdalena,EsSalud
+2373,Andrés Medina Medina,M,74,1949-07-22,Pueblo Libre,Rimac Seguros
+2374,Pedro García Ramos,M,75,1948-09-29,San Miguel,Mapfre
+2375,Sergio Torres Ramos,M,79,1944-12-05,Miraflores,SOAT
+2376,Mónica Martínez Martínez,F,32,1991-09-08,Comas,SOAT
+2377,Gloria Sánchez Puma,F,23,2000-11-13,Barranco,Particular
+2378,Andrés Castillo Gómez,M,56,1967-03-14,Ate,Mapfre
+2379,Verónica Torres Flores,F,13,2010-01-05,Surco,EsSalud
+2380,Verónica Rodríguez Mamani,F,50,1973-07-03,Santa Anita,Mapfre
+2381,Manuel Huanca Rivera,M,27,1996-05-29,Villa El Salvador,EsSalud
+2382,Daniela García Gutiérrez,F,65,1958-06-05,Santa Anita,EsSalud
+2383,Alejandro Rodríguez Quispe,M,10,2013-01-11,Santa Anita,Mapfre
+2384,Patricia Condori Cruz,F,27,1996-07-11,Lince,Particular
+2385,Valeria Flores Quispe,F,38,1985-03-09,Barranco,EsSalud
+2386,María Castillo Cusi,F,73,1950-01-27,Barranco,Pacífico Seguros
+2387,Gonzalo Quispe Condori,M,3,2020-07-09,Rímac,Rimac Seguros
+2388,Paola García Gutiérrez,F,56,1967-12-01,Los Olivos,EsSalud
+2389,Valeria Reyes Flores,F,35,1988-05-09,Breña,Particular
+2390,José Flores Lazo,M,75,1948-03-19,El Agustino,Rimac Seguros
+2391,Juan Cruz Reyes,M,7,2016-01-06,Barranco,SIS
+2392,Luis Medina Quispe,M,71,1952-12-09,San Isidro,Particular
+2393,Verónica Rodríguez Gómez,F,19,2004-10-02,Comas,Particular
+2394,Ricardo Gómez Sánchez,M,67,1956-12-01,Surco,SOAT
+2395,Daniel Vargas Condori,M,23,2000-05-11,Magdalena,Rimac Seguros
+2396,Patricia Flores García,F,26,1997-11-29,Santa Anita,Pacífico Seguros
+2397,Miguel Rivera Ccopa,M,23,2000-05-15,Carabayllo,SIS
+2398,Patricia Rodríguez Ramos,F,24,2000-01-03,Barranco,Mapfre
+2399,Patricia Huanca Rivera,F,66,1957-05-04,Miraflores,Rimac Seguros
+2400,Sergio Rodríguez Sánchez,M,7,2016-10-27,San Martín de Porres,SOAT
+2401,Héctor Ccopa Reyes,M,74,1949-09-16,Pueblo Libre,EsSalud
+2402,Patricia Quispe Martínez,F,32,1991-03-05,Jesús María,Pacífico Seguros
+2403,Luis Cruz Rodríguez,M,1,2022-04-06,Magdalena,EsSalud
+2404,Paola Ramos Ramos,F,52,1971-02-17,Independencia,EsSalud
+2405,Gloria Herrera Quispe,F,52,1971-06-20,Pueblo Libre,Rimac Seguros
+2406,Víctor Lazo Gutiérrez,M,17,2006-11-29,San Isidro,SOAT
+2407,Claudia Martínez Medina,F,53,1970-08-14,Rímac,EsSalud
+2408,María Díaz Gutiérrez,F,26,1997-05-30,Miraflores,SOAT
+2409,Gonzalo Lazo Herrera,M,18,2005-08-04,El Agustino,Mapfre
+2410,Gabriela Rodríguez García,F,30,1993-05-04,Los Olivos,Particular
+2411,Verónica Quispe Ortiz,F,48,1975-11-08,Lince,EsSalud
+2412,Ana Flores Rodríguez,F,82,1941-07-14,La Molina,Particular
+2413,Alejandro Ortiz Cusi,M,50,1973-06-06,El Agustino,Mapfre
+2414,Héctor Gómez Reyes,M,66,1957-12-28,Carabayllo,EsSalud
+2415,Lucía Reyes Díaz,F,25,1998-10-15,Magdalena,Rimac Seguros
+2416,Miguel Rodríguez Mamani,M,72,1952-01-07,Pueblo Libre,SIS
+2417,Víctor Reyes García,M,58,1965-03-08,Rímac,Particular
+2418,Fernanda Medina Díaz,F,37,1986-04-21,Breña,SIS
+2419,Gonzalo Huanca Gutiérrez,M,56,1967-02-08,Independencia,SIS
+2420,Pedro Cusi Ccopa,M,49,1974-06-02,San Miguel,Pacífico Seguros
+2421,Rosa Rodríguez Huanca,F,26,1997-06-25,Surco,Rimac Seguros
+2422,Paola Flores Pérez,F,6,2017-10-26,Magdalena,SIS
+2423,Ricardo Herrera Torres,M,54,1969-04-09,San Borja,EsSalud
+2424,Sofía García López,F,21,2002-05-04,San Isidro,Particular
+2425,Andrés Ortiz Cusi,M,22,2001-11-09,Villa El Salvador,EsSalud
+2426,Gonzalo Condori Puma,M,44,1979-07-06,Santa Anita,Pacífico Seguros
+2427,Valeria Herrera Ramos,F,71,1952-02-13,San Miguel,Pacífico Seguros
+2428,Jessica Rodríguez Castillo,F,76,1947-08-31,Independencia,Pacífico Seguros
+2429,Andrés Ccopa García,M,56,1967-07-31,San Martín de Porres,Particular
+2430,Mónica Mamani Cruz,F,7,2016-08-24,Ate,Particular
+2431,Pedro Ramos Flores,M,29,1994-10-22,Barranco,EsSalud
+2432,Manuel Chávez Reyes,M,53,1970-03-30,Rímac,EsSalud
+2433,Claudia López Flores,F,21,2002-02-01,Santa Anita,EsSalud
+2434,Roberto Cusi Puma,M,8,2015-05-27,Comas,EsSalud
+2435,Ricardo Gutiérrez García,M,43,1980-08-07,Breña,SIS
+2436,Raúl Puma Gutiérrez,M,51,1972-06-20,Ate,SOAT
+2437,Gabriela Gómez Flores,F,79,1944-10-31,Jesús María,Particular
+2438,Natalia Cruz Lazo,F,11,2012-11-22,La Molina,SIS
+2439,Pedro Ramos Morales,M,64,1959-01-25,Surco,Mapfre
+2440,Juan García Gutiérrez,M,23,2000-08-10,San Isidro,SOAT
+2441,Fernanda Castillo Herrera,F,12,2011-07-30,San Isidro,SOAT
+2442,Carmen Pérez Herrera,F,11,2013-01-03,San Isidro,Rimac Seguros
+2443,José Puma Cruz,M,63,1960-03-19,La Molina,Particular
+2444,Gloria Ccopa Chávez,F,10,2013-10-25,Santa Anita,Particular
+2445,Gonzalo Medina Lazo,M,34,1989-01-16,Jesús María,Pacífico Seguros
+2446,Raúl Medina Flores,M,37,1986-07-21,San Isidro,EsSalud
+2447,Raúl Condori Ortiz,M,46,1977-08-15,Independencia,Particular
+2448,Sandra Condori Cusi,F,31,1992-07-25,Magdalena,Pacífico Seguros
+2449,Andrés Ortiz Rodríguez,M,20,2003-12-07,San Isidro,SIS
+2450,Pedro Martínez Ortiz,M,17,2006-11-29,San Borja,Pacífico Seguros
+2451,Daniela Quispe Díaz,F,75,1948-05-18,Barranco,Pacífico Seguros
+2452,Sandra Martínez Cusi,F,83,1940-04-14,Villa El Salvador,Pacífico Seguros
+2453,Sofía Puma Gutiérrez,F,84,1939-11-03,San Isidro,Particular
+2454,Sofía Reyes López,F,7,2016-08-26,San Isidro,Mapfre
+2455,Patricia Ccopa Gutiérrez,F,60,1963-01-18,Villa El Salvador,EsSalud
+2456,Verónica Rodríguez Ccopa,F,42,1981-02-08,Villa María del Triunfo,EsSalud
+2457,Natalia Lazo Quispe,F,24,1999-10-15,Miraflores,Mapfre
+2458,Sandra López Gutiérrez,F,43,1980-11-01,San Borja,SIS
+2459,Víctor Medina Gutiérrez,M,36,1987-10-10,Lince,Pacífico Seguros
+2460,Ana Huanca García,F,81,1942-07-30,Breña,Pacífico Seguros
+2461,Daniela García Martínez,F,62,1961-09-30,Independencia,SOAT
+2462,Roberto Castillo Castillo,M,65,1958-07-01,Pueblo Libre,Rimac Seguros
+2463,Ricardo Huanca Mamani,M,6,2017-03-06,Los Olivos,Pacífico Seguros
+2464,Alejandra Huanca Ortiz,F,6,2017-12-24,Magdalena,Particular
+2465,Natalia Vargas Condori,F,9,2014-06-04,San Martín de Porres,Mapfre
+2466,Gloria Herrera Flores,F,41,1982-05-26,Ate,SOAT
+2467,Claudia Puma Vargas,F,5,2018-03-12,Barranco,Pacífico Seguros
+2468,Paola Rivera García,F,68,1955-09-27,Barranco,SIS
+2469,Gabriela Cruz García,F,56,1967-08-28,San Isidro,SIS
+2470,María Chávez Lazo,F,82,1941-03-20,Magdalena,Mapfre
+2471,Raúl Herrera Torres,M,69,1954-08-24,Villa El Salvador,Rimac Seguros
+2472,Andrés Cusi Cruz,M,72,1951-04-15,San Miguel,SOAT
+2473,Carlos Castillo Morales,M,11,2012-08-31,San Miguel,Pacífico Seguros
+2474,María Martínez Rodríguez,F,34,1989-08-13,Jesús María,Pacífico Seguros
+2475,Sandra Sánchez Puma,F,55,1968-10-23,Lince,Pacífico Seguros
+2476,Carmen Huanca Cusi,F,37,1986-01-21,Magdalena,Rimac Seguros
+2477,Luis Rodríguez Lazo,M,16,2007-12-03,Miraflores,SOAT
+2478,Patricia Martínez Huanca,F,58,1965-05-04,San Miguel,SIS
+2479,Jessica Martínez Gutiérrez,F,79,1944-12-09,Pueblo Libre,Mapfre
+2480,Lucía Reyes Sánchez,F,50,1973-09-07,Lince,Rimac Seguros
+2481,Héctor Condori Condori,M,12,2011-10-22,Surco,SOAT
+2482,Patricia Chávez Ccopa,F,69,1954-03-01,Lince,EsSalud
+2483,María Díaz Lazo,F,50,1973-04-26,Comas,SIS
+2484,Sofía Sánchez Torres,F,80,1943-03-27,El Agustino,EsSalud
+2485,Andrés Ccopa Castillo,M,64,1959-05-28,Carabayllo,Mapfre
+2486,Daniela Vargas Reyes,F,26,1997-05-21,San Isidro,SIS
+2487,Carlos Herrera Reyes,M,3,2020-02-04,Villa El Salvador,Particular
+2488,Sandra Mamani Ccopa,F,1,2022-05-09,San Miguel,Mapfre
+2489,Pedro Ccopa Martínez,M,77,1946-11-22,Independencia,Rimac Seguros
+2490,Raúl Gutiérrez Ramos,M,71,1952-03-05,San Miguel,SIS
+2491,Roberto Flores Gómez,M,69,1954-12-30,Comas,Particular
+2492,Juan Gómez Castillo,M,18,2005-06-25,Villa María del Triunfo,Particular
+2493,Fernando Díaz Lazo,M,53,1970-07-12,Surco,Rimac Seguros
+2494,Raúl Gómez Mamani,M,39,1984-12-28,Comas,SIS
+2495,Daniela Sánchez Quispe,F,12,2011-03-02,San Borja,Rimac Seguros
+2496,Alejandro Martínez Martínez,M,34,1989-11-07,San Miguel,Particular
+2497,Daniel Torres Herrera,M,11,2012-08-15,Barranco,SIS
+2498,Alejandra Huanca Ramos,F,11,2012-03-14,Villa María del Triunfo,Rimac Seguros
+2499,Alejandra Castillo Gómez,F,13,2010-12-15,Rímac,Mapfre
+2500,Sandra López Castillo,F,43,1980-12-16,Pueblo Libre,Pacífico Seguros

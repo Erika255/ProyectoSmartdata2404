@@ -1,0 +1,1807 @@
+﻿id_atencion,id_cita,fecha_atencion,id_paciente,id_medico,diagnostico,tratamiento,duracion_min,requiere_seguimiento
+1,1,2024-08-25 08:00,561,5,Anemia,Cirugía programada,50,Sí
+2,5,2023-06-23 17:15,895,47,Migraña,Alta médica sin tratamiento,48,Sí
+3,8,2023-05-20 15:45,2162,19,Diabetes mellitus tipo 2,Cambio de medicación,49,Sí
+4,9,2023-09-13 09:45,2369,19,Artrosis,Exámenes de laboratorio,19,Sí
+5,11,2024-12-08 10:15,2420,13,Bronquitis aguda,Derivación a especialista,41,No
+6,12,2023-05-16 08:15,2377,8,Faringitis,Antibióticos 7 días,27,Sí
+7,13,2023-03-15 15:15,1024,48,Anemia,Cambio de dieta + ejercicio,58,Sí
+8,14,2024-08-11 08:15,894,18,Anemia,Medicación oral + reposo,47,Sí
+9,15,2024-02-28 09:30,454,54,Infección respiratoria aguda,Derivación a especialista,28,Sí
+10,16,2023-05-31 09:30,846,29,Otitis media,Psicoterapia,50,Sí
+11,18,2024-10-12 10:15,1817,43,Control pediátrico,Fisioterapia,21,No
+12,19,2024-11-12 11:45,1595,23,Lumbalgia,Fisioterapia,42,Sí
+13,21,2023-03-04 08:45,1775,30,Bronquitis aguda,Inyectable + observación,18,No
+14,22,2024-02-28 09:30,2148,19,Control pediátrico,Exámenes de laboratorio,19,No
+15,23,2023-07-01 15:00,577,19,Infección respiratoria aguda,Medicación oral + reposo,56,Sí
+16,25,2024-12-05 12:45,919,29,Control pediátrico,Cambio de medicación,51,Sí
+17,26,2024-05-06 11:45,1600,18,Control prenatal,Cambio de dieta + ejercicio,47,No
+18,27,2024-10-22 16:45,547,2,Dermatitis atópica,Medicación oral + reposo,35,Sí
+19,29,2024-12-07 09:30,1519,34,Gastritis crónica,Fisioterapia,28,Sí
+20,30,2024-02-18 08:00,2116,52,Hipertensión arterial,Fisioterapia,32,No
+21,31,2023-09-05 12:30,2324,57,Anemia,Control mensual,42,Sí
+22,33,2023-06-02 08:30,2036,34,Fracturas,Cambio de dieta + ejercicio,31,Sí
+23,35,2024-03-11 12:30,768,7,Fracturas,Psicoterapia,37,Sí
+24,40,2023-08-25 15:00,423,37,Control pediátrico,Inyectable + observación,44,No
+25,42,2023-08-15 11:15,2247,29,Reflujo gastroesofágico,Exámenes de laboratorio,24,No
+26,43,2023-09-20 08:45,1520,7,Control pediátrico,Derivación a especialista,44,Sí
+27,45,2023-04-06 12:15,970,40,Hipotiroidismo,Cambio de dieta + ejercicio,39,Sí
+28,46,2024-07-08 10:00,181,31,Ansiedad generalizada,Cambio de dieta + ejercicio,40,Sí
+29,47,2024-02-26 14:00,2006,53,Ansiedad generalizada,Derivación a especialista,46,Sí
+30,49,2024-04-08 17:15,1430,60,Artrosis,Exámenes de laboratorio,19,Sí
+31,50,2024-10-04 08:30,111,48,Colesterol elevado,Derivación a especialista,18,No
+32,51,2023-08-28 08:15,789,12,Reflujo gastroesofágico,Exámenes de laboratorio,43,Sí
+33,52,2023-07-22 10:30,803,53,Ansiedad generalizada,Alta médica sin tratamiento,54,No
+34,54,2024-01-11 12:45,483,47,Reflujo gastroesofágico,Fisioterapia,18,No
+35,55,2023-06-12 16:45,631,45,Bronquitis aguda,Inyectable + observación,16,Sí
+36,56,2023-02-05 17:15,32,11,Faringitis,Alta médica sin tratamiento,53,No
+37,57,2023-06-11 11:00,1722,7,Bronquitis aguda,Alta médica sin tratamiento,40,No
+38,58,2024-03-21 11:15,630,27,Varicela,Alta médica sin tratamiento,30,Sí
+39,62,2023-07-20 15:30,2484,14,Lumbalgia,Fisioterapia,28,Sí
+40,64,2023-08-24 17:00,520,58,Obesidad,Medicación oral + reposo,16,No
+41,68,2024-06-21 17:00,2263,6,Gastritis crónica,Exámenes de laboratorio,58,No
+42,69,2024-07-16 10:15,1064,17,Artrosis,Medicación oral + reposo,16,Sí
+43,71,2024-10-01 16:00,367,34,Fracturas,Cambio de dieta + ejercicio,32,Sí
+44,73,2023-01-31 08:00,1132,55,Diabetes mellitus tipo 2,Cambio de medicación,41,Sí
+45,74,2023-02-01 09:30,112,50,Hipotiroidismo,Antibióticos 7 días,28,No
+46,77,2023-12-28 14:45,2478,2,Ansiedad generalizada,Medicación oral + reposo,40,No
+47,80,2023-06-04 10:30,2012,34,Rinitis alérgica,Inyectable + observación,33,No
+48,81,2023-11-18 15:45,2054,40,Control pediátrico,Cambio de medicación,59,Sí
+49,83,2024-11-08 12:15,2455,4,Rinitis alérgica,Fisioterapia,54,Sí
+50,84,2023-04-01 14:30,1548,23,Migraña,Fisioterapia,44,No
+51,86,2024-06-07 11:30,1692,10,Control prenatal,Exámenes de laboratorio,15,Sí
+52,87,2024-01-10 12:15,1514,43,Fracturas,Antibióticos 7 días,24,Sí
+53,88,2024-07-19 08:45,2363,25,Otitis media,Cambio de medicación,59,Sí
+54,89,2023-09-04 15:45,218,27,Varicela,Control mensual,50,No
+55,90,2024-10-01 17:15,1455,51,Depresión,Cirugía programada,37,No
+56,91,2023-10-02 08:00,516,5,Gastritis crónica,Fisioterapia,54,Sí
+57,93,2024-07-14 16:45,1060,55,Anemia,Psicoterapia,16,Sí
+58,94,2024-01-23 11:00,1020,34,Dermatitis atópica,Cambio de medicación,25,Sí
+59,95,2023-06-08 09:15,1638,18,Infección urinaria,Inyectable + observación,49,Sí
+60,96,2023-06-24 17:30,1639,40,Ansiedad generalizada,Cambio de medicación,60,No
+61,97,2023-01-22 11:45,1670,20,Ansiedad generalizada,Psicoterapia,51,Sí
+62,100,2024-01-18 12:00,1597,11,Ansiedad generalizada,Antibióticos 7 días,30,Sí
+63,101,2024-11-22 14:30,765,26,Hipertensión arterial,Medicación oral + reposo,31,Sí
+64,102,2023-10-28 11:00,2227,44,Hipotiroidismo,Psicoterapia,31,No
+65,105,2024-01-13 11:15,926,47,Faringitis,Cambio de medicación,34,No
+66,106,2024-04-21 08:30,1129,22,Infección urinaria,Cirugía programada,48,No
+67,107,2023-10-26 11:15,154,19,Depresión,Inyectable + observación,60,No
+68,108,2023-07-18 17:30,886,14,Gastritis crónica,Psicoterapia,29,No
+69,109,2024-02-09 11:15,2405,21,Reflujo gastroesofágico,Cambio de dieta + ejercicio,23,Sí
+70,110,2024-12-29 16:45,419,6,Bronquitis aguda,Fisioterapia,21,No
+71,111,2024-09-13 11:15,507,35,Otitis media,Control mensual,25,Sí
+72,112,2024-05-19 11:15,2431,6,Obesidad,Inyectable + observación,40,Sí
+73,113,2023-08-20 08:45,1659,42,Gastritis crónica,Cirugía programada,37,Sí
+74,114,2023-03-27 17:45,143,47,Dermatitis atópica,Medicación oral + reposo,47,Sí
+75,115,2024-04-17 17:45,1342,25,Gastritis crónica,Exámenes de laboratorio,32,No
+76,117,2024-08-23 09:30,109,52,Infección respiratoria aguda,Control mensual,43,Sí
+77,121,2024-09-16 14:15,876,26,Rinitis alérgica,Cambio de dieta + ejercicio,60,No
+78,122,2024-09-10 09:00,238,5,Control pediátrico,Fisioterapia,59,No
+79,127,2023-12-12 15:00,1849,18,Infección respiratoria aguda,Cambio de dieta + ejercicio,41,Sí
+80,128,2024-12-13 12:15,378,17,Bronquitis aguda,Cambio de dieta + ejercicio,21,No
+81,131,2023-04-30 10:45,190,34,Bronquitis aguda,Medicación oral + reposo,27,No
+82,132,2023-02-26 17:15,74,3,Infección respiratoria aguda,Cambio de dieta + ejercicio,48,Sí
+83,135,2023-09-18 14:30,410,12,Migraña,Psicoterapia,16,No
+84,137,2024-05-12 16:45,1787,37,Otitis media,Control mensual,60,Sí
+85,138,2024-09-28 11:30,2300,42,Conjuntivitis,Psicoterapia,37,No
+86,139,2023-04-29 11:30,1190,48,Migraña,Exámenes de laboratorio,40,Sí
+87,142,2024-09-21 09:00,869,15,Hipotiroidismo,Psicoterapia,47,No
+88,143,2024-04-07 08:00,420,43,Reflujo gastroesofágico,Fisioterapia,46,No
+89,145,2024-04-08 12:15,2352,12,Infección respiratoria aguda,Cirugía programada,16,Sí
+90,149,2023-10-29 08:30,1354,37,Dermatitis atópica,Derivación a especialista,32,Sí
+91,150,2023-06-29 11:00,2333,40,Varicela,Control mensual,32,No
+92,151,2023-10-29 10:45,758,54,Anemia,Control mensual,58,No
+93,154,2024-10-19 16:15,1711,58,Infección urinaria,Medicación oral + reposo,15,Sí
+94,156,2024-10-27 11:15,2468,59,Hipertensión arterial,Cambio de dieta + ejercicio,20,Sí
+95,157,2023-10-19 08:30,2299,49,Infección urinaria,Derivación a especialista,23,Sí
+96,158,2023-05-26 15:30,1670,57,Fracturas,Antibióticos 7 días,29,Sí
+97,159,2024-02-20 14:15,123,36,Bronquitis aguda,Alta médica sin tratamiento,45,No
+98,160,2023-04-06 17:45,1779,43,Varicela,Antibióticos 7 días,59,Sí
+99,161,2024-02-21 09:15,2347,25,Colesterol elevado,Exámenes de laboratorio,43,Sí
+100,164,2024-02-13 17:15,787,50,Ansiedad generalizada,Psicoterapia,48,Sí
+101,165,2024-06-05 12:00,986,38,Rinitis alérgica,Control mensual,57,Sí
+102,166,2024-05-04 11:00,121,54,Anemia,Control mensual,58,Sí
+103,169,2024-09-18 14:00,333,43,Obesidad,Medicación oral + reposo,52,Sí
+104,172,2024-10-06 17:15,1671,50,Conjuntivitis,Medicación oral + reposo,60,Sí
+105,174,2023-10-04 08:45,1509,15,Anemia,Cambio de dieta + ejercicio,41,Sí
+106,176,2024-02-17 15:15,1840,57,Faringitis,Medicación oral + reposo,49,Sí
+107,177,2023-01-20 17:00,2443,9,Infección respiratoria aguda,Fisioterapia,41,Sí
+108,181,2023-04-02 10:30,831,30,Conjuntivitis,Medicación oral + reposo,30,No
+109,182,2023-07-27 14:45,1466,46,Artrosis,Derivación a especialista,31,Sí
+110,184,2023-03-22 10:00,673,44,Conjuntivitis,Fisioterapia,45,No
+111,185,2024-03-08 11:30,1556,8,Diabetes mellitus tipo 2,Medicación oral + reposo,59,No
+112,187,2024-04-03 09:30,497,13,Migraña,Inyectable + observación,51,No
+113,190,2023-10-19 08:15,388,28,Control pediátrico,Derivación a especialista,51,No
+114,191,2023-04-15 15:45,1851,14,Control pediátrico,Cambio de dieta + ejercicio,34,Sí
+115,192,2024-04-19 16:15,2189,7,Control prenatal,Control mensual,31,No
+116,193,2023-06-15 09:45,765,5,Control prenatal,Exámenes de laboratorio,39,No
+117,194,2023-04-15 11:30,2413,35,Anemia,Control mensual,33,Sí
+118,198,2023-12-13 11:45,1305,27,Infección respiratoria aguda,Exámenes de laboratorio,59,No
+119,202,2024-01-21 17:15,1496,49,Control pediátrico,Exámenes de laboratorio,37,No
+120,203,2023-07-04 11:30,346,43,Lumbalgia,Inyectable + observación,36,Sí
+121,204,2023-03-30 15:30,1344,44,Artrosis,Medicación oral + reposo,15,Sí
+122,205,2024-07-06 16:00,61,50,Infección urinaria,Exámenes de laboratorio,60,Sí
+123,207,2024-08-04 15:45,2338,9,Colesterol elevado,Inyectable + observación,28,No
+124,210,2023-12-05 08:15,520,58,Dermatitis atópica,Inyectable + observación,52,Sí
+125,213,2024-04-07 17:45,345,19,Dermatitis atópica,Exámenes de laboratorio,35,Sí
+126,216,2023-01-27 16:30,803,35,Migraña,Fisioterapia,35,Sí
+127,217,2024-09-20 09:45,1559,50,Gastritis crónica,Psicoterapia,60,Sí
+128,222,2024-01-13 08:30,763,44,Rinitis alérgica,Fisioterapia,25,No
+129,223,2024-02-04 15:30,123,43,Conjuntivitis,Exámenes de laboratorio,47,Sí
+130,224,2023-02-01 09:15,1871,37,Fracturas,Exámenes de laboratorio,20,Sí
+131,229,2024-07-13 09:30,911,56,Varicela,Medicación oral + reposo,18,Sí
+132,230,2023-03-23 14:15,1659,11,Obesidad,Medicación oral + reposo,44,Sí
+133,231,2024-05-09 10:30,2184,49,Gastritis crónica,Antibióticos 7 días,58,Sí
+134,236,2024-09-16 14:45,2289,21,Control prenatal,Cirugía programada,55,Sí
+135,237,2023-08-18 08:15,1177,53,Otitis media,Inyectable + observación,40,Sí
+136,241,2023-08-04 15:30,155,6,Depresión,Exámenes de laboratorio,30,Sí
+137,242,2024-04-09 09:30,362,21,Conjuntivitis,Alta médica sin tratamiento,34,Sí
+138,243,2023-08-10 10:30,1343,13,Dermatitis atópica,Cambio de dieta + ejercicio,59,No
+139,246,2023-06-03 09:30,66,40,Migraña,Derivación a especialista,60,Sí
+140,247,2023-07-01 16:45,357,3,Hipotiroidismo,Control mensual,60,No
+141,251,2023-12-05 17:45,667,57,Reflujo gastroesofágico,Antibióticos 7 días,49,Sí
+142,252,2024-08-20 17:45,1705,4,Colesterol elevado,Fisioterapia,45,Sí
+143,254,2024-06-06 14:30,567,32,Varicela,Cambio de medicación,45,Sí
+144,255,2024-08-25 15:30,2218,41,Faringitis,Psicoterapia,57,No
+145,258,2023-02-13 10:30,26,57,Anemia,Cambio de medicación,22,Sí
+146,259,2024-08-23 11:00,1526,41,Ansiedad generalizada,Medicación oral + reposo,23,No
+147,260,2023-11-30 14:00,969,9,Otitis media,Psicoterapia,32,Sí
+148,261,2023-12-15 16:00,854,1,Obesidad,Exámenes de laboratorio,45,Sí
+149,263,2024-06-16 17:45,1163,20,Infección respiratoria aguda,Control mensual,48,Sí
+150,266,2023-05-13 14:15,1693,10,Lumbalgia,Exámenes de laboratorio,19,Sí
+151,267,2023-03-13 17:15,1511,19,Obesidad,Medicación oral + reposo,58,Sí
+152,269,2024-09-13 10:00,258,9,Control prenatal,Cirugía programada,19,Sí
+153,270,2023-03-02 15:00,1249,40,Hipertensión arterial,Inyectable + observación,51,Sí
+154,271,2024-03-01 12:45,369,34,Gastritis crónica,Psicoterapia,22,Sí
+155,274,2023-12-25 16:45,1868,12,Dermatitis atópica,Psicoterapia,31,No
+156,275,2024-07-29 12:45,1315,17,Bronquitis aguda,Exámenes de laboratorio,56,Sí
+157,276,2024-08-07 08:30,556,25,Gastritis crónica,Alta médica sin tratamiento,47,Sí
+158,277,2024-06-07 16:45,584,40,Diabetes mellitus tipo 2,Alta médica sin tratamiento,44,No
+159,278,2024-02-06 08:15,2269,16,Dermatitis atópica,Antibióticos 7 días,34,No
+160,281,2023-06-08 11:45,1335,12,Ansiedad generalizada,Exámenes de laboratorio,57,Sí
+161,284,2024-08-14 17:15,1490,45,Rinitis alérgica,Derivación a especialista,36,Sí
+162,285,2023-10-01 15:00,1312,36,Migraña,Fisioterapia,46,Sí
+163,287,2023-01-21 14:30,1611,19,Varicela,Inyectable + observación,33,Sí
+164,290,2023-06-15 08:30,715,29,Varicela,Exámenes de laboratorio,46,No
+165,294,2024-02-11 08:15,404,9,Hipertensión arterial,Medicación oral + reposo,45,Sí
+166,295,2023-09-29 17:45,710,3,Rinitis alérgica,Cambio de dieta + ejercicio,55,Sí
+167,297,2024-12-10 14:30,1431,44,Otitis media,Fisioterapia,26,No
+168,299,2023-08-30 15:00,72,18,Gastritis crónica,Antibióticos 7 días,20,Sí
+169,301,2023-08-04 09:00,1421,54,Depresión,Cambio de medicación,16,Sí
+170,304,2023-01-06 15:45,233,40,Migraña,Antibióticos 7 días,40,No
+171,306,2023-06-05 09:15,1630,4,Anemia,Alta médica sin tratamiento,18,Sí
+172,309,2023-05-13 10:00,1568,26,Infección urinaria,Derivación a especialista,40,No
+173,310,2024-04-02 10:30,496,40,Depresión,Medicación oral + reposo,24,Sí
+174,313,2024-11-07 10:45,854,35,Infección urinaria,Control mensual,28,Sí
+175,315,2023-01-24 17:45,412,6,Ansiedad generalizada,Alta médica sin tratamiento,56,No
+176,316,2023-01-09 14:15,2150,9,Obesidad,Cambio de dieta + ejercicio,41,No
+177,317,2024-01-20 10:00,615,39,Bronquitis aguda,Derivación a especialista,48,Sí
+178,318,2023-12-25 15:00,2423,13,Gastritis crónica,Exámenes de laboratorio,15,Sí
+179,319,2024-11-13 14:15,6,52,Ansiedad generalizada,Derivación a especialista,45,Sí
+180,320,2023-04-10 11:45,2390,32,Reflujo gastroesofágico,Exámenes de laboratorio,52,Sí
+181,321,2023-07-15 15:30,486,10,Obesidad,Medicación oral + reposo,30,No
+182,323,2023-09-23 09:15,534,14,Artrosis,Medicación oral + reposo,48,Sí
+183,325,2024-05-05 11:45,1483,40,Artrosis,Exámenes de laboratorio,41,Sí
+184,326,2024-09-05 08:45,1139,4,Control pediátrico,Psicoterapia,52,Sí
+185,328,2023-10-16 17:00,935,9,Migraña,Medicación oral + reposo,46,Sí
+186,329,2023-06-12 08:15,1403,21,Diabetes mellitus tipo 2,Alta médica sin tratamiento,47,Sí
+187,330,2023-03-02 09:00,1170,3,Conjuntivitis,Cambio de medicación,32,Sí
+188,332,2024-09-29 09:30,1734,58,Lumbalgia,Derivación a especialista,59,Sí
+189,333,2024-01-16 12:45,1814,38,Infección urinaria,Inyectable + observación,34,Sí
+190,334,2024-05-06 09:15,707,16,Obesidad,Psicoterapia,58,Sí
+191,336,2024-06-10 09:00,2274,4,Control prenatal,Psicoterapia,37,Sí
+192,338,2023-04-03 16:15,1841,26,Fracturas,Cirugía programada,58,No
+193,339,2024-07-11 08:00,1736,34,Otitis media,Psicoterapia,35,No
+194,340,2023-06-01 08:00,1501,29,Lumbalgia,Psicoterapia,45,No
+195,341,2024-04-19 09:15,1404,46,Faringitis,Derivación a especialista,32,Sí
+196,343,2023-12-07 09:00,221,30,Reflujo gastroesofágico,Alta médica sin tratamiento,47,Sí
+197,345,2024-12-21 11:00,1641,12,Artrosis,Cambio de dieta + ejercicio,43,Sí
+198,348,2024-07-28 08:30,122,14,Conjuntivitis,Inyectable + observación,45,Sí
+199,349,2024-09-13 15:15,815,43,Faringitis,Medicación oral + reposo,17,Sí
+200,350,2024-03-23 15:45,1801,60,Dermatitis atópica,Control mensual,23,Sí
+201,351,2024-08-22 09:15,610,6,Diabetes mellitus tipo 2,Antibióticos 7 días,42,Sí
+202,356,2024-11-01 12:15,1034,3,Bronquitis aguda,Alta médica sin tratamiento,29,Sí
+203,358,2023-11-21 10:00,1022,43,Ansiedad generalizada,Antibióticos 7 días,39,Sí
+204,361,2023-07-23 16:45,917,42,Conjuntivitis,Control mensual,25,No
+205,364,2024-05-11 16:30,1987,19,Obesidad,Fisioterapia,30,Sí
+206,365,2023-11-27 15:15,1017,15,Control prenatal,Exámenes de laboratorio,17,No
+207,367,2023-03-10 12:15,1828,52,Reflujo gastroesofágico,Cirugía programada,17,Sí
+208,368,2023-01-27 11:45,1765,55,Bronquitis aguda,Fisioterapia,36,Sí
+209,370,2023-06-12 08:30,365,27,Infección urinaria,Cambio de medicación,36,Sí
+210,373,2024-07-04 17:30,343,29,Colesterol elevado,Antibióticos 7 días,32,No
+211,374,2024-07-13 15:30,2082,2,Bronquitis aguda,Exámenes de laboratorio,45,No
+212,375,2023-06-14 09:45,1246,35,Gastritis crónica,Antibióticos 7 días,36,Sí
+213,377,2023-03-05 08:30,48,35,Rinitis alérgica,Fisioterapia,45,Sí
+214,379,2023-07-13 15:00,384,54,Anemia,Alta médica sin tratamiento,16,Sí
+215,388,2024-04-16 15:15,1546,23,Depresión,Control mensual,28,No
+216,389,2024-09-11 15:30,1200,41,Depresión,Psicoterapia,53,Sí
+217,391,2024-04-08 17:30,1759,2,Ansiedad generalizada,Antibióticos 7 días,46,No
+218,393,2023-06-13 14:15,419,25,Hipotiroidismo,Fisioterapia,31,Sí
+219,395,2023-09-30 17:45,2351,51,Lumbalgia,Cambio de medicación,37,Sí
+220,398,2024-03-11 08:00,2466,37,Bronquitis aguda,Antibióticos 7 días,48,Sí
+221,399,2023-08-08 09:15,366,20,Obesidad,Antibióticos 7 días,29,No
+222,401,2023-08-07 16:45,1669,7,Varicela,Antibióticos 7 días,26,No
+223,402,2023-09-12 08:30,2,22,Reflujo gastroesofágico,Alta médica sin tratamiento,28,Sí
+224,404,2024-01-04 12:30,90,59,Diabetes mellitus tipo 2,Fisioterapia,29,Sí
+225,405,2023-05-08 09:45,2030,10,Fracturas,Exámenes de laboratorio,59,Sí
+226,406,2023-07-17 12:30,1303,42,Diabetes mellitus tipo 2,Medicación oral + reposo,49,Sí
+227,408,2024-06-12 10:30,1984,58,Anemia,Cirugía programada,24,Sí
+228,412,2024-02-08 15:30,1338,40,Ansiedad generalizada,Cirugía programada,17,Sí
+229,415,2024-12-06 09:30,1562,37,Depresión,Inyectable + observación,15,No
+230,416,2023-11-18 08:00,1394,38,Ansiedad generalizada,Fisioterapia,29,Sí
+231,417,2024-09-05 10:00,509,40,Varicela,Cambio de dieta + ejercicio,55,Sí
+232,418,2024-12-14 15:00,1957,24,Rinitis alérgica,Cambio de medicación,28,Sí
+233,419,2024-04-30 09:45,1439,8,Conjuntivitis,Control mensual,40,Sí
+234,421,2024-02-25 10:00,1726,21,Reflujo gastroesofágico,Cambio de dieta + ejercicio,23,No
+235,422,2023-12-02 14:00,2109,38,Colesterol elevado,Inyectable + observación,50,Sí
+236,423,2023-02-20 08:30,1553,32,Hipertensión arterial,Cirugía programada,44,Sí
+237,427,2023-11-15 14:45,1074,11,Obesidad,Cambio de dieta + ejercicio,52,Sí
+238,429,2023-11-23 11:15,2340,29,Control pediátrico,Derivación a especialista,55,No
+239,432,2023-02-25 09:45,1716,22,Reflujo gastroesofágico,Derivación a especialista,58,Sí
+240,434,2023-05-02 10:15,1743,11,Fracturas,Psicoterapia,51,Sí
+241,436,2023-11-20 09:45,1273,26,Bronquitis aguda,Cambio de medicación,16,Sí
+242,437,2023-07-01 12:00,114,7,Colesterol elevado,Psicoterapia,33,No
+243,441,2023-06-27 14:45,803,56,Control pediátrico,Control mensual,34,No
+244,442,2024-04-01 10:45,56,60,Depresión,Exámenes de laboratorio,24,Sí
+245,443,2024-10-15 15:00,1078,55,Faringitis,Inyectable + observación,57,Sí
+246,444,2023-06-18 08:15,604,47,Rinitis alérgica,Fisioterapia,44,Sí
+247,445,2024-05-05 14:15,2166,17,Varicela,Antibióticos 7 días,42,No
+248,447,2024-01-13 12:15,2270,23,Hipertensión arterial,Control mensual,28,Sí
+249,448,2024-11-18 17:15,1269,9,Lumbalgia,Derivación a especialista,43,Sí
+250,449,2024-01-06 12:00,2063,21,Colesterol elevado,Alta médica sin tratamiento,42,Sí
+251,452,2023-07-18 10:45,315,8,Artrosis,Control mensual,54,Sí
+252,455,2023-02-01 11:45,682,32,Conjuntivitis,Exámenes de laboratorio,23,Sí
+253,456,2024-05-01 14:00,696,53,Rinitis alérgica,Fisioterapia,55,Sí
+254,457,2024-09-13 15:15,2224,4,Diabetes mellitus tipo 2,Fisioterapia,53,No
+255,458,2024-10-12 11:00,171,17,Control prenatal,Alta médica sin tratamiento,44,Sí
+256,459,2023-11-29 17:15,1584,39,Varicela,Cambio de medicación,28,Sí
+257,460,2023-12-05 11:30,1093,40,Ansiedad generalizada,Cambio de dieta + ejercicio,59,No
+258,461,2024-06-11 09:45,49,3,Hipertensión arterial,Fisioterapia,25,Sí
+259,463,2023-10-13 12:30,1741,23,Control prenatal,Cambio de medicación,38,Sí
+260,464,2024-03-13 08:15,1473,17,Varicela,Psicoterapia,37,No
+261,465,2024-12-05 09:45,2192,57,Reflujo gastroesofágico,Cambio de dieta + ejercicio,58,Sí
+262,466,2024-04-06 17:00,2469,40,Depresión,Medicación oral + reposo,23,No
+263,467,2023-09-04 09:15,64,42,Hipertensión arterial,Psicoterapia,42,No
+264,470,2023-11-19 16:15,2453,4,Depresión,Derivación a especialista,48,No
+265,471,2024-04-05 10:30,1964,7,Colesterol elevado,Derivación a especialista,17,No
+266,472,2023-04-02 17:45,1544,15,Colesterol elevado,Inyectable + observación,29,No
+267,473,2023-05-16 11:15,1035,12,Fracturas,Psicoterapia,45,Sí
+268,474,2024-06-17 11:15,2427,29,Dermatitis atópica,Alta médica sin tratamiento,51,Sí
+269,475,2023-06-04 09:45,2327,51,Rinitis alérgica,Psicoterapia,30,Sí
+270,476,2024-08-03 11:15,124,26,Rinitis alérgica,Alta médica sin tratamiento,37,Sí
+271,478,2023-04-30 08:15,597,8,Control prenatal,Cambio de dieta + ejercicio,15,Sí
+272,479,2023-01-17 09:45,943,12,Artrosis,Control mensual,26,No
+273,482,2024-07-14 09:30,1583,8,Lumbalgia,Inyectable + observación,39,Sí
+274,486,2023-07-19 14:30,2255,42,Lumbalgia,Cambio de dieta + ejercicio,35,No
+275,488,2024-04-13 15:15,814,47,Anemia,Psicoterapia,30,Sí
+276,489,2023-12-04 15:45,15,24,Obesidad,Cirugía programada,28,Sí
+277,490,2024-12-06 08:45,306,22,Varicela,Psicoterapia,29,Sí
+278,493,2023-10-16 08:45,370,46,Control prenatal,Cirugía programada,54,No
+279,494,2024-02-13 12:45,2219,21,Control prenatal,Cirugía programada,15,Sí
+280,496,2023-10-29 17:15,1720,36,Rinitis alérgica,Alta médica sin tratamiento,37,No
+281,498,2024-06-24 11:45,2486,30,Depresión,Cirugía programada,41,No
+282,501,2024-01-07 16:00,2423,28,Infección urinaria,Derivación a especialista,56,No
+283,503,2024-03-17 14:45,92,6,Ansiedad generalizada,Cambio de dieta + ejercicio,45,Sí
+284,505,2024-08-08 14:15,323,36,Artrosis,Inyectable + observación,28,Sí
+285,508,2024-01-30 10:00,566,32,Diabetes mellitus tipo 2,Antibióticos 7 días,20,Sí
+286,510,2024-03-22 12:15,2426,26,Varicela,Antibióticos 7 días,44,Sí
+287,512,2024-01-11 12:15,219,52,Bronquitis aguda,Derivación a especialista,39,Sí
+288,515,2024-01-11 16:00,2368,10,Varicela,Exámenes de laboratorio,25,No
+289,516,2023-03-06 15:15,2354,2,Depresión,Psicoterapia,57,No
+290,517,2023-02-24 16:15,1402,27,Ansiedad generalizada,Exámenes de laboratorio,60,Sí
+291,518,2023-10-13 16:15,866,53,Migraña,Exámenes de laboratorio,28,No
+292,521,2024-04-08 11:00,660,45,Artrosis,Inyectable + observación,32,Sí
+293,522,2024-02-03 17:30,559,27,Ansiedad generalizada,Alta médica sin tratamiento,19,No
+294,523,2023-03-02 14:00,26,31,Varicela,Psicoterapia,15,Sí
+295,525,2024-11-03 09:30,1900,57,Anemia,Cambio de dieta + ejercicio,17,Sí
+296,526,2023-02-14 14:15,762,28,Hipertensión arterial,Cirugía programada,50,Sí
+297,529,2024-12-18 09:30,19,31,Infección urinaria,Psicoterapia,16,Sí
+298,530,2024-12-16 12:15,2302,46,Obesidad,Fisioterapia,24,No
+299,532,2024-02-27 14:15,2275,37,Dermatitis atópica,Cirugía programada,43,Sí
+300,533,2024-04-28 09:45,2438,17,Anemia,Derivación a especialista,59,Sí
+301,536,2023-06-07 14:45,1057,22,Varicela,Inyectable + observación,47,No
+302,537,2023-03-12 16:30,909,44,Control prenatal,Control mensual,55,No
+303,538,2024-03-24 12:15,874,57,Infección respiratoria aguda,Inyectable + observación,42,Sí
+304,539,2024-03-06 17:00,1382,56,Control prenatal,Derivación a especialista,16,Sí
+305,540,2024-07-12 15:00,1662,56,Ansiedad generalizada,Inyectable + observación,21,No
+306,541,2024-08-25 17:15,1759,29,Dermatitis atópica,Exámenes de laboratorio,57,Sí
+307,542,2024-07-08 17:15,1030,58,Faringitis,Derivación a especialista,50,Sí
+308,543,2023-11-22 11:45,2242,20,Hipertensión arterial,Cirugía programada,37,No
+309,544,2024-07-07 08:30,1221,26,Hipotiroidismo,Exámenes de laboratorio,32,No
+310,548,2024-07-07 14:30,40,39,Infección urinaria,Alta médica sin tratamiento,34,No
+311,550,2023-04-13 09:00,2458,7,Fracturas,Fisioterapia,59,Sí
+312,552,2024-12-22 16:45,1346,52,Rinitis alérgica,Inyectable + observación,50,Sí
+313,553,2023-06-22 08:45,222,44,Depresión,Exámenes de laboratorio,35,Sí
+314,554,2023-11-19 12:00,1520,59,Artrosis,Alta médica sin tratamiento,16,Sí
+315,555,2024-11-13 10:15,726,1,Otitis media,Psicoterapia,42,No
+316,556,2024-08-02 14:00,1793,58,Infección respiratoria aguda,Cambio de medicación,27,No
+317,558,2023-08-08 10:30,1309,8,Rinitis alérgica,Cirugía programada,43,No
+318,560,2024-05-19 09:45,1795,19,Infección respiratoria aguda,Alta médica sin tratamiento,48,Sí
+319,561,2024-04-19 17:00,784,55,Artrosis,Fisioterapia,43,No
+320,563,2024-02-07 12:15,270,4,Hipotiroidismo,Cirugía programada,37,Sí
+321,564,2023-07-28 09:00,1246,50,Control prenatal,Psicoterapia,47,No
+322,565,2023-02-02 11:45,1137,23,Control prenatal,Fisioterapia,47,Sí
+323,568,2023-12-21 11:30,714,35,Bronquitis aguda,Antibióticos 7 días,35,Sí
+324,569,2023-02-16 14:45,2323,22,Lumbalgia,Fisioterapia,17,Sí
+325,570,2024-02-22 16:00,290,3,Anemia,Derivación a especialista,52,Sí
+326,574,2023-11-11 14:15,794,37,Bronquitis aguda,Cirugía programada,40,Sí
+327,576,2023-01-09 11:15,644,22,Colesterol elevado,Antibióticos 7 días,31,Sí
+328,577,2023-03-16 16:15,1426,54,Dermatitis atópica,Fisioterapia,37,No
+329,578,2023-05-14 15:15,1555,21,Artrosis,Psicoterapia,53,No
+330,580,2024-11-08 10:15,2385,4,Migraña,Cambio de dieta + ejercicio,26,Sí
+331,581,2023-04-08 09:00,907,20,Varicela,Control mensual,39,Sí
+332,582,2024-10-20 15:00,131,37,Hipotiroidismo,Cambio de medicación,43,Sí
+333,583,2024-10-14 17:45,1459,16,Hipertensión arterial,Cambio de medicación,49,Sí
+334,584,2023-01-15 10:00,2091,17,Ansiedad generalizada,Control mensual,34,No
+335,586,2024-04-12 14:45,27,19,Control prenatal,Cirugía programada,39,No
+336,589,2024-03-05 10:00,191,15,Hipertensión arterial,Cirugía programada,52,Sí
+337,590,2023-12-29 17:15,580,30,Ansiedad generalizada,Inyectable + observación,40,No
+338,595,2024-06-18 16:00,2149,51,Obesidad,Cirugía programada,44,No
+339,596,2024-03-20 09:00,1500,37,Depresión,Alta médica sin tratamiento,22,Sí
+340,597,2024-07-02 14:30,2061,28,Depresión,Cambio de dieta + ejercicio,42,Sí
+341,598,2024-08-25 14:45,2254,36,Migraña,Antibióticos 7 días,22,No
+342,599,2024-01-26 17:00,1927,11,Diabetes mellitus tipo 2,Fisioterapia,51,Sí
+343,600,2023-08-31 16:15,207,49,Bronquitis aguda,Exámenes de laboratorio,35,No
+344,603,2024-06-10 10:15,219,43,Rinitis alérgica,Psicoterapia,60,Sí
+345,604,2023-02-25 10:15,1953,11,Control pediátrico,Exámenes de laboratorio,19,Sí
+346,605,2024-10-02 11:15,1207,35,Anemia,Derivación a especialista,17,Sí
+347,606,2023-04-01 12:30,637,4,Dermatitis atópica,Cambio de dieta + ejercicio,35,Sí
+348,607,2023-05-15 17:00,1996,18,Control prenatal,Fisioterapia,28,Sí
+349,608,2024-08-14 11:00,271,27,Faringitis,Antibióticos 7 días,49,No
+350,609,2023-05-11 08:15,519,48,Control pediátrico,Exámenes de laboratorio,57,No
+351,610,2023-08-13 10:15,208,18,Hipertensión arterial,Cambio de dieta + ejercicio,29,Sí
+352,611,2023-05-11 09:15,1798,32,Otitis media,Control mensual,15,Sí
+353,612,2023-02-12 10:00,1528,46,Migraña,Alta médica sin tratamiento,36,No
+354,613,2024-02-21 12:45,1712,22,Ansiedad generalizada,Cambio de medicación,15,Sí
+355,614,2023-12-19 11:45,808,1,Hipertensión arterial,Cambio de dieta + ejercicio,26,No
+356,615,2024-02-12 09:15,1872,30,Faringitis,Inyectable + observación,21,Sí
+357,616,2024-12-01 08:15,541,50,Infección respiratoria aguda,Control mensual,50,Sí
+358,619,2024-07-08 12:00,120,17,Bronquitis aguda,Exámenes de laboratorio,56,Sí
+359,620,2023-06-04 09:15,1586,26,Control prenatal,Cirugía programada,53,Sí
+360,623,2024-12-18 15:15,167,25,Reflujo gastroesofágico,Alta médica sin tratamiento,22,Sí
+361,625,2023-09-18 12:00,1242,38,Bronquitis aguda,Derivación a especialista,38,Sí
+362,628,2024-04-09 11:15,2477,25,Faringitis,Control mensual,22,Sí
+363,629,2024-03-20 09:00,692,25,Gastritis crónica,Derivación a especialista,52,Sí
+364,630,2023-08-10 15:15,1211,10,Anemia,Psicoterapia,49,No
+365,634,2024-11-04 15:30,1275,59,Infección respiratoria aguda,Cambio de medicación,42,Sí
+366,636,2024-01-10 08:30,1154,30,Fracturas,Cambio de dieta + ejercicio,45,Sí
+367,637,2023-09-09 12:15,2178,16,Rinitis alérgica,Medicación oral + reposo,56,No
+368,638,2023-03-21 09:30,143,52,Control prenatal,Antibióticos 7 días,53,Sí
+369,642,2024-03-23 14:45,817,24,Control pediátrico,Antibióticos 7 días,50,Sí
+370,644,2023-10-15 10:00,261,28,Faringitis,Medicación oral + reposo,46,Sí
+371,645,2024-01-14 08:00,726,22,Gastritis crónica,Alta médica sin tratamiento,42,Sí
+372,649,2023-01-14 16:30,745,8,Lumbalgia,Alta médica sin tratamiento,29,Sí
+373,650,2024-08-25 09:30,560,16,Lumbalgia,Cambio de dieta + ejercicio,27,No
+374,651,2023-10-20 08:30,744,25,Anemia,Control mensual,25,Sí
+375,652,2023-09-11 10:45,2231,38,Diabetes mellitus tipo 2,Alta médica sin tratamiento,31,Sí
+376,653,2023-11-13 11:00,477,20,Varicela,Medicación oral + reposo,28,No
+377,655,2023-01-31 17:00,428,59,Varicela,Cambio de dieta + ejercicio,45,No
+378,656,2023-06-21 10:00,2031,34,Faringitis,Cambio de medicación,50,No
+379,658,2024-11-04 12:15,641,14,Bronquitis aguda,Antibióticos 7 días,60,No
+380,660,2024-05-24 11:15,2041,4,Conjuntivitis,Cambio de medicación,15,No
+381,663,2023-07-19 16:00,1327,27,Bronquitis aguda,Cambio de dieta + ejercicio,19,Sí
+382,664,2024-10-23 08:30,457,18,Migraña,Psicoterapia,23,Sí
+383,667,2023-05-12 09:30,623,31,Diabetes mellitus tipo 2,Derivación a especialista,29,Sí
+384,671,2023-07-23 09:15,674,59,Bronquitis aguda,Alta médica sin tratamiento,38,Sí
+385,672,2023-12-26 10:45,1549,40,Infección urinaria,Control mensual,46,Sí
+386,673,2024-09-07 10:45,721,59,Infección respiratoria aguda,Antibióticos 7 días,22,Sí
+387,674,2024-01-18 14:15,1009,23,Rinitis alérgica,Psicoterapia,18,Sí
+388,675,2023-06-04 16:15,962,10,Infección respiratoria aguda,Cambio de medicación,20,Sí
+389,678,2024-03-09 15:00,924,9,Varicela,Exámenes de laboratorio,23,Sí
+390,679,2024-04-25 15:00,2078,23,Control pediátrico,Derivación a especialista,29,Sí
+391,682,2023-04-12 08:45,819,25,Control prenatal,Alta médica sin tratamiento,29,Sí
+392,686,2023-11-29 16:30,1649,31,Diabetes mellitus tipo 2,Antibióticos 7 días,35,No
+393,687,2023-08-10 10:15,537,10,Anemia,Exámenes de laboratorio,47,No
+394,690,2024-01-22 10:30,1449,26,Anemia,Exámenes de laboratorio,23,Sí
+395,691,2024-02-03 11:45,865,24,Infección urinaria,Antibióticos 7 días,29,Sí
+396,692,2024-06-28 08:30,1003,5,Dermatitis atópica,Derivación a especialista,36,Sí
+397,694,2023-08-23 17:30,26,32,Infección urinaria,Cambio de medicación,57,Sí
+398,697,2024-11-10 15:15,2084,51,Artrosis,Exámenes de laboratorio,53,Sí
+399,699,2024-05-02 08:30,260,21,Hipertensión arterial,Alta médica sin tratamiento,60,No
+400,701,2023-03-15 09:30,355,28,Colesterol elevado,Cambio de dieta + ejercicio,51,No
+401,702,2023-01-18 09:45,1352,28,Rinitis alérgica,Medicación oral + reposo,33,No
+402,706,2024-11-08 09:15,2033,7,Hipertensión arterial,Control mensual,25,Sí
+403,707,2024-08-08 11:45,1260,5,Infección respiratoria aguda,Antibióticos 7 días,18,Sí
+404,713,2023-08-31 11:30,2232,27,Infección urinaria,Medicación oral + reposo,48,Sí
+405,716,2023-06-12 09:00,511,10,Bronquitis aguda,Cirugía programada,21,Sí
+406,717,2023-12-24 16:45,1442,54,Rinitis alérgica,Medicación oral + reposo,31,No
+407,719,2023-01-02 10:45,29,46,Depresión,Psicoterapia,17,Sí
+408,721,2024-08-09 16:45,2034,26,Control pediátrico,Cambio de dieta + ejercicio,59,Sí
+409,722,2024-03-05 11:45,1268,57,Fracturas,Cambio de dieta + ejercicio,31,Sí
+410,723,2023-09-21 14:00,1424,28,Reflujo gastroesofágico,Cambio de medicación,30,No
+411,724,2023-12-28 14:15,95,27,Infección urinaria,Alta médica sin tratamiento,35,No
+412,725,2024-08-25 15:30,1927,13,Conjuntivitis,Alta médica sin tratamiento,37,Sí
+413,728,2023-07-30 08:30,1558,15,Bronquitis aguda,Medicación oral + reposo,52,Sí
+414,729,2023-07-03 14:30,2432,30,Depresión,Control mensual,47,Sí
+415,731,2023-08-29 09:30,846,28,Infección urinaria,Antibióticos 7 días,59,No
+416,733,2024-02-28 15:15,1612,23,Conjuntivitis,Control mensual,40,No
+417,734,2023-10-27 11:30,1223,22,Control prenatal,Cambio de medicación,29,Sí
+418,735,2023-11-09 09:45,1055,51,Control prenatal,Derivación a especialista,49,No
+419,739,2024-08-30 14:45,599,15,Anemia,Derivación a especialista,17,No
+420,741,2023-04-17 08:45,409,16,Conjuntivitis,Antibióticos 7 días,53,No
+421,742,2023-04-28 16:00,529,4,Infección respiratoria aguda,Cirugía programada,24,Sí
+422,743,2024-06-15 14:15,1962,21,Control prenatal,Derivación a especialista,16,No
+423,745,2023-02-08 11:00,2399,9,Control prenatal,Control mensual,44,Sí
+424,746,2024-08-03 15:30,176,20,Obesidad,Psicoterapia,26,No
+425,747,2023-06-01 11:00,1563,60,Ansiedad generalizada,Derivación a especialista,55,Sí
+426,748,2023-04-20 10:00,113,10,Dermatitis atópica,Inyectable + observación,40,No
+427,753,2023-07-13 12:30,1477,36,Control prenatal,Cambio de dieta + ejercicio,53,No
+428,754,2023-03-28 09:15,1625,25,Ansiedad generalizada,Medicación oral + reposo,21,No
+429,755,2023-02-19 11:30,2221,36,Dermatitis atópica,Inyectable + observación,23,Sí
+430,757,2024-04-13 12:15,1019,13,Colesterol elevado,Psicoterapia,22,No
+431,758,2024-11-02 09:00,1086,27,Dermatitis atópica,Derivación a especialista,60,No
+432,760,2023-02-03 17:30,2213,54,Artrosis,Control mensual,52,Sí
+433,761,2024-01-26 08:15,577,37,Lumbalgia,Derivación a especialista,39,Sí
+434,763,2023-02-08 12:15,1908,17,Control prenatal,Inyectable + observación,39,Sí
+435,764,2023-08-22 17:30,1305,4,Gastritis crónica,Psicoterapia,39,Sí
+436,765,2024-07-26 12:45,193,11,Reflujo gastroesofágico,Exámenes de laboratorio,49,No
+437,766,2024-04-04 14:15,1601,22,Infección urinaria,Medicación oral + reposo,27,No
+438,767,2024-06-16 10:15,815,13,Control prenatal,Cambio de medicación,23,No
+439,768,2023-05-18 14:45,39,9,Bronquitis aguda,Cambio de medicación,53,Sí
+440,769,2023-07-29 08:15,2350,7,Varicela,Psicoterapia,45,Sí
+441,770,2023-09-17 15:45,90,15,Diabetes mellitus tipo 2,Cambio de dieta + ejercicio,40,No
+442,771,2024-11-17 15:45,1807,5,Bronquitis aguda,Antibióticos 7 días,46,Sí
+443,772,2024-03-24 15:15,1496,60,Fracturas,Derivación a especialista,33,Sí
+444,774,2024-10-19 14:15,233,12,Migraña,Cambio de dieta + ejercicio,38,No
+445,775,2023-08-25 17:30,230,6,Lumbalgia,Fisioterapia,20,Sí
+446,776,2023-01-30 11:30,1998,11,Lumbalgia,Control mensual,24,No
+447,777,2024-07-07 12:45,540,3,Migraña,Fisioterapia,36,Sí
+448,779,2023-10-27 08:30,668,11,Otitis media,Exámenes de laboratorio,39,Sí
+449,782,2024-09-29 10:30,1067,27,Hipertensión arterial,Cambio de medicación,35,Sí
+450,783,2024-10-17 17:15,205,25,Artrosis,Alta médica sin tratamiento,34,Sí
+451,785,2023-07-04 10:30,1391,33,Bronquitis aguda,Cambio de dieta + ejercicio,43,Sí
+452,787,2024-06-03 10:15,2187,19,Gastritis crónica,Control mensual,18,No
+453,788,2024-04-07 09:15,1989,16,Reflujo gastroesofágico,Antibióticos 7 días,15,Sí
+454,789,2023-03-30 08:00,409,9,Faringitis,Exámenes de laboratorio,29,No
+455,793,2023-04-17 12:30,2451,10,Ansiedad generalizada,Cambio de dieta + ejercicio,27,Sí
+456,794,2023-04-23 16:00,730,39,Gastritis crónica,Cambio de medicación,32,No
+457,795,2024-05-19 15:30,708,12,Infección urinaria,Medicación oral + reposo,36,Sí
+458,797,2023-06-03 10:00,1478,55,Control prenatal,Fisioterapia,33,Sí
+459,800,2023-07-27 12:30,2211,53,Lumbalgia,Fisioterapia,24,Sí
+460,801,2023-11-09 17:45,1238,29,Depresión,Exámenes de laboratorio,60,Sí
+461,803,2023-01-11 14:45,86,52,Hipertensión arterial,Alta médica sin tratamiento,20,Sí
+462,804,2023-03-15 14:15,2079,44,Anemia,Cirugía programada,31,Sí
+463,805,2024-09-30 10:45,1836,32,Hipotiroidismo,Exámenes de laboratorio,21,No
+464,806,2023-06-13 14:45,1750,41,Control pediátrico,Derivación a especialista,19,No
+465,807,2024-04-08 16:45,956,18,Hipertensión arterial,Cambio de medicación,46,Sí
+466,808,2023-06-13 14:15,1307,51,Hipotiroidismo,Cirugía programada,59,Sí
+467,809,2024-02-13 14:00,72,27,Varicela,Derivación a especialista,44,No
+468,812,2023-06-05 14:30,1682,14,Anemia,Cambio de medicación,24,Sí
+469,813,2024-03-22 11:45,2383,26,Dermatitis atópica,Medicación oral + reposo,24,Sí
+470,818,2024-12-22 10:00,2190,55,Gastritis crónica,Psicoterapia,48,Sí
+471,819,2023-04-07 10:00,343,12,Hipotiroidismo,Cambio de dieta + ejercicio,28,No
+472,820,2024-06-07 09:30,1525,48,Control prenatal,Alta médica sin tratamiento,58,Sí
+473,822,2023-04-17 09:30,1645,20,Artrosis,Cambio de dieta + ejercicio,47,Sí
+474,824,2023-02-13 15:15,548,54,Colesterol elevado,Medicación oral + reposo,17,Sí
+475,826,2024-02-02 15:30,1285,34,Anemia,Psicoterapia,24,No
+476,827,2023-05-02 15:15,1636,48,Migraña,Psicoterapia,37,No
+477,828,2023-04-25 10:45,892,19,Artrosis,Alta médica sin tratamiento,42,Sí
+478,829,2023-07-17 10:00,594,12,Varicela,Control mensual,38,Sí
+479,830,2023-02-16 12:15,1252,45,Fracturas,Inyectable + observación,33,No
+480,831,2023-04-26 12:45,1037,35,Lumbalgia,Psicoterapia,28,Sí
+481,834,2023-04-24 17:00,659,33,Dermatitis atópica,Cambio de medicación,48,Sí
+482,836,2023-03-05 08:30,689,46,Lumbalgia,Fisioterapia,46,Sí
+483,837,2024-07-06 14:15,806,48,Lumbalgia,Control mensual,34,No
+484,838,2023-04-09 08:30,2229,26,Depresión,Antibióticos 7 días,23,Sí
+485,839,2023-10-04 11:15,191,21,Otitis media,Fisioterapia,35,Sí
+486,840,2023-12-30 17:15,2253,46,Infección respiratoria aguda,Inyectable + observación,48,Sí
+487,843,2023-07-01 17:15,1000,55,Rinitis alérgica,Antibióticos 7 días,50,Sí
+488,845,2024-06-01 14:00,1982,27,Otitis media,Medicación oral + reposo,30,No
+489,848,2023-06-08 17:15,4,5,Otitis media,Control mensual,29,Sí
+490,849,2024-09-15 10:00,824,58,Depresión,Cambio de medicación,26,Sí
+491,851,2024-06-25 16:30,2458,47,Fracturas,Antibióticos 7 días,15,No
+492,853,2024-08-18 10:00,178,28,Obesidad,Psicoterapia,45,No
+493,854,2024-10-31 12:15,2205,34,Bronquitis aguda,Psicoterapia,60,Sí
+494,855,2024-04-23 16:45,308,40,Rinitis alérgica,Antibióticos 7 días,49,Sí
+495,858,2023-06-04 15:45,2038,12,Fracturas,Cirugía programada,35,Sí
+496,860,2023-05-22 14:45,1450,37,Control pediátrico,Cambio de medicación,43,Sí
+497,862,2024-11-18 15:00,916,39,Depresión,Derivación a especialista,23,Sí
+498,863,2023-05-20 08:45,1821,48,Colesterol elevado,Inyectable + observación,35,Sí
+499,865,2024-03-24 15:45,2418,20,Infección respiratoria aguda,Derivación a especialista,28,Sí
+500,866,2024-07-20 16:30,89,36,Bronquitis aguda,Cambio de medicación,38,Sí
+501,868,2024-09-14 17:30,309,33,Ansiedad generalizada,Cambio de dieta + ejercicio,38,Sí
+502,870,2023-07-31 15:00,2126,41,Lumbalgia,Psicoterapia,23,Sí
+503,873,2023-02-02 10:45,1339,11,Varicela,Derivación a especialista,17,No
+504,874,2024-02-11 15:30,572,30,Dermatitis atópica,Exámenes de laboratorio,20,No
+505,875,2023-01-19 17:15,2265,39,Conjuntivitis,Fisioterapia,15,Sí
+506,876,2024-01-03 17:00,1109,35,Gastritis crónica,Medicación oral + reposo,39,Sí
+507,880,2023-01-15 10:45,1704,56,Conjuntivitis,Cirugía programada,37,Sí
+508,881,2023-02-18 08:15,1518,59,Anemia,Alta médica sin tratamiento,39,No
+509,882,2024-02-04 15:00,189,44,Faringitis,Exámenes de laboratorio,44,No
+510,884,2024-07-25 12:15,1587,19,Conjuntivitis,Fisioterapia,28,Sí
+511,885,2024-03-18 16:00,1796,35,Control prenatal,Alta médica sin tratamiento,45,Sí
+512,887,2023-02-01 09:15,664,27,Gastritis crónica,Derivación a especialista,38,Sí
+513,888,2023-02-18 11:30,1752,24,Hipotiroidismo,Fisioterapia,32,Sí
+514,889,2023-05-15 08:45,1211,20,Obesidad,Antibióticos 7 días,54,No
+515,890,2024-03-08 17:45,1983,18,Control prenatal,Inyectable + observación,16,Sí
+516,891,2023-02-09 15:15,1533,11,Hipertensión arterial,Medicación oral + reposo,28,Sí
+517,892,2023-12-19 15:45,517,8,Dermatitis atópica,Fisioterapia,33,No
+518,894,2023-12-06 11:15,512,39,Control prenatal,Alta médica sin tratamiento,46,No
+519,895,2023-09-22 16:30,1208,29,Depresión,Exámenes de laboratorio,49,Sí
+520,898,2024-07-01 11:30,395,55,Faringitis,Cambio de medicación,60,No
+521,899,2023-05-21 12:30,26,32,Colesterol elevado,Cambio de dieta + ejercicio,48,Sí
+522,900,2023-06-20 08:00,1425,14,Artrosis,Cambio de dieta + ejercicio,45,Sí
+523,901,2024-11-05 10:00,1021,26,Bronquitis aguda,Medicación oral + reposo,60,Sí
+524,904,2024-12-30 14:30,1420,36,Gastritis crónica,Control mensual,51,Sí
+525,906,2023-04-14 15:00,1419,9,Lumbalgia,Inyectable + observación,53,No
+526,908,2023-02-23 17:00,273,4,Ansiedad generalizada,Inyectable + observación,42,Sí
+527,911,2023-11-01 16:30,1461,50,Artrosis,Antibióticos 7 días,46,No
+528,913,2023-09-24 12:15,2340,30,Anemia,Medicación oral + reposo,28,Sí
+529,914,2024-05-15 17:00,151,22,Gastritis crónica,Antibióticos 7 días,25,Sí
+530,915,2024-06-26 11:45,911,13,Hipotiroidismo,Alta médica sin tratamiento,35,No
+531,916,2024-12-05 11:15,341,56,Rinitis alérgica,Medicación oral + reposo,43,Sí
+532,920,2023-11-20 09:30,2273,28,Dermatitis atópica,Inyectable + observación,28,Sí
+533,922,2023-12-02 11:45,1339,54,Gastritis crónica,Cirugía programada,48,Sí
+534,923,2024-06-08 09:30,2097,4,Bronquitis aguda,Cambio de medicación,44,No
+535,925,2024-05-05 16:45,1563,32,Obesidad,Inyectable + observación,46,No
+536,928,2023-02-23 08:00,1762,17,Hipertensión arterial,Inyectable + observación,16,Sí
+537,930,2024-06-28 11:30,934,37,Bronquitis aguda,Psicoterapia,41,No
+538,931,2024-07-07 15:30,671,7,Bronquitis aguda,Medicación oral + reposo,15,Sí
+539,932,2024-02-04 12:30,1178,11,Obesidad,Psicoterapia,60,Sí
+540,933,2024-03-24 10:30,1876,38,Migraña,Cambio de medicación,24,Sí
+541,938,2024-08-17 17:30,1893,1,Migraña,Derivación a especialista,56,Sí
+542,939,2023-04-12 12:15,1076,60,Lumbalgia,Cambio de dieta + ejercicio,52,Sí
+543,940,2024-06-19 15:00,1743,32,Artrosis,Psicoterapia,49,Sí
+544,941,2024-10-15 08:15,340,12,Fracturas,Cambio de medicación,31,No
+545,942,2024-03-20 17:00,2164,33,Lumbalgia,Psicoterapia,31,Sí
+546,943,2024-09-16 16:00,336,37,Ansiedad generalizada,Alta médica sin tratamiento,28,Sí
+547,944,2024-08-13 08:00,1127,59,Hipertensión arterial,Cirugía programada,38,Sí
+548,945,2023-04-18 16:45,2347,41,Anemia,Psicoterapia,51,Sí
+549,946,2023-11-20 10:45,2364,4,Varicela,Medicación oral + reposo,40,No
+550,947,2023-08-15 14:00,1733,38,Varicela,Psicoterapia,17,No
+551,949,2023-07-19 10:45,49,50,Rinitis alérgica,Control mensual,29,Sí
+552,950,2023-05-05 11:00,82,48,Migraña,Fisioterapia,31,Sí
+553,952,2023-09-07 15:00,1291,23,Conjuntivitis,Fisioterapia,36,Sí
+554,954,2023-02-13 12:30,2058,46,Depresión,Cirugía programada,52,Sí
+555,955,2023-11-03 11:45,250,57,Infección respiratoria aguda,Cambio de dieta + ejercicio,48,Sí
+556,956,2023-12-18 17:45,847,26,Dermatitis atópica,Psicoterapia,37,Sí
+557,958,2024-06-05 15:15,889,45,Lumbalgia,Cirugía programada,26,Sí
+558,959,2024-09-25 08:00,857,23,Hipertensión arterial,Psicoterapia,30,No
+559,960,2024-03-16 09:30,1368,35,Rinitis alérgica,Derivación a especialista,20,No
+560,961,2023-03-30 14:45,1196,29,Reflujo gastroesofágico,Exámenes de laboratorio,16,No
+561,964,2024-06-04 11:45,175,43,Rinitis alérgica,Exámenes de laboratorio,29,No
+562,966,2023-12-18 11:30,1550,27,Conjuntivitis,Derivación a especialista,48,Sí
+563,967,2024-01-22 12:30,726,34,Infección respiratoria aguda,Exámenes de laboratorio,41,Sí
+564,969,2023-12-09 17:30,1892,21,Otitis media,Alta médica sin tratamiento,37,No
+565,970,2023-02-13 14:00,1678,54,Depresión,Cambio de medicación,55,Sí
+566,972,2023-05-27 16:45,877,1,Faringitis,Alta médica sin tratamiento,31,Sí
+567,973,2024-06-05 09:30,855,28,Infección respiratoria aguda,Alta médica sin tratamiento,30,No
+568,974,2024-04-09 09:15,1062,44,Anemia,Fisioterapia,21,Sí
+569,975,2023-01-23 15:00,2425,21,Reflujo gastroesofágico,Psicoterapia,27,Sí
+570,978,2023-12-26 09:15,1105,56,Bronquitis aguda,Control mensual,51,No
+571,980,2023-01-22 15:00,1858,18,Migraña,Inyectable + observación,40,No
+572,984,2023-08-08 15:30,912,47,Infección urinaria,Cambio de medicación,46,No
+573,985,2023-09-15 09:15,1946,29,Fracturas,Control mensual,51,Sí
+574,986,2024-09-29 09:30,35,39,Faringitis,Cambio de medicación,42,Sí
+575,988,2023-09-28 10:00,1622,9,Ansiedad generalizada,Cirugía programada,20,No
+576,989,2023-08-27 09:00,1074,5,Conjuntivitis,Alta médica sin tratamiento,19,Sí
+577,991,2023-02-27 16:30,1145,5,Faringitis,Fisioterapia,50,Sí
+578,992,2023-06-13 12:30,409,37,Rinitis alérgica,Derivación a especialista,49,No
+579,997,2023-03-22 16:30,751,12,Migraña,Psicoterapia,46,Sí
+580,998,2023-01-15 12:15,591,12,Ansiedad generalizada,Fisioterapia,53,Sí
+581,999,2023-04-21 17:00,707,27,Hipertensión arterial,Derivación a especialista,46,No
+582,1000,2024-01-27 17:45,146,13,Gastritis crónica,Control mensual,16,Sí
+583,1003,2023-02-02 14:15,621,50,Gastritis crónica,Cambio de dieta + ejercicio,20,Sí
+584,1007,2023-12-08 08:00,2028,16,Control prenatal,Cambio de dieta + ejercicio,36,No
+585,1011,2023-07-10 09:00,1597,32,Artrosis,Medicación oral + reposo,34,No
+586,1012,2024-02-22 09:45,1040,21,Migraña,Exámenes de laboratorio,27,No
+587,1013,2024-07-14 09:45,455,37,Conjuntivitis,Inyectable + observación,54,Sí
+588,1014,2023-11-10 11:45,26,30,Reflujo gastroesofágico,Cambio de dieta + ejercicio,31,Sí
+589,1015,2023-11-05 12:15,221,10,Control prenatal,Medicación oral + reposo,20,Sí
+590,1016,2023-04-06 15:00,753,24,Depresión,Cambio de medicación,40,Sí
+591,1017,2023-08-08 12:00,591,22,Bronquitis aguda,Cirugía programada,44,Sí
+592,1018,2024-08-20 12:30,582,47,Control prenatal,Medicación oral + reposo,34,Sí
+593,1020,2024-03-06 14:30,853,44,Varicela,Alta médica sin tratamiento,51,Sí
+594,1021,2024-04-26 15:00,387,15,Otitis media,Inyectable + observación,29,Sí
+595,1022,2024-07-24 08:15,1908,39,Varicela,Medicación oral + reposo,39,No
+596,1023,2024-08-21 17:30,1108,23,Control prenatal,Alta médica sin tratamiento,39,No
+597,1024,2023-05-15 09:00,459,25,Varicela,Fisioterapia,39,No
+598,1025,2023-11-24 17:00,2356,43,Migraña,Medicación oral + reposo,52,Sí
+599,1029,2023-01-10 17:30,1899,25,Bronquitis aguda,Cambio de dieta + ejercicio,17,Sí
+600,1030,2023-01-25 17:15,1278,30,Reflujo gastroesofágico,Fisioterapia,44,Sí
+601,1034,2023-07-22 14:15,1610,39,Infección urinaria,Cirugía programada,29,Sí
+602,1035,2024-06-06 15:30,1142,35,Migraña,Medicación oral + reposo,38,Sí
+603,1037,2023-10-08 15:15,2162,27,Bronquitis aguda,Alta médica sin tratamiento,51,No
+604,1038,2023-06-22 09:15,607,46,Migraña,Cirugía programada,38,Sí
+605,1040,2023-01-02 11:15,1472,58,Fracturas,Cambio de dieta + ejercicio,57,Sí
+606,1041,2023-01-19 17:45,9,4,Faringitis,Control mensual,58,No
+607,1042,2024-02-17 16:15,1019,51,Control prenatal,Fisioterapia,25,No
+608,1045,2023-08-29 10:45,1575,37,Obesidad,Medicación oral + reposo,22,Sí
+609,1047,2024-07-08 14:30,184,25,Varicela,Control mensual,34,Sí
+610,1048,2024-07-14 15:45,2226,54,Control prenatal,Cambio de dieta + ejercicio,44,Sí
+611,1049,2023-02-11 08:00,1057,25,Fracturas,Fisioterapia,55,Sí
+612,1051,2023-09-08 16:00,1780,8,Depresión,Psicoterapia,15,Sí
+613,1052,2023-11-22 09:30,394,34,Infección urinaria,Cambio de medicación,36,No
+614,1054,2024-11-11 08:00,775,41,Artrosis,Cambio de medicación,59,Sí
+615,1055,2023-09-02 12:45,1487,14,Colesterol elevado,Derivación a especialista,50,No
+616,1057,2024-02-19 15:45,1161,38,Reflujo gastroesofágico,Cambio de dieta + ejercicio,17,Sí
+617,1058,2023-04-08 08:15,608,46,Otitis media,Derivación a especialista,53,No
+618,1059,2023-05-23 17:00,1094,57,Ansiedad generalizada,Control mensual,47,No
+619,1060,2024-10-30 11:45,2077,10,Fracturas,Alta médica sin tratamiento,33,Sí
+620,1061,2023-01-02 10:45,2444,60,Control pediátrico,Fisioterapia,41,No
+621,1063,2023-05-20 16:15,1074,45,Conjuntivitis,Inyectable + observación,18,Sí
+622,1064,2024-02-26 12:15,1469,41,Bronquitis aguda,Fisioterapia,24,No
+623,1068,2023-12-21 08:30,724,51,Bronquitis aguda,Inyectable + observación,57,No
+624,1069,2023-03-04 16:15,1629,8,Reflujo gastroesofágico,Control mensual,53,No
+625,1070,2024-03-12 15:00,898,4,Conjuntivitis,Exámenes de laboratorio,36,Sí
+626,1071,2024-07-29 11:15,221,6,Obesidad,Derivación a especialista,39,No
+627,1072,2023-04-02 10:15,1878,6,Control prenatal,Cirugía programada,52,Sí
+628,1074,2024-06-29 14:00,513,2,Conjuntivitis,Inyectable + observación,20,No
+629,1079,2023-11-13 16:15,1499,32,Faringitis,Derivación a especialista,30,No
+630,1080,2024-07-25 15:00,1063,16,Obesidad,Cirugía programada,35,Sí
+631,1082,2024-04-14 10:45,416,48,Diabetes mellitus tipo 2,Exámenes de laboratorio,55,Sí
+632,1084,2023-10-10 09:45,1640,10,Conjuntivitis,Medicación oral + reposo,38,Sí
+633,1087,2023-02-07 15:00,851,24,Obesidad,Inyectable + observación,25,Sí
+634,1089,2023-10-06 11:30,515,16,Colesterol elevado,Medicación oral + reposo,50,Sí
+635,1091,2023-12-11 15:30,453,10,Conjuntivitis,Derivación a especialista,48,Sí
+636,1092,2023-06-17 14:30,2477,48,Bronquitis aguda,Control mensual,29,Sí
+637,1093,2023-01-18 15:30,2355,51,Control prenatal,Cirugía programada,36,Sí
+638,1094,2023-05-07 09:45,1160,42,Hipotiroidismo,Inyectable + observación,37,No
+639,1099,2023-12-22 09:00,1660,17,Rinitis alérgica,Medicación oral + reposo,45,Sí
+640,1100,2023-06-14 14:30,180,12,Hipertensión arterial,Control mensual,29,Sí
+641,1101,2023-03-26 10:15,804,43,Ansiedad generalizada,Fisioterapia,49,No
+642,1103,2024-05-23 10:00,18,53,Bronquitis aguda,Alta médica sin tratamiento,27,Sí
+643,1104,2023-03-01 11:15,2070,25,Depresión,Alta médica sin tratamiento,22,Sí
+644,1105,2023-04-18 16:00,256,45,Infección urinaria,Alta médica sin tratamiento,39,No
+645,1106,2023-02-03 08:15,329,6,Depresión,Cambio de medicación,17,Sí
+646,1108,2024-08-26 16:45,2034,48,Conjuntivitis,Medicación oral + reposo,45,Sí
+647,1109,2024-10-07 15:15,187,50,Obesidad,Fisioterapia,18,No
+648,1111,2024-10-13 16:30,2384,42,Infección respiratoria aguda,Control mensual,15,Sí
+649,1112,2024-10-05 09:00,1494,59,Bronquitis aguda,Fisioterapia,26,Sí
+650,1113,2023-08-17 14:15,844,29,Conjuntivitis,Medicación oral + reposo,35,Sí
+651,1115,2024-04-27 10:45,2141,48,Diabetes mellitus tipo 2,Exámenes de laboratorio,24,No
+652,1116,2023-08-21 16:00,2453,49,Faringitis,Cambio de medicación,29,Sí
+653,1118,2023-05-13 11:45,1926,54,Obesidad,Derivación a especialista,52,No
+654,1120,2023-02-11 16:45,1988,22,Ansiedad generalizada,Fisioterapia,33,No
+655,1121,2023-01-08 10:30,2293,56,Obesidad,Cirugía programada,56,No
+656,1123,2023-06-23 12:30,2051,3,Conjuntivitis,Exámenes de laboratorio,40,No
+657,1124,2023-08-07 15:15,796,52,Depresión,Medicación oral + reposo,30,Sí
+658,1125,2024-02-05 08:45,665,53,Lumbalgia,Inyectable + observación,27,Sí
+659,1129,2024-12-14 10:00,2368,55,Control prenatal,Inyectable + observación,31,Sí
+660,1130,2024-02-21 12:15,1319,4,Otitis media,Alta médica sin tratamiento,24,Sí
+661,1131,2024-05-06 08:15,1591,5,Control pediátrico,Alta médica sin tratamiento,33,Sí
+662,1132,2024-10-26 17:30,810,24,Diabetes mellitus tipo 2,Cambio de dieta + ejercicio,16,Sí
+663,1133,2024-12-20 09:15,642,19,Colesterol elevado,Inyectable + observación,42,Sí
+664,1134,2024-07-08 12:00,2368,9,Fracturas,Cambio de medicación,22,Sí
+665,1135,2023-11-05 09:45,903,2,Control prenatal,Control mensual,22,No
+666,1136,2023-01-16 14:15,2461,52,Dermatitis atópica,Cambio de medicación,31,Sí
+667,1137,2024-01-13 09:45,192,10,Obesidad,Inyectable + observación,51,Sí
+668,1138,2024-07-17 15:30,1951,47,Fracturas,Fisioterapia,48,Sí
+669,1139,2023-08-25 14:15,1656,46,Hipotiroidismo,Medicación oral + reposo,42,Sí
+670,1140,2023-04-06 08:30,1270,36,Conjuntivitis,Cirugía programada,28,No
+671,1141,2023-10-10 16:45,70,53,Obesidad,Derivación a especialista,38,No
+672,1142,2024-05-17 17:45,1064,50,Control pediátrico,Inyectable + observación,48,Sí
+673,1144,2023-05-21 17:00,1315,48,Ansiedad generalizada,Control mensual,16,No
+674,1146,2024-07-30 16:00,960,38,Varicela,Derivación a especialista,58,Sí
+675,1147,2023-06-08 15:00,1399,24,Infección urinaria,Medicación oral + reposo,26,No
+676,1148,2023-08-21 15:00,2452,30,Hipertensión arterial,Exámenes de laboratorio,40,Sí
+677,1149,2024-03-21 14:30,629,19,Fracturas,Control mensual,42,No
+678,1154,2024-05-13 14:30,251,14,Diabetes mellitus tipo 2,Inyectable + observación,20,Sí
+679,1155,2023-07-10 16:30,935,34,Control pediátrico,Cambio de medicación,58,Sí
+680,1156,2024-05-30 14:45,299,54,Migraña,Alta médica sin tratamiento,26,Sí
+681,1157,2023-06-15 10:30,742,25,Depresión,Psicoterapia,21,Sí
+682,1162,2023-12-13 11:45,1959,5,Anemia,Cambio de dieta + ejercicio,23,Sí
+683,1163,2024-01-02 10:15,1950,27,Fracturas,Inyectable + observación,31,No
+684,1165,2024-06-13 17:45,124,52,Control prenatal,Derivación a especialista,52,Sí
+685,1166,2023-06-30 08:30,2423,44,Dermatitis atópica,Derivación a especialista,21,Sí
+686,1167,2023-09-23 08:30,1518,50,Depresión,Fisioterapia,30,No
+687,1169,2023-12-02 16:45,2367,27,Infección urinaria,Cambio de medicación,43,Sí
+688,1170,2023-11-18 11:30,1055,50,Otitis media,Exámenes de laboratorio,47,Sí
+689,1171,2024-04-30 17:45,1686,29,Fracturas,Alta médica sin tratamiento,19,Sí
+690,1172,2023-12-19 12:15,2048,46,Colesterol elevado,Psicoterapia,56,No
+691,1173,2024-08-23 08:15,1788,55,Gastritis crónica,Medicación oral + reposo,42,No
+692,1174,2023-07-05 16:15,2159,17,Diabetes mellitus tipo 2,Inyectable + observación,17,No
+693,1175,2024-04-11 11:15,1649,48,Artrosis,Fisioterapia,49,Sí
+694,1176,2023-06-29 10:45,245,46,Colesterol elevado,Cirugía programada,43,Sí
+695,1177,2024-04-20 14:45,424,7,Depresión,Cirugía programada,47,Sí
+696,1178,2024-05-18 09:45,1745,39,Hipertensión arterial,Fisioterapia,31,Sí
+697,1179,2023-06-11 17:30,674,4,Reflujo gastroesofágico,Control mensual,44,Sí
+698,1180,2024-07-19 15:15,468,19,Infección urinaria,Control mensual,57,No
+699,1181,2023-04-17 15:00,133,24,Control pediátrico,Derivación a especialista,15,No
+700,1182,2023-07-11 08:15,850,38,Conjuntivitis,Alta médica sin tratamiento,23,No
+701,1185,2024-04-06 16:00,2238,2,Migraña,Cambio de medicación,18,Sí
+702,1186,2024-02-14 11:45,885,52,Hipertensión arterial,Fisioterapia,22,No
+703,1187,2024-12-02 08:00,162,57,Rinitis alérgica,Cambio de medicación,30,Sí
+704,1188,2023-08-02 10:45,1193,38,Bronquitis aguda,Cirugía programada,30,Sí
+705,1189,2023-10-14 15:15,1880,12,Infección respiratoria aguda,Psicoterapia,46,Sí
+706,1193,2024-09-22 17:30,641,57,Artrosis,Control mensual,54,Sí
+707,1199,2024-07-20 12:30,704,30,Conjuntivitis,Cirugía programada,32,Sí
+708,1201,2024-06-01 17:45,1855,47,Rinitis alérgica,Cambio de medicación,57,Sí
+709,1202,2024-03-04 16:30,1235,53,Otitis media,Exámenes de laboratorio,52,Sí
+710,1203,2023-06-23 08:00,1691,55,Hipertensión arterial,Fisioterapia,26,Sí
+711,1204,2024-09-01 08:15,424,37,Diabetes mellitus tipo 2,Inyectable + observación,55,No
+712,1205,2024-01-16 12:15,763,50,Infección urinaria,Medicación oral + reposo,60,No
+713,1206,2024-07-09 08:15,134,18,Lumbalgia,Psicoterapia,54,Sí
+714,1207,2023-12-23 11:15,711,58,Reflujo gastroesofágico,Medicación oral + reposo,22,Sí
+715,1208,2023-06-21 11:30,845,12,Faringitis,Antibióticos 7 días,28,Sí
+716,1209,2024-01-19 14:30,276,3,Diabetes mellitus tipo 2,Antibióticos 7 días,53,Sí
+717,1212,2023-09-09 11:15,853,40,Varicela,Alta médica sin tratamiento,40,No
+718,1213,2024-02-08 10:45,1207,55,Ansiedad generalizada,Fisioterapia,16,Sí
+719,1215,2023-10-04 09:15,518,54,Migraña,Fisioterapia,37,No
+720,1217,2023-02-27 09:15,2463,40,Faringitis,Cirugía programada,15,Sí
+721,1220,2024-09-01 12:00,61,25,Hipertensión arterial,Inyectable + observación,53,Sí
+722,1223,2024-02-15 10:45,1973,24,Anemia,Cambio de dieta + ejercicio,37,No
+723,1224,2023-06-04 17:45,1123,31,Diabetes mellitus tipo 2,Antibióticos 7 días,58,No
+724,1225,2023-05-26 08:45,1032,25,Ansiedad generalizada,Antibióticos 7 días,16,Sí
+725,1226,2023-01-28 08:15,494,29,Lumbalgia,Derivación a especialista,53,No
+726,1227,2023-11-19 10:30,2184,58,Ansiedad generalizada,Cambio de dieta + ejercicio,50,No
+727,1228,2024-12-23 09:00,251,13,Hipertensión arterial,Medicación oral + reposo,33,Sí
+728,1229,2023-12-06 14:00,1450,45,Ansiedad generalizada,Cambio de dieta + ejercicio,57,Sí
+729,1230,2023-08-03 10:00,1302,7,Lumbalgia,Exámenes de laboratorio,17,Sí
+730,1231,2023-11-03 11:00,2384,41,Bronquitis aguda,Cambio de medicación,23,Sí
+731,1234,2024-05-28 17:15,538,10,Dermatitis atópica,Cambio de medicación,22,Sí
+732,1235,2024-12-18 17:00,1042,41,Diabetes mellitus tipo 2,Alta médica sin tratamiento,30,Sí
+733,1236,2023-11-06 17:45,2420,12,Faringitis,Cirugía programada,48,No
+734,1238,2023-06-24 17:45,856,57,Control pediátrico,Inyectable + observación,28,Sí
+735,1239,2024-09-24 08:15,1452,7,Faringitis,Inyectable + observación,46,Sí
+736,1242,2024-07-08 10:30,2160,34,Obesidad,Fisioterapia,52,Sí
+737,1245,2024-01-07 12:15,2395,50,Depresión,Antibióticos 7 días,32,Sí
+738,1246,2023-03-24 15:15,1307,48,Otitis media,Derivación a especialista,58,No
+739,1247,2023-07-07 14:00,2276,11,Hipotiroidismo,Cambio de medicación,21,No
+740,1248,2023-12-28 15:15,436,35,Infección respiratoria aguda,Cambio de medicación,25,No
+741,1249,2024-07-19 15:15,1229,29,Lumbalgia,Derivación a especialista,27,Sí
+742,1250,2023-07-04 08:00,2413,49,Lumbalgia,Psicoterapia,32,Sí
+743,1251,2023-09-09 12:00,695,51,Anemia,Control mensual,21,Sí
+744,1253,2024-12-11 16:00,1711,26,Otitis media,Antibióticos 7 días,38,No
+745,1255,2024-03-16 11:15,216,38,Colesterol elevado,Inyectable + observación,58,No
+746,1256,2024-10-24 08:00,274,31,Reflujo gastroesofágico,Cambio de medicación,48,Sí
+747,1257,2023-02-21 09:15,949,40,Depresión,Cambio de dieta + ejercicio,36,No
+748,1258,2024-07-05 10:15,1007,24,Anemia,Medicación oral + reposo,30,Sí
+749,1260,2024-12-12 08:45,1566,55,Artrosis,Cambio de dieta + ejercicio,51,No
+750,1263,2024-04-30 15:15,1713,54,Depresión,Exámenes de laboratorio,54,No
+751,1264,2024-12-26 17:30,1602,19,Dermatitis atópica,Cirugía programada,47,No
+752,1267,2024-11-20 09:15,601,55,Bronquitis aguda,Cambio de dieta + ejercicio,58,No
+753,1269,2024-03-21 12:15,1160,46,Hipertensión arterial,Exámenes de laboratorio,33,Sí
+754,1270,2024-02-03 14:30,820,46,Rinitis alérgica,Cirugía programada,52,Sí
+755,1271,2024-04-15 10:45,1179,8,Gastritis crónica,Exámenes de laboratorio,35,Sí
+756,1273,2024-03-08 11:30,1722,58,Hipertensión arterial,Cambio de medicación,51,Sí
+757,1274,2024-09-30 08:30,2476,19,Colesterol elevado,Cirugía programada,33,No
+758,1275,2024-04-29 14:30,1756,52,Control pediátrico,Cirugía programada,17,Sí
+759,1278,2023-10-21 17:15,749,3,Otitis media,Medicación oral + reposo,43,No
+760,1279,2023-10-01 09:45,1824,20,Control prenatal,Control mensual,37,No
+761,1280,2023-12-20 15:30,690,15,Control prenatal,Exámenes de laboratorio,28,No
+762,1282,2023-06-19 14:30,2336,49,Otitis media,Cambio de medicación,47,Sí
+763,1283,2024-01-23 10:45,2196,24,Diabetes mellitus tipo 2,Cambio de medicación,60,Sí
+764,1284,2023-10-15 16:15,2292,37,Varicela,Antibióticos 7 días,43,No
+765,1287,2023-06-28 09:45,1282,31,Reflujo gastroesofágico,Control mensual,34,No
+766,1288,2024-08-27 08:00,1141,16,Reflujo gastroesofágico,Inyectable + observación,55,No
+767,1289,2024-05-03 17:00,2383,50,Fracturas,Cirugía programada,38,Sí
+768,1291,2023-10-28 11:45,1682,48,Migraña,Control mensual,33,Sí
+769,1296,2024-12-11 09:30,1507,43,Gastritis crónica,Antibióticos 7 días,28,Sí
+770,1298,2024-08-13 09:00,1855,31,Obesidad,Antibióticos 7 días,33,Sí
+771,1299,2023-02-11 16:45,2118,20,Anemia,Fisioterapia,45,Sí
+772,1300,2024-01-08 15:45,84,19,Fracturas,Alta médica sin tratamiento,17,Sí
+773,1301,2023-08-22 11:45,137,22,Fracturas,Medicación oral + reposo,60,No
+774,1305,2024-03-06 15:45,750,48,Otitis media,Control mensual,53,No
+775,1306,2023-03-25 08:45,2354,42,Rinitis alérgica,Cirugía programada,51,Sí
+776,1311,2023-01-23 12:15,1290,52,Depresión,Psicoterapia,44,No
+777,1312,2024-12-12 16:00,570,54,Depresión,Cambio de dieta + ejercicio,42,No
+778,1315,2024-02-16 10:00,251,49,Lumbalgia,Fisioterapia,58,Sí
+779,1318,2023-07-28 11:45,631,27,Otitis media,Psicoterapia,57,No
+780,1319,2024-06-30 15:30,371,30,Gastritis crónica,Antibióticos 7 días,36,No
+781,1322,2024-12-04 08:00,973,21,Anemia,Fisioterapia,36,Sí
+782,1324,2023-03-07 14:45,1559,39,Migraña,Inyectable + observación,42,No
+783,1325,2023-09-22 17:15,778,1,Conjuntivitis,Alta médica sin tratamiento,16,No
+784,1327,2024-12-11 09:45,223,45,Dermatitis atópica,Cambio de dieta + ejercicio,24,Sí
+785,1334,2023-07-28 08:00,1828,57,Fracturas,Antibióticos 7 días,58,No
+786,1335,2024-04-10 10:45,2121,41,Bronquitis aguda,Control mensual,27,Sí
+787,1336,2024-09-07 15:15,616,34,Dermatitis atópica,Control mensual,22,Sí
+788,1337,2024-06-23 14:00,1213,54,Colesterol elevado,Fisioterapia,32,Sí
+789,1338,2024-06-12 17:30,79,30,Fracturas,Derivación a especialista,18,Sí
+790,1342,2023-01-16 17:00,1664,26,Otitis media,Cirugía programada,38,No
+791,1343,2023-09-03 09:45,2173,9,Rinitis alérgica,Fisioterapia,33,No
+792,1344,2024-03-07 11:30,233,41,Faringitis,Alta médica sin tratamiento,36,No
+793,1345,2023-11-30 15:15,1150,18,Infección urinaria,Antibióticos 7 días,22,No
+794,1347,2024-11-08 10:30,732,1,Rinitis alérgica,Derivación a especialista,28,Sí
+795,1348,2023-08-09 15:00,665,43,Faringitis,Derivación a especialista,45,Sí
+796,1349,2023-08-17 16:30,2399,6,Reflujo gastroesofágico,Psicoterapia,41,Sí
+797,1350,2024-07-18 12:45,1019,1,Diabetes mellitus tipo 2,Cambio de medicación,54,No
+798,1351,2023-09-13 15:45,1660,53,Reflujo gastroesofágico,Medicación oral + reposo,34,Sí
+799,1352,2023-09-06 15:30,4,9,Anemia,Cambio de dieta + ejercicio,16,Sí
+800,1353,2023-02-13 14:30,545,55,Infección urinaria,Exámenes de laboratorio,18,No
+801,1361,2024-08-18 12:45,302,9,Ansiedad generalizada,Cambio de dieta + ejercicio,45,Sí
+802,1362,2023-09-20 10:45,714,9,Faringitis,Control mensual,58,No
+803,1365,2024-01-22 10:15,725,13,Rinitis alérgica,Control mensual,25,Sí
+804,1368,2023-09-18 17:15,1234,8,Colesterol elevado,Exámenes de laboratorio,52,No
+805,1369,2024-09-14 11:00,201,34,Anemia,Fisioterapia,29,No
+806,1371,2023-01-31 08:00,517,26,Rinitis alérgica,Psicoterapia,17,Sí
+807,1372,2024-10-30 16:45,1187,20,Varicela,Fisioterapia,19,Sí
+808,1374,2024-07-31 09:15,139,56,Varicela,Psicoterapia,17,Sí
+809,1375,2023-07-29 17:45,1231,8,Anemia,Cambio de medicación,47,Sí
+810,1377,2024-11-18 15:30,2213,28,Faringitis,Derivación a especialista,58,Sí
+811,1378,2023-10-31 08:30,655,48,Infección respiratoria aguda,Medicación oral + reposo,38,No
+812,1381,2024-07-26 15:15,420,40,Reflujo gastroesofágico,Cambio de medicación,27,Sí
+813,1383,2023-03-29 16:30,540,57,Infección respiratoria aguda,Cambio de dieta + ejercicio,21,No
+814,1384,2024-04-04 15:45,1008,41,Ansiedad generalizada,Antibióticos 7 días,17,Sí
+815,1386,2023-11-14 11:30,1190,55,Bronquitis aguda,Cirugía programada,18,Sí
+816,1387,2024-12-28 10:30,2011,17,Control prenatal,Exámenes de laboratorio,27,Sí
+817,1388,2024-05-08 14:45,924,5,Varicela,Exámenes de laboratorio,30,Sí
+818,1389,2024-05-23 16:45,398,1,Ansiedad generalizada,Alta médica sin tratamiento,42,Sí
+819,1390,2023-03-17 16:30,805,42,Fracturas,Alta médica sin tratamiento,17,Sí
+820,1392,2024-09-28 09:15,601,45,Hipertensión arterial,Derivación a especialista,57,Sí
+821,1393,2023-08-04 16:00,2113,31,Rinitis alérgica,Cambio de medicación,55,No
+822,1394,2023-10-28 12:30,778,20,Artrosis,Antibióticos 7 días,56,Sí
+823,1397,2023-01-06 16:45,924,21,Rinitis alérgica,Cambio de medicación,54,Sí
+824,1399,2023-04-02 16:15,2283,55,Artrosis,Cirugía programada,33,No
+825,1401,2023-09-19 08:00,1441,25,Artrosis,Cambio de dieta + ejercicio,41,No
+826,1402,2024-06-05 08:30,2287,51,Infección urinaria,Psicoterapia,30,Sí
+827,1403,2023-04-08 14:45,1419,35,Conjuntivitis,Antibióticos 7 días,15,Sí
+828,1406,2023-01-12 11:00,12,4,Hipotiroidismo,Cirugía programada,47,Sí
+829,1407,2023-05-01 17:30,1276,21,Infección respiratoria aguda,Antibióticos 7 días,33,Sí
+830,1408,2024-09-10 17:15,76,49,Depresión,Psicoterapia,42,No
+831,1410,2023-09-02 17:30,657,50,Fracturas,Cirugía programada,24,Sí
+832,1413,2023-04-03 15:30,645,39,Infección urinaria,Cirugía programada,32,Sí
+833,1415,2023-02-26 11:45,1711,9,Conjuntivitis,Inyectable + observación,56,Sí
+834,1416,2024-05-30 17:00,1229,17,Ansiedad generalizada,Derivación a especialista,25,No
+835,1417,2024-06-01 17:45,1770,32,Control prenatal,Psicoterapia,41,Sí
+836,1418,2023-02-12 09:00,175,39,Obesidad,Alta médica sin tratamiento,56,No
+837,1419,2023-08-16 09:00,2216,54,Artrosis,Cambio de dieta + ejercicio,58,Sí
+838,1420,2024-02-04 15:00,818,44,Rinitis alérgica,Inyectable + observación,43,No
+839,1422,2024-02-13 11:15,193,22,Conjuntivitis,Alta médica sin tratamiento,51,Sí
+840,1424,2023-05-31 08:30,1863,52,Dermatitis atópica,Psicoterapia,48,No
+841,1426,2024-12-29 12:30,1956,18,Varicela,Cambio de dieta + ejercicio,34,No
+842,1427,2024-06-28 10:15,1968,47,Bronquitis aguda,Alta médica sin tratamiento,28,Sí
+843,1428,2023-10-24 15:00,328,29,Control prenatal,Exámenes de laboratorio,36,Sí
+844,1429,2024-08-13 12:45,2345,22,Infección respiratoria aguda,Control mensual,36,No
+845,1431,2024-12-20 15:00,737,16,Bronquitis aguda,Cirugía programada,56,Sí
+846,1432,2023-05-22 15:00,1489,15,Ansiedad generalizada,Alta médica sin tratamiento,32,Sí
+847,1433,2023-05-13 14:45,2190,20,Lumbalgia,Derivación a especialista,39,Sí
+848,1435,2023-12-05 08:45,2118,26,Reflujo gastroesofágico,Medicación oral + reposo,50,Sí
+849,1437,2023-05-13 17:00,35,24,Bronquitis aguda,Cirugía programada,52,No
+850,1438,2024-09-30 17:00,1757,18,Bronquitis aguda,Psicoterapia,57,Sí
+851,1439,2024-08-23 08:00,45,56,Infección respiratoria aguda,Cambio de dieta + ejercicio,57,Sí
+852,1440,2024-10-16 08:15,676,4,Migraña,Antibióticos 7 días,51,Sí
+853,1441,2024-09-14 12:30,1495,9,Hipotiroidismo,Derivación a especialista,56,Sí
+854,1442,2024-04-16 14:45,648,45,Colesterol elevado,Antibióticos 7 días,32,No
+855,1443,2023-04-25 10:45,2448,24,Rinitis alérgica,Inyectable + observación,23,Sí
+856,1447,2024-12-11 12:30,2281,39,Diabetes mellitus tipo 2,Fisioterapia,44,Sí
+857,1448,2023-05-08 17:00,923,33,Hipotiroidismo,Inyectable + observación,60,Sí
+858,1450,2023-10-18 12:30,1436,34,Reflujo gastroesofágico,Cirugía programada,18,No
+859,1451,2023-06-21 14:15,1631,26,Varicela,Exámenes de laboratorio,19,Sí
+860,1453,2023-08-29 15:00,1669,25,Artrosis,Psicoterapia,46,No
+861,1454,2023-11-14 17:45,1721,54,Control pediátrico,Cambio de medicación,35,No
+862,1455,2023-10-31 16:15,125,29,Artrosis,Fisioterapia,18,No
+863,1457,2024-01-10 17:30,1448,52,Otitis media,Control mensual,52,No
+864,1458,2023-07-23 08:00,112,5,Varicela,Control mensual,58,No
+865,1459,2024-03-09 16:00,1808,15,Varicela,Psicoterapia,56,Sí
+866,1460,2023-12-22 17:45,1295,28,Faringitis,Inyectable + observación,47,No
+867,1461,2023-05-13 10:30,2344,4,Rinitis alérgica,Derivación a especialista,15,Sí
+868,1462,2023-09-09 14:30,1238,5,Faringitis,Control mensual,19,Sí
+869,1463,2023-02-27 15:30,1812,37,Lumbalgia,Psicoterapia,55,Sí
+870,1464,2024-11-27 14:45,1497,14,Fracturas,Derivación a especialista,42,No
+871,1465,2024-04-16 09:00,2391,4,Colesterol elevado,Cirugía programada,53,No
+872,1468,2024-07-21 11:15,1353,25,Ansiedad generalizada,Psicoterapia,29,Sí
+873,1470,2024-12-04 16:00,2241,1,Obesidad,Medicación oral + reposo,38,No
+874,1472,2024-10-19 09:15,1001,55,Gastritis crónica,Cirugía programada,42,No
+875,1474,2024-12-07 16:15,889,13,Ansiedad generalizada,Cirugía programada,31,Sí
+876,1480,2023-01-23 09:30,977,44,Diabetes mellitus tipo 2,Medicación oral + reposo,33,Sí
+877,1482,2023-10-28 10:15,718,34,Infección respiratoria aguda,Derivación a especialista,47,No
+878,1483,2024-09-11 17:15,1217,32,Obesidad,Cirugía programada,44,Sí
+879,1485,2024-12-07 14:15,1345,54,Gastritis crónica,Control mensual,23,Sí
+880,1487,2023-05-08 08:00,827,36,Hipotiroidismo,Control mensual,20,Sí
+881,1488,2023-09-09 11:15,1612,51,Anemia,Cambio de dieta + ejercicio,51,Sí
+882,1493,2023-02-23 11:45,850,36,Faringitis,Derivación a especialista,57,Sí
+883,1495,2024-10-17 16:30,1179,6,Otitis media,Psicoterapia,38,Sí
+884,1497,2024-06-02 10:45,1939,51,Gastritis crónica,Fisioterapia,29,No
+885,1498,2024-01-16 08:45,1858,27,Rinitis alérgica,Control mensual,18,Sí
+886,1499,2023-09-08 15:15,655,1,Infección respiratoria aguda,Derivación a especialista,31,Sí
+887,1500,2024-10-11 15:30,2083,43,Migraña,Antibióticos 7 días,60,Sí
+888,1501,2023-10-17 16:30,1687,47,Artrosis,Inyectable + observación,42,No
+889,1503,2024-08-24 16:30,2142,60,Control pediátrico,Fisioterapia,26,No
+890,1504,2023-09-21 17:45,2451,51,Varicela,Alta médica sin tratamiento,59,Sí
+891,1506,2023-05-27 15:45,1156,39,Diabetes mellitus tipo 2,Cirugía programada,23,Sí
+892,1507,2023-05-15 11:30,1215,14,Ansiedad generalizada,Cambio de medicación,21,Sí
+893,1508,2023-04-14 10:00,1561,7,Bronquitis aguda,Medicación oral + reposo,47,Sí
+894,1510,2024-12-17 09:15,1031,2,Infección respiratoria aguda,Exámenes de laboratorio,46,Sí
+895,1511,2023-05-21 11:30,1845,28,Diabetes mellitus tipo 2,Control mensual,24,Sí
+896,1512,2024-10-14 10:30,2039,20,Control prenatal,Cambio de dieta + ejercicio,48,No
+897,1516,2023-03-11 15:00,2240,55,Faringitis,Inyectable + observación,56,No
+898,1517,2023-07-24 12:30,1575,45,Anemia,Psicoterapia,38,Sí
+899,1519,2024-06-11 15:45,1604,2,Control prenatal,Medicación oral + reposo,36,Sí
+900,1523,2023-01-08 09:45,1574,26,Fracturas,Medicación oral + reposo,60,Sí
+901,1524,2024-04-05 17:45,1322,23,Faringitis,Alta médica sin tratamiento,54,No
+902,1526,2024-05-20 14:00,1321,21,Gastritis crónica,Cambio de dieta + ejercicio,33,Sí
+903,1530,2024-02-29 15:30,236,23,Otitis media,Cambio de medicación,27,Sí
+904,1531,2023-06-07 10:30,1046,21,Dermatitis atópica,Medicación oral + reposo,55,No
+905,1532,2024-06-08 16:30,1240,17,Fracturas,Exámenes de laboratorio,38,Sí
+906,1533,2023-07-26 17:45,21,10,Hipotiroidismo,Medicación oral + reposo,42,Sí
+907,1534,2024-06-08 11:30,2189,28,Hipertensión arterial,Alta médica sin tratamiento,24,Sí
+908,1535,2023-03-07 16:00,1925,56,Gastritis crónica,Psicoterapia,50,Sí
+909,1536,2023-02-16 12:30,1005,27,Obesidad,Cirugía programada,36,Sí
+910,1537,2024-06-08 15:00,631,59,Obesidad,Cambio de dieta + ejercicio,33,No
+911,1538,2023-02-19 17:15,711,3,Hipotiroidismo,Antibióticos 7 días,17,No
+912,1539,2023-03-12 11:30,125,39,Hipotiroidismo,Cambio de dieta + ejercicio,54,Sí
+913,1542,2023-04-23 11:30,627,36,Obesidad,Cirugía programada,30,Sí
+914,1543,2024-06-23 08:30,1595,40,Migraña,Psicoterapia,42,No
+915,1544,2024-04-20 11:30,1302,59,Faringitis,Psicoterapia,17,Sí
+916,1547,2024-08-21 17:00,78,57,Hipotiroidismo,Fisioterapia,40,Sí
+917,1549,2023-08-27 09:30,1108,10,Infección urinaria,Control mensual,36,Sí
+918,1550,2023-12-07 17:30,2173,39,Hipertensión arterial,Psicoterapia,24,No
+919,1551,2023-11-16 10:00,72,30,Obesidad,Control mensual,36,No
+920,1556,2023-04-19 15:15,2107,52,Lumbalgia,Psicoterapia,44,Sí
+921,1557,2023-06-22 15:00,1003,42,Diabetes mellitus tipo 2,Derivación a especialista,30,No
+922,1562,2024-04-24 17:15,2170,60,Colesterol elevado,Inyectable + observación,18,Sí
+923,1563,2024-01-26 14:30,1208,50,Obesidad,Exámenes de laboratorio,35,Sí
+924,1565,2023-08-30 10:45,1722,60,Hipertensión arterial,Medicación oral + reposo,37,Sí
+925,1567,2023-08-22 16:00,621,57,Varicela,Psicoterapia,50,No
+926,1570,2023-03-14 16:45,1323,46,Diabetes mellitus tipo 2,Psicoterapia,52,Sí
+927,1571,2023-07-27 17:00,2034,21,Otitis media,Inyectable + observación,19,Sí
+928,1574,2024-07-25 12:30,2024,39,Migraña,Cambio de dieta + ejercicio,59,Sí
+929,1577,2023-01-18 16:45,2151,2,Infección respiratoria aguda,Psicoterapia,44,Sí
+930,1578,2024-08-30 15:00,325,10,Control prenatal,Fisioterapia,26,Sí
+931,1580,2024-08-03 17:45,2240,7,Faringitis,Fisioterapia,51,Sí
+932,1581,2023-01-28 16:00,403,33,Reflujo gastroesofágico,Exámenes de laboratorio,29,Sí
+933,1583,2024-05-07 10:15,2401,9,Colesterol elevado,Control mensual,32,Sí
+934,1586,2023-02-15 15:45,190,16,Dermatitis atópica,Exámenes de laboratorio,52,Sí
+935,1589,2023-06-24 11:00,968,48,Otitis media,Cambio de dieta + ejercicio,41,No
+936,1590,2024-10-09 08:30,1323,22,Fracturas,Medicación oral + reposo,43,Sí
+937,1591,2024-01-02 10:00,1803,44,Dermatitis atópica,Fisioterapia,24,Sí
+938,1593,2023-11-15 14:15,1148,17,Control pediátrico,Cambio de medicación,29,Sí
+939,1594,2023-03-07 12:45,429,5,Lumbalgia,Cirugía programada,26,No
+940,1595,2023-06-06 11:30,211,42,Varicela,Cirugía programada,41,Sí
+941,1599,2024-10-04 12:30,583,15,Artrosis,Control mensual,55,Sí
+942,1600,2023-09-27 15:45,1747,33,Otitis media,Exámenes de laboratorio,22,Sí
+943,1601,2023-01-26 11:45,2354,52,Hipertensión arterial,Antibióticos 7 días,17,No
+944,1602,2023-03-09 15:15,1751,20,Infección respiratoria aguda,Derivación a especialista,19,No
+945,1603,2024-05-06 11:45,552,40,Control pediátrico,Cirugía programada,49,Sí
+946,1604,2023-05-02 14:45,2073,43,Diabetes mellitus tipo 2,Control mensual,21,Sí
+947,1605,2024-09-07 10:45,1500,29,Control prenatal,Fisioterapia,27,No
+948,1608,2023-08-21 11:15,1247,42,Bronquitis aguda,Control mensual,30,Sí
+949,1610,2024-08-20 15:45,1042,35,Infección urinaria,Fisioterapia,30,Sí
+950,1611,2023-11-04 12:45,99,30,Otitis media,Inyectable + observación,60,No
+951,1612,2024-02-03 10:00,1929,46,Control pediátrico,Cirugía programada,27,No
+952,1615,2023-12-11 08:15,261,29,Control pediátrico,Medicación oral + reposo,15,Sí
+953,1617,2023-04-12 11:30,2261,5,Rinitis alérgica,Cirugía programada,22,No
+954,1620,2024-07-02 15:30,527,38,Reflujo gastroesofágico,Cirugía programada,29,No
+955,1621,2023-06-05 15:30,989,13,Obesidad,Medicación oral + reposo,55,Sí
+956,1625,2023-11-17 15:15,320,1,Lumbalgia,Cambio de dieta + ejercicio,44,Sí
+957,1626,2023-05-18 10:15,1139,12,Depresión,Cirugía programada,43,Sí
+958,1629,2024-09-24 08:00,1725,32,Gastritis crónica,Antibióticos 7 días,36,Sí
+959,1631,2023-10-10 15:00,614,41,Control pediátrico,Alta médica sin tratamiento,25,Sí
+960,1632,2024-09-23 10:15,1124,19,Varicela,Fisioterapia,28,Sí
+961,1633,2023-03-06 16:30,1005,50,Anemia,Exámenes de laboratorio,45,Sí
+962,1634,2024-03-20 12:15,1620,59,Obesidad,Derivación a especialista,49,No
+963,1635,2023-04-23 17:45,1544,53,Bronquitis aguda,Cambio de medicación,21,No
+964,1636,2024-01-24 11:00,1009,32,Bronquitis aguda,Alta médica sin tratamiento,43,No
+965,1637,2024-10-20 15:30,2325,38,Diabetes mellitus tipo 2,Control mensual,53,Sí
+966,1638,2024-10-16 10:45,1459,38,Fracturas,Exámenes de laboratorio,30,Sí
+967,1639,2023-04-05 12:00,1797,25,Reflujo gastroesofágico,Alta médica sin tratamiento,30,Sí
+968,1641,2023-08-02 12:30,1371,22,Reflujo gastroesofágico,Exámenes de laboratorio,19,Sí
+969,1644,2023-09-16 14:30,988,15,Varicela,Control mensual,38,Sí
+970,1645,2024-01-18 16:30,1549,47,Infección respiratoria aguda,Psicoterapia,53,Sí
+971,1646,2023-06-02 14:00,2377,54,Ansiedad generalizada,Fisioterapia,60,Sí
+972,1648,2023-05-18 08:30,1298,14,Infección respiratoria aguda,Inyectable + observación,52,Sí
+973,1649,2023-10-20 11:45,58,38,Bronquitis aguda,Cirugía programada,56,No
+974,1653,2023-11-29 09:00,845,38,Hipertensión arterial,Cambio de medicación,53,Sí
+975,1655,2023-01-16 16:00,700,41,Conjuntivitis,Exámenes de laboratorio,34,Sí
+976,1656,2023-02-16 15:30,2248,30,Bronquitis aguda,Control mensual,60,Sí
+977,1657,2023-12-05 16:00,1734,20,Colesterol elevado,Cirugía programada,37,Sí
+978,1660,2023-07-03 11:00,296,24,Depresión,Control mensual,51,Sí
+979,1661,2023-07-09 11:00,1656,3,Faringitis,Inyectable + observación,16,Sí
+980,1663,2023-06-22 12:00,1338,59,Fracturas,Psicoterapia,38,Sí
+981,1664,2023-01-28 15:45,393,19,Anemia,Cirugía programada,40,Sí
+982,1665,2023-11-19 09:30,1968,3,Hipertensión arterial,Inyectable + observación,49,Sí
+983,1667,2023-07-30 17:15,1646,28,Otitis media,Psicoterapia,24,Sí
+984,1668,2023-10-12 08:00,528,9,Depresión,Antibióticos 7 días,43,Sí
+985,1670,2024-11-01 08:00,1526,25,Anemia,Derivación a especialista,25,No
+986,1671,2023-04-27 11:30,190,55,Hipertensión arterial,Antibióticos 7 días,55,Sí
+987,1672,2023-08-17 09:15,2189,20,Bronquitis aguda,Exámenes de laboratorio,19,Sí
+988,1673,2024-01-08 10:45,934,42,Rinitis alérgica,Psicoterapia,47,Sí
+989,1674,2023-06-12 11:30,479,51,Depresión,Cambio de dieta + ejercicio,16,Sí
+990,1676,2023-07-10 17:45,518,14,Hipotiroidismo,Psicoterapia,15,Sí
+991,1677,2024-09-16 16:45,1223,50,Colesterol elevado,Cambio de dieta + ejercicio,52,No
+992,1678,2024-08-20 17:45,21,12,Anemia,Medicación oral + reposo,50,Sí
+993,1679,2023-06-28 08:30,1759,13,Colesterol elevado,Inyectable + observación,18,Sí
+994,1682,2023-12-31 15:00,1933,54,Ansiedad generalizada,Antibióticos 7 días,46,Sí
+995,1683,2024-01-28 15:30,1371,45,Bronquitis aguda,Derivación a especialista,25,Sí
+996,1684,2023-10-01 16:45,1362,37,Hipertensión arterial,Control mensual,57,Sí
+997,1685,2024-10-16 17:00,646,24,Control pediátrico,Cambio de medicación,44,No
+998,1686,2023-04-18 12:45,1707,27,Fracturas,Inyectable + observación,18,Sí
+999,1687,2024-02-19 14:15,1514,15,Conjuntivitis,Derivación a especialista,52,No
+1000,1689,2023-12-13 11:45,1302,43,Lumbalgia,Exámenes de laboratorio,39,Sí
+1001,1697,2023-08-18 17:00,1701,7,Lumbalgia,Cambio de dieta + ejercicio,21,Sí
+1002,1699,2024-05-24 11:45,120,16,Otitis media,Psicoterapia,56,Sí
+1003,1700,2024-04-27 10:00,536,25,Reflujo gastroesofágico,Exámenes de laboratorio,53,No
+1004,1702,2024-01-31 12:15,79,36,Dermatitis atópica,Psicoterapia,16,No
+1005,1703,2023-10-20 15:15,483,9,Obesidad,Fisioterapia,55,No
+1006,1704,2024-03-28 15:15,2426,50,Control prenatal,Control mensual,39,Sí
+1007,1705,2023-05-28 10:45,1325,42,Anemia,Derivación a especialista,22,Sí
+1008,1710,2024-09-27 15:45,2324,30,Migraña,Antibióticos 7 días,17,No
+1009,1712,2023-04-18 15:00,2458,8,Gastritis crónica,Fisioterapia,38,No
+1010,1715,2023-10-06 11:45,928,15,Hipotiroidismo,Exámenes de laboratorio,51,Sí
+1011,1717,2023-10-16 08:30,2186,51,Varicela,Inyectable + observación,33,Sí
+1012,1718,2023-03-14 15:45,363,47,Artrosis,Derivación a especialista,54,Sí
+1013,1719,2023-03-17 12:00,2460,14,Faringitis,Medicación oral + reposo,18,No
+1014,1720,2023-10-17 09:00,425,26,Faringitis,Cambio de dieta + ejercicio,42,No
+1015,1721,2024-11-02 10:00,195,55,Depresión,Cirugía programada,48,No
+1016,1723,2024-09-27 08:15,2230,3,Colesterol elevado,Inyectable + observación,27,No
+1017,1724,2023-07-25 12:30,1196,10,Rinitis alérgica,Cambio de dieta + ejercicio,50,Sí
+1018,1725,2023-06-09 08:15,1239,36,Depresión,Cambio de dieta + ejercicio,46,Sí
+1019,1726,2024-03-11 08:45,1308,13,Fracturas,Cirugía programada,47,No
+1020,1727,2024-05-12 09:15,2317,43,Dermatitis atópica,Inyectable + observación,43,Sí
+1021,1728,2023-03-23 14:45,2227,25,Hipotiroidismo,Control mensual,54,Sí
+1022,1729,2024-05-22 09:15,406,55,Varicela,Derivación a especialista,36,Sí
+1023,1730,2024-08-19 12:00,554,51,Rinitis alérgica,Cirugía programada,28,Sí
+1024,1732,2023-10-24 09:00,2134,36,Hipotiroidismo,Control mensual,39,Sí
+1025,1734,2024-09-14 11:45,1985,60,Anemia,Alta médica sin tratamiento,45,Sí
+1026,1738,2023-09-13 10:00,2366,19,Migraña,Control mensual,24,Sí
+1027,1739,2023-03-19 11:00,1427,19,Infección respiratoria aguda,Alta médica sin tratamiento,27,Sí
+1028,1740,2023-02-22 15:45,1375,14,Control pediátrico,Psicoterapia,31,No
+1029,1741,2024-02-21 17:30,760,25,Colesterol elevado,Alta médica sin tratamiento,22,Sí
+1030,1742,2023-11-27 10:45,1411,22,Bronquitis aguda,Inyectable + observación,22,Sí
+1031,1743,2023-01-03 10:30,1278,58,Infección respiratoria aguda,Alta médica sin tratamiento,41,Sí
+1032,1744,2024-12-25 16:30,1160,32,Anemia,Fisioterapia,28,No
+1033,1745,2024-03-12 15:30,2133,34,Hipotiroidismo,Derivación a especialista,17,Sí
+1034,1747,2024-03-19 16:30,435,38,Colesterol elevado,Cambio de dieta + ejercicio,30,Sí
+1035,1748,2024-01-08 17:30,1647,14,Fracturas,Cambio de medicación,28,Sí
+1036,1749,2024-04-04 09:45,597,55,Otitis media,Derivación a especialista,40,Sí
+1037,1751,2024-01-27 08:45,1504,2,Lumbalgia,Cambio de medicación,45,No
+1038,1752,2023-03-26 12:30,93,43,Hipotiroidismo,Fisioterapia,36,No
+1039,1753,2023-01-06 15:45,456,54,Migraña,Psicoterapia,59,Sí
+1040,1754,2024-12-18 17:45,738,17,Diabetes mellitus tipo 2,Antibióticos 7 días,53,Sí
+1041,1755,2023-01-04 15:45,421,57,Conjuntivitis,Cambio de medicación,46,No
+1042,1756,2024-11-19 12:00,2218,39,Fracturas,Cambio de medicación,22,Sí
+1043,1759,2023-05-27 17:15,661,9,Migraña,Cambio de medicación,25,No
+1044,1761,2023-06-09 17:15,1138,31,Anemia,Derivación a especialista,52,Sí
+1045,1763,2024-07-21 12:45,1118,6,Dermatitis atópica,Exámenes de laboratorio,38,Sí
+1046,1764,2023-08-22 14:00,2480,52,Obesidad,Fisioterapia,51,Sí
+1047,1765,2023-12-22 08:30,473,60,Lumbalgia,Antibióticos 7 días,52,Sí
+1048,1768,2024-09-05 16:15,2005,36,Infección respiratoria aguda,Inyectable + observación,56,No
+1049,1770,2024-12-30 14:15,420,40,Artrosis,Psicoterapia,36,Sí
+1050,1773,2024-07-17 08:15,1179,47,Hipotiroidismo,Alta médica sin tratamiento,56,No
+1051,1775,2024-05-24 17:00,1580,15,Varicela,Exámenes de laboratorio,43,No
+1052,1780,2023-07-11 08:45,2232,49,Reflujo gastroesofágico,Derivación a especialista,56,Sí
+1053,1783,2024-02-02 14:45,274,47,Otitis media,Control mensual,45,Sí
+1054,1784,2024-04-08 12:30,1883,16,Varicela,Inyectable + observación,45,Sí
+1055,1785,2023-03-26 15:30,1819,58,Infección respiratoria aguda,Inyectable + observación,34,Sí
+1056,1787,2024-08-24 17:00,2295,5,Infección respiratoria aguda,Antibióticos 7 días,57,No
+1057,1788,2024-10-12 08:30,574,23,Ansiedad generalizada,Cirugía programada,56,No
+1058,1790,2024-04-15 16:15,1212,18,Ansiedad generalizada,Control mensual,30,Sí
+1059,1791,2024-06-28 12:15,1324,52,Control pediátrico,Cambio de dieta + ejercicio,19,Sí
+1060,1792,2023-09-14 10:15,985,48,Otitis media,Inyectable + observación,37,Sí
+1061,1793,2023-02-02 12:00,1235,33,Anemia,Antibióticos 7 días,44,Sí
+1062,1794,2023-11-12 09:30,1862,46,Diabetes mellitus tipo 2,Alta médica sin tratamiento,32,Sí
+1063,1796,2024-04-14 12:00,2190,22,Diabetes mellitus tipo 2,Exámenes de laboratorio,27,No
+1064,1798,2024-01-13 16:00,665,18,Anemia,Exámenes de laboratorio,38,No
+1065,1799,2023-08-15 10:30,980,49,Colesterol elevado,Control mensual,41,Sí
+1066,1800,2023-07-05 11:00,2457,19,Control prenatal,Cirugía programada,27,Sí
+1067,1802,2023-05-24 15:45,189,18,Anemia,Cambio de dieta + ejercicio,41,Sí
+1068,1804,2023-06-10 10:15,407,32,Bronquitis aguda,Inyectable + observación,15,Sí
+1069,1805,2024-02-22 16:15,109,20,Rinitis alérgica,Control mensual,35,Sí
+1070,1806,2024-08-27 10:45,489,23,Bronquitis aguda,Alta médica sin tratamiento,32,Sí
+1071,1807,2024-05-01 08:45,1567,39,Reflujo gastroesofágico,Alta médica sin tratamiento,56,No
+1072,1808,2023-02-03 11:00,907,9,Conjuntivitis,Cambio de dieta + ejercicio,18,Sí
+1073,1809,2024-05-27 08:30,945,38,Infección respiratoria aguda,Medicación oral + reposo,34,Sí
+1074,1810,2023-01-08 10:15,2178,50,Fracturas,Exámenes de laboratorio,52,No
+1075,1811,2024-11-18 08:00,185,27,Conjuntivitis,Alta médica sin tratamiento,27,No
+1076,1812,2023-08-05 14:15,2362,16,Conjuntivitis,Alta médica sin tratamiento,24,Sí
+1077,1814,2023-07-08 14:45,239,42,Hipertensión arterial,Cambio de dieta + ejercicio,48,Sí
+1078,1815,2023-07-08 14:45,408,25,Artrosis,Cambio de medicación,55,Sí
+1079,1817,2023-01-03 16:15,1450,39,Infección urinaria,Alta médica sin tratamiento,54,Sí
+1080,1818,2023-12-19 11:15,930,1,Gastritis crónica,Fisioterapia,24,Sí
+1081,1820,2023-10-19 14:45,2190,50,Anemia,Fisioterapia,38,No
+1082,1821,2023-09-08 16:00,1187,29,Otitis media,Fisioterapia,48,No
+1083,1822,2023-12-28 11:00,485,40,Artrosis,Derivación a especialista,19,Sí
+1084,1824,2023-12-19 10:45,1754,22,Infección respiratoria aguda,Control mensual,60,No
+1085,1825,2023-01-28 10:00,1713,5,Diabetes mellitus tipo 2,Fisioterapia,34,No
+1086,1827,2023-09-09 09:00,246,10,Faringitis,Psicoterapia,18,Sí
+1087,1830,2024-12-01 16:00,555,10,Infección respiratoria aguda,Psicoterapia,33,Sí
+1088,1832,2024-10-24 17:30,2117,47,Migraña,Psicoterapia,26,No
+1089,1834,2023-07-17 08:00,624,39,Otitis media,Control mensual,33,No
+1090,1835,2024-04-09 14:15,119,48,Migraña,Medicación oral + reposo,26,Sí
+1091,1837,2023-09-23 15:30,300,14,Hipotiroidismo,Control mensual,60,No
+1092,1841,2024-06-20 10:00,1397,58,Bronquitis aguda,Alta médica sin tratamiento,60,Sí
+1093,1842,2024-11-14 08:45,387,7,Migraña,Antibióticos 7 días,57,Sí
+1094,1844,2024-01-13 09:15,1766,29,Anemia,Cirugía programada,15,No
+1095,1845,2023-11-20 14:15,1999,12,Infección respiratoria aguda,Inyectable + observación,30,Sí
+1096,1846,2024-11-19 15:30,1020,32,Dermatitis atópica,Fisioterapia,32,No
+1097,1849,2023-05-04 08:30,2367,19,Bronquitis aguda,Medicación oral + reposo,54,No
+1098,1850,2023-11-19 08:45,1667,41,Conjuntivitis,Inyectable + observación,58,Sí
+1099,1852,2023-05-27 08:45,1368,55,Depresión,Derivación a especialista,18,No
+1100,1854,2024-12-20 08:45,2447,15,Diabetes mellitus tipo 2,Fisioterapia,51,Sí
+1101,1855,2023-09-21 12:15,2394,50,Infección respiratoria aguda,Medicación oral + reposo,43,Sí
+1102,1857,2023-07-10 10:15,1521,58,Reflujo gastroesofágico,Control mensual,21,No
+1103,1859,2024-05-19 16:15,1176,59,Ansiedad generalizada,Control mensual,23,Sí
+1104,1862,2023-09-06 11:45,1855,36,Conjuntivitis,Derivación a especialista,20,Sí
+1105,1863,2024-08-04 12:30,640,45,Migraña,Medicación oral + reposo,25,Sí
+1106,1865,2024-02-21 11:15,49,26,Dermatitis atópica,Derivación a especialista,21,No
+1107,1866,2023-01-05 09:00,2131,28,Otitis media,Psicoterapia,19,No
+1108,1867,2023-01-28 08:30,567,57,Artrosis,Medicación oral + reposo,53,No
+1109,1868,2023-05-10 15:30,2062,59,Infección urinaria,Cirugía programada,57,Sí
+1110,1869,2023-08-06 15:45,2225,14,Artrosis,Exámenes de laboratorio,36,No
+1111,1870,2024-06-05 10:45,2361,25,Gastritis crónica,Fisioterapia,28,Sí
+1112,1871,2024-12-15 11:45,2043,47,Ansiedad generalizada,Psicoterapia,40,No
+1113,1872,2024-10-17 12:30,36,55,Depresión,Medicación oral + reposo,23,Sí
+1114,1874,2023-04-27 11:15,1147,37,Otitis media,Alta médica sin tratamiento,19,No
+1115,1875,2023-04-06 11:30,1072,40,Infección urinaria,Exámenes de laboratorio,35,Sí
+1116,1876,2023-03-21 09:30,205,53,Gastritis crónica,Inyectable + observación,56,Sí
+1117,1877,2024-05-01 14:00,1196,26,Gastritis crónica,Derivación a especialista,38,Sí
+1118,1878,2023-08-10 17:00,2216,57,Fracturas,Cambio de medicación,25,Sí
+1119,1879,2023-03-04 12:00,1171,17,Diabetes mellitus tipo 2,Exámenes de laboratorio,36,Sí
+1120,1880,2023-12-23 15:45,1114,16,Depresión,Cirugía programada,52,Sí
+1121,1881,2024-12-04 11:30,2085,22,Migraña,Cambio de dieta + ejercicio,52,Sí
+1122,1882,2023-10-09 17:15,783,34,Colesterol elevado,Derivación a especialista,21,Sí
+1123,1885,2024-01-26 12:45,2115,60,Dermatitis atópica,Antibióticos 7 días,51,Sí
+1124,1889,2023-04-20 14:45,422,28,Control prenatal,Cirugía programada,47,Sí
+1125,1893,2023-12-07 17:15,1315,56,Dermatitis atópica,Cambio de dieta + ejercicio,33,Sí
+1126,1894,2024-01-01 17:00,1536,13,Reflujo gastroesofágico,Cambio de dieta + ejercicio,28,Sí
+1127,1896,2024-01-09 11:15,2235,24,Faringitis,Exámenes de laboratorio,60,No
+1128,1898,2023-04-07 16:45,1589,26,Anemia,Alta médica sin tratamiento,27,Sí
+1129,1899,2023-03-10 14:30,1373,36,Gastritis crónica,Cirugía programada,25,No
+1130,1901,2024-06-11 14:15,830,1,Otitis media,Antibióticos 7 días,15,Sí
+1131,1904,2024-12-28 08:15,286,41,Migraña,Exámenes de laboratorio,16,Sí
+1132,1908,2024-05-10 16:45,917,36,Obesidad,Cirugía programada,17,Sí
+1133,1909,2023-05-04 17:30,1868,59,Diabetes mellitus tipo 2,Alta médica sin tratamiento,47,Sí
+1134,1910,2024-12-10 16:45,575,21,Dermatitis atópica,Exámenes de laboratorio,34,No
+1135,1912,2023-05-25 12:15,600,5,Control prenatal,Cambio de medicación,47,Sí
+1136,1913,2024-05-15 11:00,793,19,Bronquitis aguda,Psicoterapia,38,Sí
+1137,1917,2024-02-13 15:45,2499,28,Dermatitis atópica,Cambio de medicación,19,Sí
+1138,1918,2024-09-13 15:15,1666,19,Rinitis alérgica,Antibióticos 7 días,44,Sí
+1139,1919,2023-01-17 08:30,798,19,Control prenatal,Cambio de dieta + ejercicio,30,Sí
+1140,1920,2023-05-22 15:30,624,11,Bronquitis aguda,Inyectable + observación,57,No
+1141,1922,2024-08-16 09:30,521,54,Control prenatal,Cambio de dieta + ejercicio,41,No
+1142,1923,2024-04-14 08:30,999,40,Conjuntivitis,Exámenes de laboratorio,55,Sí
+1143,1924,2024-03-07 08:00,1166,31,Gastritis crónica,Control mensual,27,Sí
+1144,1926,2024-02-11 10:45,394,3,Depresión,Cambio de dieta + ejercicio,50,Sí
+1145,1928,2024-11-16 12:45,2296,37,Hipertensión arterial,Cambio de dieta + ejercicio,21,Sí
+1146,1931,2023-04-21 12:45,366,39,Diabetes mellitus tipo 2,Cambio de medicación,35,Sí
+1147,1932,2023-09-16 15:15,1934,37,Ansiedad generalizada,Cambio de dieta + ejercicio,37,No
+1148,1934,2023-01-24 11:00,984,52,Rinitis alérgica,Antibióticos 7 días,30,No
+1149,1935,2024-11-04 15:45,2027,45,Migraña,Cambio de medicación,31,Sí
+1150,1938,2024-12-06 10:00,11,3,Hipertensión arterial,Exámenes de laboratorio,23,Sí
+1151,1939,2023-03-30 12:45,2237,26,Depresión,Exámenes de laboratorio,31,No
+1152,1940,2024-08-26 08:30,72,21,Migraña,Psicoterapia,45,Sí
+1153,1941,2024-05-22 09:45,1147,14,Colesterol elevado,Fisioterapia,25,Sí
+1154,1942,2024-10-22 11:15,832,47,Lumbalgia,Control mensual,30,No
+1155,1944,2023-01-14 09:00,2451,46,Migraña,Fisioterapia,49,No
+1156,1945,2024-08-26 08:15,233,47,Obesidad,Medicación oral + reposo,43,No
+1157,1948,2024-07-10 10:00,1142,5,Bronquitis aguda,Medicación oral + reposo,34,Sí
+1158,1949,2024-12-24 11:45,943,4,Control prenatal,Exámenes de laboratorio,27,Sí
+1159,1950,2023-09-06 15:45,1709,28,Colesterol elevado,Derivación a especialista,57,Sí
+1160,1951,2024-06-08 09:15,698,35,Reflujo gastroesofágico,Cambio de medicación,46,Sí
+1161,1954,2023-08-14 09:00,16,56,Control pediátrico,Psicoterapia,60,No
+1162,1956,2024-09-11 16:30,1773,32,Fracturas,Cirugía programada,18,Sí
+1163,1958,2024-04-30 15:30,1730,39,Control pediátrico,Inyectable + observación,46,Sí
+1164,1959,2024-02-20 16:45,118,49,Infección respiratoria aguda,Medicación oral + reposo,43,Sí
+1165,1960,2024-06-05 16:45,1962,45,Otitis media,Antibióticos 7 días,33,Sí
+1166,1961,2024-11-04 17:15,1631,56,Diabetes mellitus tipo 2,Medicación oral + reposo,30,Sí
+1167,1962,2024-03-18 17:30,1676,60,Control pediátrico,Medicación oral + reposo,38,Sí
+1168,1971,2024-07-24 14:00,2249,54,Hipertensión arterial,Exámenes de laboratorio,58,Sí
+1169,1972,2024-12-28 12:00,1299,2,Control pediátrico,Inyectable + observación,24,No
+1170,1974,2024-08-27 14:45,2342,5,Obesidad,Antibióticos 7 días,37,No
+1171,1975,2024-07-01 17:45,1438,52,Migraña,Psicoterapia,37,No
+1172,1976,2023-11-12 17:45,329,42,Infección respiratoria aguda,Psicoterapia,57,Sí
+1173,1977,2023-02-14 08:15,162,4,Anemia,Derivación a especialista,28,Sí
+1174,1980,2023-01-19 09:00,579,38,Migraña,Inyectable + observación,42,Sí
+1175,1981,2023-03-07 17:45,615,22,Reflujo gastroesofágico,Exámenes de laboratorio,60,Sí
+1176,1982,2023-06-25 08:45,148,32,Anemia,Cambio de medicación,35,Sí
+1177,1983,2023-07-05 10:15,2461,23,Migraña,Fisioterapia,50,Sí
+1178,1985,2023-01-14 16:15,689,57,Gastritis crónica,Cambio de medicación,25,Sí
+1179,1986,2023-06-26 15:45,82,9,Anemia,Fisioterapia,39,Sí
+1180,1988,2024-05-21 09:30,1181,2,Ansiedad generalizada,Derivación a especialista,55,Sí
+1181,1991,2023-09-17 14:15,1483,42,Reflujo gastroesofágico,Inyectable + observación,50,Sí
+1182,1992,2023-10-15 15:45,1042,22,Infección urinaria,Cambio de medicación,16,No
+1183,1994,2023-10-31 17:15,1097,33,Depresión,Medicación oral + reposo,32,Sí
+1184,1997,2024-11-09 16:45,985,10,Colesterol elevado,Fisioterapia,37,No
+1185,2000,2024-03-16 14:00,1032,20,Reflujo gastroesofágico,Derivación a especialista,29,Sí
+1186,2001,2023-11-23 08:30,1459,2,Artrosis,Alta médica sin tratamiento,53,No
+1187,2002,2024-06-28 12:45,131,39,Anemia,Fisioterapia,19,Sí
+1188,2003,2023-02-22 16:15,1899,11,Depresión,Psicoterapia,58,Sí
+1189,2006,2023-09-05 17:00,1415,43,Anemia,Antibióticos 7 días,58,Sí
+1190,2007,2023-12-10 17:30,260,27,Colesterol elevado,Fisioterapia,35,Sí
+1191,2008,2024-11-23 10:00,451,23,Dermatitis atópica,Exámenes de laboratorio,44,Sí
+1192,2009,2024-11-04 10:00,1229,22,Diabetes mellitus tipo 2,Control mensual,15,No
+1193,2010,2023-08-21 09:15,1277,14,Colesterol elevado,Medicación oral + reposo,46,No
+1194,2011,2024-12-01 11:15,1901,39,Faringitis,Medicación oral + reposo,50,Sí
+1195,2012,2023-07-12 09:00,2014,40,Reflujo gastroesofágico,Cirugía programada,51,No
+1196,2013,2024-11-03 14:00,458,10,Varicela,Alta médica sin tratamiento,54,Sí
+1197,2014,2024-02-15 14:15,1126,56,Bronquitis aguda,Fisioterapia,37,No
+1198,2015,2023-06-02 17:45,1888,53,Bronquitis aguda,Cambio de medicación,41,Sí
+1199,2016,2024-11-14 14:00,1558,58,Infección urinaria,Antibióticos 7 días,19,Sí
+1200,2017,2024-05-22 11:15,210,34,Rinitis alérgica,Medicación oral + reposo,35,Sí
+1201,2018,2023-12-23 12:30,2270,46,Faringitis,Cambio de dieta + ejercicio,54,No
+1202,2020,2024-05-03 12:30,1328,7,Rinitis alérgica,Cirugía programada,37,No
+1203,2021,2024-12-06 16:00,1465,21,Depresión,Antibióticos 7 días,25,No
+1204,2023,2023-09-11 16:30,1703,30,Anemia,Control mensual,36,Sí
+1205,2024,2023-03-30 14:45,1579,7,Ansiedad generalizada,Fisioterapia,60,Sí
+1206,2025,2024-03-11 12:00,1535,28,Depresión,Control mensual,54,Sí
+1207,2030,2024-03-22 16:00,2449,22,Faringitis,Cirugía programada,21,Sí
+1208,2031,2024-12-30 14:15,1273,22,Infección urinaria,Fisioterapia,57,Sí
+1209,2033,2023-10-15 11:00,710,49,Faringitis,Cambio de dieta + ejercicio,60,Sí
+1210,2034,2023-04-03 12:15,1264,33,Hipertensión arterial,Alta médica sin tratamiento,41,No
+1211,2035,2024-09-14 11:45,235,10,Dermatitis atópica,Control mensual,21,Sí
+1212,2036,2024-11-26 10:15,1220,24,Hipotiroidismo,Psicoterapia,29,No
+1213,2037,2023-09-19 10:45,973,7,Reflujo gastroesofágico,Control mensual,53,Sí
+1214,2038,2024-03-28 15:45,1482,50,Otitis media,Exámenes de laboratorio,16,No
+1215,2040,2024-10-05 12:15,2419,2,Infección respiratoria aguda,Inyectable + observación,30,No
+1216,2041,2024-10-24 12:15,349,34,Lumbalgia,Antibióticos 7 días,30,No
+1217,2044,2024-02-22 10:00,440,21,Lumbalgia,Psicoterapia,59,No
+1218,2045,2024-02-04 14:00,1916,39,Artrosis,Inyectable + observación,17,Sí
+1219,2046,2024-06-05 09:45,1852,14,Ansiedad generalizada,Derivación a especialista,26,Sí
+1220,2048,2024-08-30 17:15,638,11,Colesterol elevado,Cambio de medicación,22,Sí
+1221,2049,2023-11-26 16:15,1627,37,Artrosis,Cambio de dieta + ejercicio,43,Sí
+1222,2052,2023-12-21 09:30,1811,42,Artrosis,Alta médica sin tratamiento,56,Sí
+1223,2053,2023-10-08 14:00,805,4,Anemia,Fisioterapia,37,No
+1224,2054,2023-01-07 10:45,43,52,Varicela,Inyectable + observación,58,Sí
+1225,2056,2023-02-26 10:30,1269,41,Otitis media,Antibióticos 7 días,22,Sí
+1226,2058,2024-09-11 11:30,195,18,Migraña,Inyectable + observación,35,Sí
+1227,2060,2023-09-03 15:00,282,35,Infección urinaria,Fisioterapia,46,Sí
+1228,2061,2024-07-16 10:45,183,5,Infección respiratoria aguda,Cambio de dieta + ejercicio,34,Sí
+1229,2062,2023-11-18 09:15,707,5,Ansiedad generalizada,Fisioterapia,21,Sí
+1230,2064,2023-04-11 11:15,655,10,Rinitis alérgica,Cambio de medicación,40,Sí
+1231,2065,2023-06-27 08:15,1482,51,Hipotiroidismo,Medicación oral + reposo,42,Sí
+1232,2067,2023-09-01 17:00,911,27,Reflujo gastroesofágico,Control mensual,52,No
+1233,2069,2024-10-25 16:45,2091,38,Varicela,Medicación oral + reposo,16,Sí
+1234,2070,2023-02-13 08:30,1975,12,Rinitis alérgica,Cambio de dieta + ejercicio,47,Sí
+1235,2071,2024-12-16 09:00,531,6,Hipotiroidismo,Exámenes de laboratorio,41,No
+1236,2072,2024-04-12 09:45,1942,59,Rinitis alérgica,Control mensual,60,Sí
+1237,2075,2024-08-21 09:30,332,49,Varicela,Medicación oral + reposo,17,Sí
+1238,2076,2024-01-08 15:45,1245,24,Infección respiratoria aguda,Cambio de medicación,24,No
+1239,2078,2024-04-09 15:45,471,39,Infección respiratoria aguda,Exámenes de laboratorio,31,Sí
+1240,2082,2024-05-21 11:45,104,24,Rinitis alérgica,Cambio de dieta + ejercicio,43,Sí
+1241,2084,2023-08-11 12:45,191,11,Lumbalgia,Cambio de medicación,31,No
+1242,2085,2024-02-05 15:15,282,20,Infección respiratoria aguda,Psicoterapia,55,Sí
+1243,2086,2023-08-12 08:30,2025,28,Fracturas,Cambio de medicación,43,Sí
+1244,2088,2024-01-19 10:30,714,41,Colesterol elevado,Fisioterapia,26,Sí
+1245,2089,2024-09-07 15:45,2095,15,Dermatitis atópica,Alta médica sin tratamiento,53,Sí
+1246,2091,2024-01-22 17:45,1026,25,Fracturas,Medicación oral + reposo,28,Sí
+1247,2093,2023-01-04 08:30,2258,36,Lumbalgia,Medicación oral + reposo,32,Sí
+1248,2095,2023-12-19 10:15,930,45,Colesterol elevado,Cirugía programada,57,No
+1249,2096,2024-05-09 08:45,2433,8,Conjuntivitis,Fisioterapia,28,No
+1250,2097,2023-10-14 09:00,1351,39,Dermatitis atópica,Antibióticos 7 días,21,Sí
+1251,2100,2024-06-15 11:00,1151,31,Infección urinaria,Control mensual,19,Sí
+1252,2101,2024-04-02 15:00,359,35,Hipertensión arterial,Cirugía programada,40,Sí
+1253,2103,2024-08-18 16:00,2362,31,Infección respiratoria aguda,Medicación oral + reposo,55,No
+1254,2104,2023-04-20 16:00,1294,11,Gastritis crónica,Fisioterapia,22,Sí
+1255,2106,2024-07-20 17:00,2117,48,Otitis media,Control mensual,36,Sí
+1256,2107,2024-05-19 11:30,39,28,Obesidad,Alta médica sin tratamiento,34,Sí
+1257,2108,2023-04-07 15:15,1665,56,Diabetes mellitus tipo 2,Exámenes de laboratorio,45,Sí
+1258,2111,2024-05-14 17:00,2494,27,Varicela,Derivación a especialista,23,Sí
+1259,2112,2024-06-22 08:45,364,37,Hipotiroidismo,Alta médica sin tratamiento,37,No
+1260,2113,2023-04-27 11:00,2173,11,Reflujo gastroesofágico,Exámenes de laboratorio,44,Sí
+1261,2116,2023-03-20 16:30,494,52,Varicela,Cambio de dieta + ejercicio,46,No
+1262,2117,2023-02-16 12:00,1097,38,Reflujo gastroesofágico,Cambio de dieta + ejercicio,60,Sí
+1263,2118,2024-09-07 14:30,994,31,Reflujo gastroesofágico,Alta médica sin tratamiento,50,Sí
+1264,2119,2024-05-30 11:30,1522,34,Rinitis alérgica,Inyectable + observación,60,Sí
+1265,2120,2024-11-27 17:00,1725,58,Obesidad,Inyectable + observación,42,No
+1266,2121,2023-08-12 10:15,628,31,Depresión,Inyectable + observación,38,Sí
+1267,2122,2023-04-19 16:30,1320,50,Ansiedad generalizada,Cambio de medicación,45,No
+1268,2124,2024-05-20 15:15,274,41,Varicela,Cambio de dieta + ejercicio,23,Sí
+1269,2125,2024-12-24 11:45,436,53,Control prenatal,Cambio de medicación,20,Sí
+1270,2127,2024-07-22 12:30,1058,7,Anemia,Fisioterapia,54,No
+1271,2128,2024-02-03 11:00,958,7,Colesterol elevado,Derivación a especialista,25,Sí
+1272,2129,2024-04-26 15:30,2471,16,Conjuntivitis,Cambio de medicación,45,Sí
+1273,2133,2023-12-03 09:45,1981,41,Diabetes mellitus tipo 2,Cirugía programada,38,Sí
+1274,2134,2023-03-10 11:15,1641,33,Anemia,Cirugía programada,35,No
+1275,2137,2023-11-09 10:15,46,46,Depresión,Cambio de medicación,41,Sí
+1276,2138,2023-04-07 17:15,700,48,Infección respiratoria aguda,Derivación a especialista,44,Sí
+1277,2139,2023-07-09 11:45,252,27,Hipotiroidismo,Cirugía programada,22,Sí
+1278,2140,2023-04-07 17:00,1281,20,Rinitis alérgica,Derivación a especialista,16,No
+1279,2141,2023-06-22 12:30,1270,19,Anemia,Derivación a especialista,40,No
+1280,2142,2023-06-11 12:15,637,43,Depresión,Derivación a especialista,17,Sí
+1281,2146,2024-09-27 17:00,2028,23,Colesterol elevado,Derivación a especialista,21,No
+1282,2147,2023-11-24 12:15,789,30,Fracturas,Control mensual,47,No
+1283,2148,2023-04-06 08:15,1230,54,Control prenatal,Fisioterapia,51,Sí
+1284,2149,2024-11-14 09:00,1580,56,Reflujo gastroesofágico,Cambio de medicación,55,No
+1285,2151,2023-02-06 10:15,2368,38,Hipotiroidismo,Derivación a especialista,40,Sí
+1286,2153,2023-08-28 11:45,688,37,Lumbalgia,Medicación oral + reposo,38,No
+1287,2154,2023-04-06 09:15,383,37,Dermatitis atópica,Alta médica sin tratamiento,27,Sí
+1288,2155,2024-09-28 11:30,2494,44,Anemia,Antibióticos 7 días,43,Sí
+1289,2156,2023-10-29 08:45,520,18,Varicela,Alta médica sin tratamiento,35,No
+1290,2157,2024-06-08 11:30,1740,44,Hipertensión arterial,Psicoterapia,29,Sí
+1291,2158,2023-11-04 17:15,1680,13,Otitis media,Psicoterapia,44,Sí
+1292,2159,2024-04-28 14:00,976,17,Lumbalgia,Medicación oral + reposo,44,Sí
+1293,2161,2023-10-22 10:30,2080,28,Infección respiratoria aguda,Control mensual,27,No
+1294,2163,2024-04-05 12:15,1351,22,Rinitis alérgica,Derivación a especialista,32,Sí
+1295,2164,2024-08-14 14:15,1393,53,Diabetes mellitus tipo 2,Derivación a especialista,37,No
+1296,2173,2024-04-13 08:45,1674,45,Varicela,Derivación a especialista,37,Sí
+1297,2174,2023-09-25 16:00,2394,4,Otitis media,Fisioterapia,58,No
+1298,2175,2024-06-20 12:45,331,2,Conjuntivitis,Cirugía programada,17,No
+1299,2177,2023-01-01 14:00,1771,47,Reflujo gastroesofágico,Cambio de medicación,60,Sí
+1300,2179,2023-09-25 10:15,2013,43,Varicela,Psicoterapia,44,No
+1301,2180,2024-01-12 15:30,1164,45,Control pediátrico,Cambio de medicación,48,Sí
+1302,2181,2023-11-28 08:30,77,57,Anemia,Antibióticos 7 días,56,Sí
+1303,2183,2023-07-02 17:45,187,9,Depresión,Antibióticos 7 días,21,Sí
+1304,2185,2023-02-04 10:30,1826,8,Depresión,Medicación oral + reposo,44,Sí
+1305,2186,2024-07-05 14:45,229,56,Varicela,Derivación a especialista,15,No
+1306,2187,2024-01-21 12:00,1753,48,Hipertensión arterial,Alta médica sin tratamiento,34,No
+1307,2188,2024-06-13 12:15,1685,49,Reflujo gastroesofágico,Cambio de dieta + ejercicio,22,Sí
+1308,2190,2023-01-20 09:00,2098,23,Dermatitis atópica,Psicoterapia,21,Sí
+1309,2191,2024-03-25 17:45,326,55,Obesidad,Control mensual,57,No
+1310,2192,2024-09-17 11:00,2463,22,Rinitis alérgica,Exámenes de laboratorio,15,No
+1311,2196,2023-11-08 12:15,1731,14,Gastritis crónica,Medicación oral + reposo,59,No
+1312,2200,2023-05-08 16:30,1838,57,Rinitis alérgica,Psicoterapia,41,No
+1313,2201,2024-04-17 16:45,1147,56,Infección respiratoria aguda,Cambio de medicación,41,No
+1314,2206,2024-04-01 16:30,1451,55,Conjuntivitis,Antibióticos 7 días,42,Sí
+1315,2207,2024-05-02 15:45,113,49,Reflujo gastroesofágico,Cirugía programada,34,No
+1316,2211,2024-04-27 11:15,362,5,Diabetes mellitus tipo 2,Exámenes de laboratorio,31,Sí
+1317,2213,2024-02-23 14:45,1138,48,Rinitis alérgica,Psicoterapia,45,Sí
+1318,2215,2024-06-21 14:45,1079,22,Gastritis crónica,Medicación oral + reposo,22,Sí
+1319,2216,2023-07-04 11:15,1497,16,Obesidad,Inyectable + observación,15,Sí
+1320,2217,2024-10-08 08:00,1686,28,Hipotiroidismo,Antibióticos 7 días,35,No
+1321,2218,2024-08-07 09:00,1066,30,Reflujo gastroesofágico,Medicación oral + reposo,59,No
+1322,2219,2023-11-12 14:45,246,48,Varicela,Cirugía programada,29,Sí
+1323,2221,2024-07-14 09:30,1288,6,Obesidad,Fisioterapia,23,No
+1324,2223,2024-04-26 16:45,314,20,Bronquitis aguda,Derivación a especialista,42,Sí
+1325,2226,2024-12-26 08:30,1571,36,Anemia,Alta médica sin tratamiento,45,Sí
+1326,2229,2023-01-04 10:15,954,45,Conjuntivitis,Alta médica sin tratamiento,58,Sí
+1327,2230,2023-01-18 14:30,2034,28,Reflujo gastroesofágico,Fisioterapia,55,Sí
+1328,2231,2024-09-30 17:45,1971,44,Conjuntivitis,Fisioterapia,47,Sí
+1329,2232,2023-03-10 12:00,716,59,Obesidad,Inyectable + observación,54,Sí
+1330,2233,2023-04-01 17:45,1453,5,Depresión,Cambio de medicación,52,Sí
+1331,2234,2024-05-11 12:45,1541,3,Lumbalgia,Cirugía programada,40,Sí
+1332,2236,2023-09-25 16:30,2050,22,Migraña,Cirugía programada,44,Sí
+1333,2237,2023-01-03 11:30,1239,53,Dermatitis atópica,Cambio de medicación,22,Sí
+1334,2238,2023-04-16 08:15,2481,17,Varicela,Fisioterapia,18,Sí
+1335,2241,2023-07-28 09:15,1963,20,Artrosis,Psicoterapia,33,Sí
+1336,2243,2023-07-20 12:45,1456,33,Lumbalgia,Fisioterapia,20,No
+1337,2244,2023-12-24 11:30,1304,35,Faringitis,Exámenes de laboratorio,39,No
+1338,2245,2024-05-15 17:30,688,45,Gastritis crónica,Cambio de medicación,22,Sí
+1339,2247,2024-07-21 15:30,312,59,Obesidad,Control mensual,53,Sí
+1340,2253,2024-08-11 16:15,2492,57,Fracturas,Medicación oral + reposo,16,Sí
+1341,2257,2024-01-07 11:00,344,22,Conjuntivitis,Fisioterapia,44,No
+1342,2258,2023-02-09 11:00,258,21,Ansiedad generalizada,Exámenes de laboratorio,24,No
+1343,2259,2024-04-05 16:00,1259,19,Bronquitis aguda,Derivación a especialista,45,No
+1344,2260,2024-09-23 15:30,409,58,Hipertensión arterial,Exámenes de laboratorio,36,Sí
+1345,2261,2023-11-24 16:45,2249,20,Bronquitis aguda,Antibióticos 7 días,35,Sí
+1346,2262,2023-11-30 12:00,1771,16,Colesterol elevado,Derivación a especialista,24,Sí
+1347,2263,2024-09-03 09:15,2288,48,Gastritis crónica,Cambio de dieta + ejercicio,36,No
+1348,2265,2024-09-24 09:00,1708,20,Gastritis crónica,Derivación a especialista,19,Sí
+1349,2268,2024-02-19 17:15,1025,9,Anemia,Medicación oral + reposo,55,Sí
+1350,2272,2023-01-12 14:15,354,48,Hipertensión arterial,Psicoterapia,15,No
+1351,2273,2024-05-19 10:15,570,43,Gastritis crónica,Fisioterapia,40,Sí
+1352,2275,2024-10-22 16:30,598,2,Anemia,Fisioterapia,18,Sí
+1353,2278,2023-07-10 08:30,362,19,Faringitis,Antibióticos 7 días,26,Sí
+1354,2279,2024-12-24 10:45,2097,57,Varicela,Cirugía programada,31,Sí
+1355,2281,2023-09-26 08:45,711,51,Colesterol elevado,Psicoterapia,43,Sí
+1356,2282,2024-05-03 12:45,1469,55,Hipotiroidismo,Exámenes de laboratorio,38,Sí
+1357,2285,2023-07-29 08:00,1607,45,Rinitis alérgica,Cirugía programada,57,Sí
+1358,2286,2024-03-17 10:15,1594,22,Otitis media,Psicoterapia,22,Sí
+1359,2289,2024-03-02 10:15,844,25,Infección urinaria,Cambio de dieta + ejercicio,58,No
+1360,2290,2023-04-11 11:45,2424,2,Varicela,Alta médica sin tratamiento,51,Sí
+1361,2291,2024-05-08 12:45,38,60,Control prenatal,Cirugía programada,32,Sí
+1362,2293,2023-05-05 12:30,69,14,Lumbalgia,Psicoterapia,59,Sí
+1363,2294,2024-08-06 12:30,1008,36,Rinitis alérgica,Cirugía programada,36,No
+1364,2295,2023-09-23 16:00,301,38,Ansiedad generalizada,Inyectable + observación,35,Sí
+1365,2296,2024-03-27 10:15,1482,15,Lumbalgia,Psicoterapia,48,Sí
+1366,2297,2024-02-23 16:15,2411,23,Depresión,Derivación a especialista,54,No
+1367,2299,2024-07-23 12:45,1614,32,Diabetes mellitus tipo 2,Cambio de medicación,21,No
+1368,2301,2024-01-12 17:15,2429,58,Control prenatal,Alta médica sin tratamiento,57,No
+1369,2302,2024-07-03 08:00,651,34,Diabetes mellitus tipo 2,Antibióticos 7 días,27,Sí
+1370,2303,2023-09-09 14:15,2159,14,Ansiedad generalizada,Control mensual,50,No
+1371,2308,2023-05-31 09:15,2355,31,Anemia,Fisioterapia,37,Sí
+1372,2309,2023-03-25 16:30,1464,41,Diabetes mellitus tipo 2,Exámenes de laboratorio,28,Sí
+1373,2310,2024-09-06 10:45,1412,44,Depresión,Derivación a especialista,36,Sí
+1374,2313,2024-10-29 09:45,1818,21,Migraña,Cambio de medicación,48,Sí
+1375,2314,2023-08-18 12:45,1739,17,Otitis media,Medicación oral + reposo,46,No
+1376,2315,2023-03-15 14:45,1457,51,Diabetes mellitus tipo 2,Inyectable + observación,60,Sí
+1377,2316,2024-09-18 15:45,1273,57,Artrosis,Cambio de dieta + ejercicio,52,Sí
+1378,2318,2024-05-31 10:00,2318,14,Colesterol elevado,Inyectable + observación,28,No
+1379,2319,2023-02-08 09:30,452,26,Conjuntivitis,Cirugía programada,23,No
+1380,2320,2023-06-26 12:15,2358,31,Migraña,Cirugía programada,60,Sí
+1381,2321,2024-07-08 11:30,518,34,Fracturas,Inyectable + observación,46,No
+1382,2324,2023-01-09 11:15,2074,3,Conjuntivitis,Cirugía programada,32,Sí
+1383,2325,2023-03-15 14:15,1229,36,Bronquitis aguda,Cirugía programada,52,Sí
+1384,2326,2024-01-19 17:45,1797,48,Diabetes mellitus tipo 2,Cirugía programada,42,No
+1385,2331,2023-07-31 15:30,558,4,Diabetes mellitus tipo 2,Medicación oral + reposo,42,Sí
+1386,2332,2024-09-05 10:30,2349,5,Bronquitis aguda,Alta médica sin tratamiento,49,Sí
+1387,2333,2024-05-28 14:00,1675,29,Lumbalgia,Psicoterapia,34,Sí
+1388,2334,2023-11-25 11:15,700,6,Infección urinaria,Antibióticos 7 días,57,No
+1389,2336,2023-06-12 15:15,2249,9,Faringitis,Control mensual,28,No
+1390,2337,2024-09-13 14:45,1708,17,Obesidad,Alta médica sin tratamiento,29,Sí
+1391,2341,2023-03-12 10:30,1980,24,Faringitis,Derivación a especialista,33,Sí
+1392,2342,2024-09-10 10:30,1225,7,Bronquitis aguda,Medicación oral + reposo,52,Sí
+1393,2343,2024-03-15 12:15,844,44,Lumbalgia,Cambio de dieta + ejercicio,16,No
+1394,2344,2024-06-13 14:45,2130,49,Hipertensión arterial,Inyectable + observación,25,No
+1395,2346,2024-05-07 08:30,1308,38,Conjuntivitis,Control mensual,27,Sí
+1396,2351,2023-12-21 11:30,988,20,Infección urinaria,Medicación oral + reposo,20,No
+1397,2353,2024-10-20 12:45,450,8,Diabetes mellitus tipo 2,Alta médica sin tratamiento,54,Sí
+1398,2354,2023-10-22 12:15,1864,55,Lumbalgia,Derivación a especialista,31,No
+1399,2355,2024-12-11 17:45,294,53,Hipertensión arterial,Inyectable + observación,51,Sí
+1400,2356,2024-01-10 16:30,547,12,Bronquitis aguda,Antibióticos 7 días,38,Sí
+1401,2357,2023-08-17 14:30,1644,17,Gastritis crónica,Exámenes de laboratorio,45,No
+1402,2358,2024-02-07 17:30,1999,20,Ansiedad generalizada,Cambio de dieta + ejercicio,58,No
+1403,2359,2024-09-26 14:15,1533,30,Reflujo gastroesofágico,Medicación oral + reposo,28,Sí
+1404,2360,2024-07-03 14:30,974,56,Faringitis,Medicación oral + reposo,56,Sí
+1405,2361,2024-11-21 14:45,1432,36,Depresión,Derivación a especialista,59,Sí
+1406,2363,2023-06-09 17:30,1675,26,Dermatitis atópica,Fisioterapia,58,Sí
+1407,2364,2024-02-25 10:15,482,50,Control prenatal,Cambio de medicación,48,No
+1408,2365,2024-03-30 08:30,875,48,Conjuntivitis,Antibióticos 7 días,44,Sí
+1409,2366,2023-09-15 15:45,75,30,Anemia,Control mensual,24,Sí
+1410,2369,2024-05-26 12:30,2123,46,Hipotiroidismo,Psicoterapia,20,No
+1411,2370,2024-04-17 08:15,1649,3,Anemia,Cirugía programada,51,No
+1412,2373,2024-01-28 16:30,430,29,Depresión,Cirugía programada,36,No
+1413,2375,2024-11-27 09:45,2167,21,Control prenatal,Exámenes de laboratorio,37,Sí
+1414,2376,2024-08-15 11:45,640,8,Control prenatal,Control mensual,44,Sí
+1415,2377,2023-12-28 11:45,1824,26,Artrosis,Cambio de dieta + ejercicio,26,No
+1416,2378,2024-11-20 14:45,1994,16,Depresión,Fisioterapia,21,No
+1417,2379,2024-04-10 10:15,187,32,Control pediátrico,Cirugía programada,58,Sí
+1418,2380,2023-10-04 09:15,2188,35,Varicela,Antibióticos 7 días,43,Sí
+1419,2381,2023-04-20 11:00,945,52,Gastritis crónica,Cambio de medicación,29,Sí
+1420,2382,2023-02-18 16:30,305,18,Lumbalgia,Derivación a especialista,32,Sí
+1421,2383,2024-09-21 11:45,676,32,Migraña,Fisioterapia,53,Sí
+1422,2384,2023-11-18 16:45,1660,55,Bronquitis aguda,Derivación a especialista,23,No
+1423,2385,2024-12-12 12:00,1809,50,Bronquitis aguda,Cambio de dieta + ejercicio,44,No
+1424,2386,2024-11-11 08:45,803,46,Conjuntivitis,Exámenes de laboratorio,16,Sí
+1425,2387,2024-10-05 15:30,936,52,Conjuntivitis,Medicación oral + reposo,32,Sí
+1426,2388,2024-02-04 08:15,2297,53,Bronquitis aguda,Control mensual,57,No
+1427,2391,2024-11-19 10:15,425,6,Gastritis crónica,Cambio de dieta + ejercicio,25,Sí
+1428,2392,2024-10-03 10:30,681,5,Bronquitis aguda,Fisioterapia,47,Sí
+1429,2394,2023-12-08 12:45,2239,37,Gastritis crónica,Medicación oral + reposo,37,Sí
+1430,2395,2024-10-06 12:45,1305,29,Lumbalgia,Exámenes de laboratorio,23,Sí
+1431,2396,2023-07-05 14:30,1525,45,Control pediátrico,Alta médica sin tratamiento,25,Sí
+1432,2397,2023-04-23 17:00,1148,19,Fracturas,Derivación a especialista,33,Sí
+1433,2398,2023-03-29 11:45,2181,43,Colesterol elevado,Control mensual,52,No
+1434,2401,2023-04-13 17:30,1757,33,Migraña,Cambio de medicación,60,Sí
+1435,2402,2024-01-27 10:15,2035,6,Obesidad,Psicoterapia,46,No
+1436,2403,2024-11-08 17:15,115,5,Conjuntivitis,Antibióticos 7 días,28,Sí
+1437,2404,2023-10-01 08:00,813,16,Ansiedad generalizada,Control mensual,59,No
+1438,2406,2023-01-02 17:45,1595,1,Ansiedad generalizada,Fisioterapia,55,No
+1439,2407,2024-04-24 16:00,1618,59,Ansiedad generalizada,Exámenes de laboratorio,23,Sí
+1440,2409,2024-04-21 15:15,445,35,Obesidad,Cambio de medicación,28,Sí
+1441,2410,2024-05-09 15:45,2473,24,Infección urinaria,Exámenes de laboratorio,52,Sí
+1442,2412,2024-07-12 17:45,604,3,Infección respiratoria aguda,Control mensual,22,Sí
+1443,2413,2023-04-16 17:45,2298,4,Hipertensión arterial,Antibióticos 7 días,39,Sí
+1444,2414,2023-08-20 10:45,2353,15,Fracturas,Inyectable + observación,25,Sí
+1445,2415,2024-02-15 12:45,1219,42,Conjuntivitis,Fisioterapia,55,Sí
+1446,2416,2024-08-25 09:45,1914,20,Conjuntivitis,Exámenes de laboratorio,48,No
+1447,2417,2024-09-15 08:45,152,21,Anemia,Derivación a especialista,39,No
+1448,2419,2024-11-08 09:45,1223,9,Ansiedad generalizada,Inyectable + observación,19,No
+1449,2421,2024-08-16 15:45,1627,35,Faringitis,Inyectable + observación,30,Sí
+1450,2422,2023-06-29 09:30,45,30,Hipertensión arterial,Control mensual,26,Sí
+1451,2426,2023-05-25 11:15,1132,33,Rinitis alérgica,Alta médica sin tratamiento,50,Sí
+1452,2427,2024-05-30 12:15,1508,35,Infección respiratoria aguda,Cambio de medicación,44,Sí
+1453,2429,2024-05-06 12:30,1337,55,Hipertensión arterial,Derivación a especialista,51,No
+1454,2431,2023-11-08 08:00,668,48,Diabetes mellitus tipo 2,Inyectable + observación,54,Sí
+1455,2437,2023-05-13 12:45,2348,20,Hipotiroidismo,Inyectable + observación,43,Sí
+1456,2438,2024-02-06 12:15,20,22,Gastritis crónica,Antibióticos 7 días,54,No
+1457,2439,2023-08-02 11:45,2275,38,Ansiedad generalizada,Cirugía programada,20,Sí
+1458,2440,2023-04-29 17:45,1578,36,Dermatitis atópica,Cambio de medicación,36,Sí
+1459,2442,2023-08-18 12:30,39,25,Reflujo gastroesofágico,Antibióticos 7 días,58,Sí
+1460,2444,2023-02-15 11:15,1936,49,Obesidad,Derivación a especialista,38,Sí
+1461,2446,2023-12-15 09:00,2048,58,Colesterol elevado,Exámenes de laboratorio,16,Sí
+1462,2447,2024-06-30 08:30,1238,35,Lumbalgia,Psicoterapia,49,Sí
+1463,2448,2023-04-30 17:00,1798,47,Hipertensión arterial,Medicación oral + reposo,53,Sí
+1464,2449,2023-12-16 12:15,1411,25,Fracturas,Antibióticos 7 días,26,Sí
+1465,2451,2023-04-18 09:00,1956,27,Rinitis alérgica,Derivación a especialista,55,No
+1466,2453,2024-03-04 14:45,1483,19,Infección respiratoria aguda,Antibióticos 7 días,22,Sí
+1467,2455,2024-06-03 14:30,2362,14,Anemia,Cirugía programada,37,Sí
+1468,2456,2024-08-16 08:30,102,49,Hipotiroidismo,Alta médica sin tratamiento,56,Sí
+1469,2457,2024-03-02 08:45,1558,34,Otitis media,Alta médica sin tratamiento,41,Sí
+1470,2459,2024-02-24 17:45,895,34,Lumbalgia,Fisioterapia,28,Sí
+1471,2462,2024-05-23 16:15,592,25,Otitis media,Alta médica sin tratamiento,54,Sí
+1472,2463,2023-02-26 16:15,1819,5,Depresión,Inyectable + observación,37,Sí
+1473,2464,2024-07-21 15:15,1465,8,Obesidad,Control mensual,43,Sí
+1474,2465,2024-02-21 17:15,768,43,Hipertensión arterial,Fisioterapia,25,Sí
+1475,2466,2023-08-26 11:15,1178,13,Hipertensión arterial,Cambio de medicación,48,Sí
+1476,2467,2023-08-09 11:30,213,51,Diabetes mellitus tipo 2,Psicoterapia,15,Sí
+1477,2468,2024-02-15 08:45,1147,25,Dermatitis atópica,Cambio de dieta + ejercicio,44,No
+1478,2469,2024-11-27 08:45,2319,17,Hipertensión arterial,Antibióticos 7 días,32,Sí
+1479,2470,2023-07-15 14:45,1409,42,Hipotiroidismo,Medicación oral + reposo,18,No
+1480,2476,2024-06-26 08:30,1434,20,Artrosis,Derivación a especialista,49,No
+1481,2478,2024-05-06 17:45,1365,52,Fracturas,Derivación a especialista,37,Sí
+1482,2480,2024-08-27 10:15,740,3,Control pediátrico,Inyectable + observación,35,No
+1483,2481,2024-05-07 08:00,502,16,Varicela,Cambio de medicación,36,Sí
+1484,2485,2024-08-04 14:45,646,52,Anemia,Control mensual,51,Sí
+1485,2486,2024-04-30 15:30,712,37,Dermatitis atópica,Control mensual,17,No
+1486,2489,2024-12-19 08:15,80,21,Control prenatal,Inyectable + observación,26,Sí
+1487,2490,2023-12-13 09:15,2159,32,Bronquitis aguda,Psicoterapia,54,No
+1488,2491,2024-12-21 08:00,87,10,Varicela,Psicoterapia,23,No
+1489,2492,2024-01-11 12:00,2004,24,Migraña,Cambio de medicación,42,No
+1490,2495,2023-12-31 10:45,74,50,Gastritis crónica,Cambio de medicación,22,No
+1491,2496,2023-10-10 10:00,2340,29,Reflujo gastroesofágico,Exámenes de laboratorio,23,Sí
+1492,2500,2024-03-12 08:00,1630,35,Dermatitis atópica,Fisioterapia,56,Sí
+1493,2503,2024-09-27 16:00,2049,46,Conjuntivitis,Derivación a especialista,35,Sí
+1494,2504,2023-04-20 15:45,392,24,Varicela,Exámenes de laboratorio,31,No
+1495,2506,2024-08-08 10:00,529,23,Lumbalgia,Cambio de dieta + ejercicio,46,No
+1496,2508,2024-08-01 16:00,976,15,Conjuntivitis,Derivación a especialista,27,No
+1497,2509,2024-05-03 14:15,1101,37,Control prenatal,Fisioterapia,51,No
+1498,2510,2023-12-18 17:30,2431,59,Gastritis crónica,Psicoterapia,60,No
+1499,2511,2023-03-21 15:15,1322,52,Obesidad,Cirugía programada,17,No
+1500,2514,2023-07-07 12:45,454,51,Rinitis alérgica,Derivación a especialista,50,Sí
+1501,2516,2024-06-13 17:15,1417,39,Control pediátrico,Psicoterapia,51,Sí
+1502,2517,2024-10-30 16:45,288,12,Depresión,Exámenes de laboratorio,38,Sí
+1503,2519,2023-11-01 11:30,704,57,Otitis media,Inyectable + observación,32,Sí
+1504,2520,2023-11-08 16:45,810,41,Infección respiratoria aguda,Cambio de dieta + ejercicio,18,No
+1505,2523,2023-06-10 08:15,2124,56,Colesterol elevado,Psicoterapia,44,Sí
+1506,2526,2023-01-10 09:45,205,37,Lumbalgia,Psicoterapia,33,Sí
+1507,2527,2024-05-04 15:15,1452,31,Artrosis,Inyectable + observación,54,Sí
+1508,2528,2024-02-20 15:15,1180,57,Colesterol elevado,Alta médica sin tratamiento,43,Sí
+1509,2529,2024-08-31 10:00,516,24,Control prenatal,Control mensual,28,No
+1510,2531,2023-04-13 14:15,1100,60,Fracturas,Medicación oral + reposo,19,Sí
+1511,2532,2024-12-28 09:45,1912,16,Conjuntivitis,Alta médica sin tratamiento,28,Sí
+1512,2533,2024-02-10 12:00,756,53,Infección urinaria,Exámenes de laboratorio,32,No
+1513,2534,2024-03-07 08:00,1060,32,Varicela,Derivación a especialista,53,Sí
+1514,2535,2023-05-09 11:15,270,34,Lumbalgia,Cirugía programada,30,No
+1515,2539,2024-09-01 08:15,338,23,Rinitis alérgica,Medicación oral + reposo,32,No
+1516,2540,2023-11-05 16:15,681,28,Hipertensión arterial,Cirugía programada,17,No
+1517,2541,2023-02-13 11:15,1650,21,Colesterol elevado,Alta médica sin tratamiento,27,No
+1518,2542,2024-08-11 08:00,2479,37,Faringitis,Cambio de dieta + ejercicio,47,No
+1519,2545,2024-11-05 08:30,1331,21,Faringitis,Psicoterapia,52,Sí
+1520,2546,2023-05-08 15:45,722,42,Infección urinaria,Exámenes de laboratorio,52,Sí
+1521,2547,2024-03-19 16:30,2453,10,Reflujo gastroesofágico,Medicación oral + reposo,29,Sí
+1522,2548,2024-09-28 11:30,1097,37,Depresión,Antibióticos 7 días,45,Sí
+1523,2551,2023-12-09 16:15,1921,36,Otitis media,Inyectable + observación,22,Sí
+1524,2553,2023-12-15 11:15,1972,15,Faringitis,Psicoterapia,45,Sí
+1525,2554,2024-03-09 12:00,207,12,Infección respiratoria aguda,Antibióticos 7 días,30,Sí
+1526,2555,2024-05-02 12:00,733,10,Hipertensión arterial,Cambio de medicación,36,No
+1527,2556,2023-07-15 16:15,2335,35,Varicela,Cambio de medicación,51,No
+1528,2557,2023-12-22 08:30,226,16,Anemia,Cambio de dieta + ejercicio,38,Sí
+1529,2558,2023-05-09 11:15,298,26,Lumbalgia,Exámenes de laboratorio,34,Sí
+1530,2559,2024-05-14 09:30,1338,7,Otitis media,Psicoterapia,39,Sí
+1531,2561,2023-06-05 12:30,215,18,Hipertensión arterial,Alta médica sin tratamiento,49,Sí
+1532,2562,2023-03-22 10:30,1611,20,Hipertensión arterial,Control mensual,46,Sí
+1533,2563,2023-05-15 14:15,1525,55,Ansiedad generalizada,Psicoterapia,56,Sí
+1534,2564,2024-05-12 17:00,2092,52,Diabetes mellitus tipo 2,Exámenes de laboratorio,28,Sí
+1535,2565,2023-12-20 08:30,2402,6,Ansiedad generalizada,Cirugía programada,19,Sí
+1536,2566,2024-09-17 12:00,915,47,Colesterol elevado,Psicoterapia,36,Sí
+1537,2567,2024-12-09 16:30,1927,8,Ansiedad generalizada,Antibióticos 7 días,52,Sí
+1538,2568,2024-02-06 15:15,1467,32,Otitis media,Psicoterapia,49,No
+1539,2569,2023-10-12 15:15,712,33,Control prenatal,Derivación a especialista,53,No
+1540,2572,2023-01-01 16:45,1295,9,Depresión,Inyectable + observación,16,Sí
+1541,2573,2023-10-24 10:00,300,21,Fracturas,Medicación oral + reposo,42,Sí
+1542,2576,2024-12-10 15:00,778,44,Hipertensión arterial,Inyectable + observación,32,No
+1543,2580,2023-02-09 12:45,2204,39,Gastritis crónica,Cirugía programada,30,Sí
+1544,2581,2024-07-22 17:00,470,25,Obesidad,Medicación oral + reposo,18,No
+1545,2583,2024-03-06 08:30,363,34,Depresión,Alta médica sin tratamiento,20,Sí
+1546,2585,2024-01-25 16:15,2281,35,Varicela,Inyectable + observación,34,No
+1547,2586,2024-05-05 10:45,2147,3,Ansiedad generalizada,Psicoterapia,50,No
+1548,2587,2024-10-15 17:00,642,53,Infección respiratoria aguda,Derivación a especialista,55,No
+1549,2588,2024-10-09 11:45,1190,29,Hipotiroidismo,Cambio de medicación,59,No
+1550,2590,2024-06-30 11:00,2113,15,Infección urinaria,Antibióticos 7 días,20,No
+1551,2592,2024-09-14 17:15,1046,23,Fracturas,Exámenes de laboratorio,46,No
+1552,2593,2023-09-24 15:45,1687,30,Hipertensión arterial,Exámenes de laboratorio,35,No
+1553,2594,2024-03-21 15:45,1080,37,Faringitis,Cambio de medicación,42,No
+1554,2595,2024-07-28 14:45,1841,24,Gastritis crónica,Cambio de medicación,24,No
+1555,2598,2024-05-30 08:45,1020,60,Reflujo gastroesofágico,Cambio de medicación,46,No
+1556,2599,2023-01-17 08:15,859,38,Infección respiratoria aguda,Cirugía programada,25,No
+1557,2600,2024-03-14 14:15,1432,34,Artrosis,Control mensual,29,Sí
+1558,2602,2023-04-12 15:45,992,2,Infección respiratoria aguda,Cirugía programada,21,Sí
+1559,2603,2024-08-29 10:45,2283,31,Depresión,Alta médica sin tratamiento,47,Sí
+1560,2604,2024-07-14 16:15,442,24,Fracturas,Antibióticos 7 días,41,Sí
+1561,2605,2023-05-28 12:00,52,55,Control pediátrico,Cirugía programada,58,Sí
+1562,2606,2023-12-12 14:00,568,24,Migraña,Cambio de dieta + ejercicio,55,Sí
+1563,2607,2024-08-27 08:00,237,22,Lumbalgia,Fisioterapia,60,Sí
+1564,2612,2023-08-17 14:15,2377,6,Anemia,Alta médica sin tratamiento,48,Sí
+1565,2613,2023-01-19 16:30,1259,40,Gastritis crónica,Control mensual,51,Sí
+1566,2616,2024-06-18 15:15,798,23,Hipertensión arterial,Inyectable + observación,59,Sí
+1567,2617,2024-04-08 14:45,596,22,Ansiedad generalizada,Antibióticos 7 días,57,Sí
+1568,2618,2023-05-11 11:00,229,1,Hipertensión arterial,Cirugía programada,60,No
+1569,2619,2023-02-09 14:45,532,15,Artrosis,Cirugía programada,37,No
+1570,2620,2023-07-08 14:00,1918,29,Obesidad,Inyectable + observación,19,No
+1571,2623,2024-12-27 17:00,1649,28,Varicela,Cirugía programada,22,Sí
+1572,2626,2023-12-01 10:45,794,27,Obesidad,Derivación a especialista,59,No
+1573,2627,2024-07-18 12:30,1602,40,Bronquitis aguda,Medicación oral + reposo,33,No
+1574,2628,2023-05-29 10:30,1241,10,Infección urinaria,Cambio de medicación,52,Sí
+1575,2629,2024-07-03 17:45,2275,10,Anemia,Cambio de dieta + ejercicio,21,No
+1576,2630,2023-09-08 16:15,784,47,Varicela,Exámenes de laboratorio,34,No
+1577,2631,2024-01-11 08:15,1893,5,Obesidad,Derivación a especialista,40,No
+1578,2632,2024-06-29 08:15,302,54,Varicela,Inyectable + observación,40,No
+1579,2634,2024-11-16 15:00,498,39,Fracturas,Exámenes de laboratorio,42,No
+1580,2635,2023-09-28 16:00,1570,6,Bronquitis aguda,Cirugía programada,45,No
+1581,2636,2023-04-15 10:30,2054,37,Diabetes mellitus tipo 2,Cambio de medicación,37,Sí
+1582,2638,2023-10-24 09:00,2295,36,Hipertensión arterial,Cambio de medicación,57,Sí
+1583,2639,2023-10-15 09:15,903,17,Otitis media,Derivación a especialista,23,Sí
+1584,2640,2023-04-24 17:00,286,34,Infección urinaria,Cirugía programada,36,No
+1585,2641,2023-03-29 11:15,1279,1,Migraña,Cambio de dieta + ejercicio,46,No
+1586,2642,2024-03-31 08:30,1290,41,Diabetes mellitus tipo 2,Cirugía programada,51,Sí
+1587,2643,2024-05-29 14:45,1278,29,Rinitis alérgica,Cambio de medicación,46,Sí
+1588,2644,2023-02-18 15:45,6,37,Lumbalgia,Alta médica sin tratamiento,50,Sí
+1589,2646,2023-09-26 14:45,90,13,Fracturas,Antibióticos 7 días,44,No
+1590,2649,2023-01-28 11:15,1864,47,Dermatitis atópica,Exámenes de laboratorio,32,Sí
+1591,2650,2024-09-25 17:45,1843,17,Migraña,Medicación oral + reposo,42,Sí
+1592,2651,2023-09-10 09:15,16,39,Varicela,Exámenes de laboratorio,50,No
+1593,2653,2023-01-05 15:00,1657,20,Control pediátrico,Medicación oral + reposo,41,Sí
+1594,2656,2023-03-25 08:45,989,6,Migraña,Alta médica sin tratamiento,49,No
+1595,2658,2024-02-02 12:00,926,26,Varicela,Fisioterapia,56,Sí
+1596,2660,2024-07-28 15:30,1901,39,Infección urinaria,Derivación a especialista,32,Sí
+1597,2662,2023-01-26 08:45,1010,26,Diabetes mellitus tipo 2,Psicoterapia,45,Sí
+1598,2663,2024-03-31 16:15,1920,1,Dermatitis atópica,Psicoterapia,42,Sí
+1599,2667,2023-10-02 12:30,97,11,Anemia,Medicación oral + reposo,30,Sí
+1600,2668,2023-12-09 15:45,353,52,Infección respiratoria aguda,Cirugía programada,30,Sí
+1601,2669,2023-08-27 17:30,1145,15,Ansiedad generalizada,Cambio de dieta + ejercicio,49,Sí
+1602,2672,2024-01-04 11:00,865,47,Ansiedad generalizada,Alta médica sin tratamiento,30,Sí
+1603,2674,2024-01-31 09:45,1656,23,Hipertensión arterial,Cambio de dieta + ejercicio,21,Sí
+1604,2675,2024-04-10 11:30,1870,16,Artrosis,Cirugía programada,57,Sí
+1605,2676,2023-10-07 17:45,1752,45,Bronquitis aguda,Control mensual,31,Sí
+1606,2677,2024-07-27 14:45,624,60,Rinitis alérgica,Control mensual,36,Sí
+1607,2678,2024-09-28 10:45,1350,43,Fracturas,Control mensual,38,Sí
+1608,2680,2023-10-08 11:00,321,60,Control pediátrico,Cirugía programada,37,Sí
+1609,2682,2024-07-26 09:45,25,24,Anemia,Psicoterapia,21,No
+1610,2683,2024-04-18 10:00,938,53,Infección respiratoria aguda,Cirugía programada,27,No
+1611,2684,2023-12-14 08:45,498,25,Control prenatal,Inyectable + observación,31,No
+1612,2686,2024-08-29 17:45,1239,26,Obesidad,Exámenes de laboratorio,48,Sí
+1613,2687,2024-11-09 14:30,64,7,Otitis media,Cambio de dieta + ejercicio,43,Sí
+1614,2688,2024-09-05 11:30,1991,1,Rinitis alérgica,Fisioterapia,56,Sí
+1615,2689,2024-07-07 15:45,542,31,Obesidad,Exámenes de laboratorio,20,Sí
+1616,2690,2023-11-26 10:00,2389,10,Hipotiroidismo,Control mensual,37,No
+1617,2692,2023-04-24 08:00,197,43,Infección urinaria,Alta médica sin tratamiento,42,Sí
+1618,2693,2024-03-01 09:45,1339,28,Varicela,Fisioterapia,49,Sí
+1619,2694,2023-09-16 17:00,789,36,Anemia,Control mensual,60,Sí
+1620,2695,2023-01-02 08:15,571,6,Rinitis alérgica,Psicoterapia,57,No
+1621,2696,2024-11-12 15:00,792,34,Infección respiratoria aguda,Inyectable + observación,56,Sí
+1622,2698,2023-09-28 12:00,894,5,Lumbalgia,Control mensual,58,No
+1623,2702,2024-06-22 15:30,1683,14,Diabetes mellitus tipo 2,Exámenes de laboratorio,22,Sí
+1624,2706,2024-02-28 16:45,2497,38,Control prenatal,Exámenes de laboratorio,52,Sí
+1625,2707,2023-05-31 11:00,1122,1,Reflujo gastroesofágico,Exámenes de laboratorio,42,Sí
+1626,2708,2024-11-05 10:30,2342,47,Conjuntivitis,Psicoterapia,53,No
+1627,2711,2023-07-10 14:15,2326,21,Colesterol elevado,Inyectable + observación,41,Sí
+1628,2712,2023-09-22 12:30,1698,49,Migraña,Alta médica sin tratamiento,27,No
+1629,2714,2023-03-18 12:15,2078,8,Varicela,Cambio de medicación,33,Sí
+1630,2717,2024-08-31 08:45,1300,45,Infección urinaria,Cambio de medicación,38,Sí
+1631,2719,2024-08-13 09:15,704,60,Fracturas,Alta médica sin tratamiento,44,Sí
+1632,2720,2024-02-04 11:45,65,46,Infección urinaria,Inyectable + observación,51,Sí
+1633,2722,2023-07-14 14:30,93,14,Control prenatal,Medicación oral + reposo,20,Sí
+1634,2723,2023-06-29 14:30,297,35,Lumbalgia,Derivación a especialista,46,Sí
+1635,2727,2023-03-17 09:45,1850,18,Control prenatal,Medicación oral + reposo,58,Sí
+1636,2730,2024-01-09 17:30,427,7,Otitis media,Exámenes de laboratorio,58,Sí
+1637,2731,2023-02-01 08:00,657,14,Hipertensión arterial,Fisioterapia,49,Sí
+1638,2732,2023-02-02 17:15,1481,26,Obesidad,Antibióticos 7 días,21,Sí
+1639,2733,2024-10-14 17:15,2368,11,Gastritis crónica,Control mensual,55,Sí
+1640,2734,2023-06-25 09:00,2095,30,Anemia,Medicación oral + reposo,55,No
+1641,2737,2024-04-28 10:00,612,12,Faringitis,Exámenes de laboratorio,39,Sí
+1642,2741,2023-06-10 14:30,1621,21,Dermatitis atópica,Exámenes de laboratorio,32,No
+1643,2742,2023-01-19 14:00,1360,6,Control pediátrico,Antibióticos 7 días,24,Sí
+1644,2743,2024-09-25 12:30,133,33,Gastritis crónica,Psicoterapia,36,No
+1645,2746,2023-02-09 10:15,529,16,Infección urinaria,Fisioterapia,55,Sí
+1646,2747,2024-11-16 12:15,12,46,Control prenatal,Fisioterapia,58,No
+1647,2752,2023-07-31 08:30,1252,1,Diabetes mellitus tipo 2,Cambio de medicación,24,No
+1648,2753,2023-03-07 08:45,1532,18,Ansiedad generalizada,Exámenes de laboratorio,23,No
+1649,2756,2024-11-02 09:45,113,7,Lumbalgia,Control mensual,30,Sí
+1650,2757,2024-08-17 15:15,1668,20,Rinitis alérgica,Cambio de dieta + ejercicio,32,Sí
+1651,2759,2023-01-19 15:45,1470,1,Hipotiroidismo,Medicación oral + reposo,56,No
+1652,2760,2023-05-06 14:15,405,47,Otitis media,Control mensual,53,Sí
+1653,2761,2024-12-15 11:15,1358,24,Dermatitis atópica,Cambio de dieta + ejercicio,58,No
+1654,2763,2023-08-29 14:30,1823,41,Migraña,Medicación oral + reposo,24,No
+1655,2764,2024-05-23 15:15,235,45,Artrosis,Cirugía programada,27,No
+1656,2765,2024-09-02 14:00,1393,48,Diabetes mellitus tipo 2,Inyectable + observación,32,No
+1657,2766,2023-12-04 10:30,437,6,Hipertensión arterial,Exámenes de laboratorio,53,Sí
+1658,2769,2024-06-28 08:15,338,29,Depresión,Fisioterapia,26,Sí
+1659,2770,2024-06-30 17:00,82,17,Diabetes mellitus tipo 2,Alta médica sin tratamiento,55,Sí
+1660,2771,2024-07-10 15:00,2429,31,Control prenatal,Inyectable + observación,16,Sí
+1661,2772,2023-07-02 11:30,1268,53,Conjuntivitis,Cirugía programada,15,No
+1662,2773,2024-11-07 14:15,1346,45,Ansiedad generalizada,Cambio de dieta + ejercicio,16,Sí
+1663,2774,2024-07-31 15:45,186,21,Hipertensión arterial,Inyectable + observación,45,Sí
+1664,2777,2023-12-06 16:45,76,46,Varicela,Cambio de medicación,26,Sí
+1665,2778,2023-11-29 09:00,585,29,Varicela,Control mensual,59,Sí
+1666,2780,2024-11-06 10:15,447,57,Hipotiroidismo,Antibióticos 7 días,46,No
+1667,2781,2023-07-26 15:45,477,50,Colesterol elevado,Derivación a especialista,29,No
+1668,2786,2024-12-13 15:00,431,41,Infección urinaria,Control mensual,36,No
+1669,2788,2024-10-20 17:45,597,33,Obesidad,Psicoterapia,19,No
+1670,2789,2024-07-13 12:15,2100,42,Lumbalgia,Inyectable + observación,37,No
+1671,2791,2024-04-26 11:45,2329,1,Hipotiroidismo,Control mensual,35,No
+1672,2793,2023-11-14 12:00,1895,44,Rinitis alérgica,Cambio de dieta + ejercicio,33,No
+1673,2795,2023-10-19 11:30,555,25,Gastritis crónica,Antibióticos 7 días,39,No
+1674,2796,2024-08-04 09:45,1852,54,Infección urinaria,Cambio de dieta + ejercicio,36,Sí
+1675,2797,2023-09-13 14:15,127,60,Hipotiroidismo,Alta médica sin tratamiento,28,Sí
+1676,2799,2024-04-06 17:15,2074,55,Depresión,Antibióticos 7 días,53,No
+1677,2802,2023-02-28 16:00,160,32,Migraña,Inyectable + observación,60,Sí
+1678,2804,2024-05-18 17:15,105,42,Lumbalgia,Cambio de dieta + ejercicio,37,Sí
+1679,2805,2023-06-02 11:15,1589,38,Colesterol elevado,Cambio de dieta + ejercicio,28,No
+1680,2806,2023-01-14 11:15,2053,21,Hipotiroidismo,Derivación a especialista,30,Sí
+1681,2808,2023-07-11 11:00,1365,44,Diabetes mellitus tipo 2,Psicoterapia,25,No
+1682,2810,2024-12-12 14:00,1879,16,Control prenatal,Exámenes de laboratorio,49,Sí
+1683,2812,2023-09-09 12:45,772,9,Colesterol elevado,Control mensual,47,Sí
+1684,2813,2024-03-10 14:00,1996,5,Dermatitis atópica,Inyectable + observación,45,Sí
+1685,2814,2023-11-18 14:30,2397,16,Ansiedad generalizada,Exámenes de laboratorio,51,Sí
+1686,2815,2023-02-07 08:45,1850,3,Lumbalgia,Alta médica sin tratamiento,53,Sí
+1687,2816,2023-03-17 11:45,466,31,Hipotiroidismo,Inyectable + observación,22,Sí
+1688,2817,2024-07-31 12:45,1267,17,Control prenatal,Cambio de dieta + ejercicio,24,No
+1689,2818,2023-04-21 17:15,1605,8,Faringitis,Alta médica sin tratamiento,30,Sí
+1690,2819,2024-05-04 08:45,2446,6,Control pediátrico,Control mensual,35,No
+1691,2821,2024-07-08 11:00,692,56,Varicela,Cambio de dieta + ejercicio,33,Sí
+1692,2822,2023-10-18 15:30,1494,25,Infección respiratoria aguda,Exámenes de laboratorio,20,No
+1693,2823,2023-09-20 14:30,1018,43,Varicela,Antibióticos 7 días,26,Sí
+1694,2824,2024-08-17 14:00,1327,52,Control pediátrico,Psicoterapia,56,Sí
+1695,2825,2024-12-23 14:45,517,27,Varicela,Control mensual,53,Sí
+1696,2827,2024-05-14 15:15,887,15,Diabetes mellitus tipo 2,Medicación oral + reposo,60,No
+1697,2829,2024-12-11 11:45,120,34,Conjuntivitis,Fisioterapia,40,No
+1698,2830,2024-03-10 08:15,2317,25,Ansiedad generalizada,Psicoterapia,32,No
+1699,2831,2024-07-31 16:30,753,10,Conjuntivitis,Fisioterapia,25,Sí
+1700,2832,2024-02-15 09:45,1382,44,Reflujo gastroesofágico,Alta médica sin tratamiento,41,Sí
+1701,2834,2023-06-26 08:00,275,22,Infección respiratoria aguda,Cirugía programada,24,Sí
+1702,2835,2023-09-16 12:00,849,38,Control pediátrico,Exámenes de laboratorio,15,Sí
+1703,2837,2024-07-18 11:15,747,47,Diabetes mellitus tipo 2,Inyectable + observación,55,Sí
+1704,2838,2024-09-02 10:45,948,38,Migraña,Inyectable + observación,40,Sí
+1705,2839,2023-01-03 14:15,2497,10,Artrosis,Fisioterapia,35,Sí
+1706,2840,2023-06-13 10:45,102,31,Obesidad,Cambio de medicación,18,Sí
+1707,2841,2024-07-26 10:15,173,56,Artrosis,Inyectable + observación,49,No
+1708,2843,2023-11-20 12:30,1860,50,Varicela,Inyectable + observación,21,Sí
+1709,2846,2023-03-23 10:45,2124,54,Control prenatal,Fisioterapia,27,Sí
+1710,2847,2023-10-26 12:45,2364,36,Reflujo gastroesofágico,Control mensual,28,Sí
+1711,2850,2024-03-26 10:30,1748,57,Hipertensión arterial,Medicación oral + reposo,52,Sí
+1712,2851,2024-04-17 11:45,1404,12,Diabetes mellitus tipo 2,Derivación a especialista,42,Sí
+1713,2852,2024-04-25 16:30,2254,30,Colesterol elevado,Antibióticos 7 días,36,Sí
+1714,2853,2024-12-14 12:45,58,29,Depresión,Psicoterapia,56,No
+1715,2856,2024-02-13 17:00,2236,20,Obesidad,Control mensual,33,No
+1716,2858,2024-03-24 08:00,1547,17,Faringitis,Cambio de medicación,41,Sí
+1717,2862,2024-10-13 09:15,2365,54,Fracturas,Antibióticos 7 días,50,Sí
+1718,2866,2024-07-23 08:45,2279,44,Dermatitis atópica,Inyectable + observación,56,Sí
+1719,2867,2024-04-27 08:45,12,60,Hipotiroidismo,Cirugía programada,32,No
+1720,2868,2024-01-11 10:00,1991,56,Colesterol elevado,Fisioterapia,29,Sí
+1721,2869,2023-02-26 16:30,1965,30,Control pediátrico,Cirugía programada,39,No
+1722,2870,2023-08-19 15:30,239,19,Colesterol elevado,Derivación a especialista,41,Sí
+1723,2872,2023-12-02 09:00,1689,6,Dermatitis atópica,Cambio de dieta + ejercicio,36,No
+1724,2875,2023-12-23 12:45,1525,4,Depresión,Psicoterapia,27,No
+1725,2876,2024-12-21 10:00,670,44,Gastritis crónica,Inyectable + observación,35,No
+1726,2877,2024-09-26 16:30,336,1,Ansiedad generalizada,Control mensual,19,Sí
+1727,2878,2024-10-25 16:30,2471,31,Faringitis,Cambio de dieta + ejercicio,46,No
+1728,2880,2023-12-21 10:45,1267,17,Anemia,Derivación a especialista,39,No
+1729,2881,2023-02-27 12:00,1057,43,Control pediátrico,Alta médica sin tratamiento,38,Sí
+1730,2882,2023-12-24 11:45,1657,19,Infección urinaria,Control mensual,41,Sí
+1731,2883,2023-04-06 11:15,1195,3,Diabetes mellitus tipo 2,Derivación a especialista,29,Sí
+1732,2887,2024-04-13 12:00,1407,32,Hipotiroidismo,Inyectable + observación,35,Sí
+1733,2888,2024-09-22 15:00,1488,34,Migraña,Alta médica sin tratamiento,40,Sí
+1734,2891,2023-09-29 14:00,1457,29,Conjuntivitis,Cambio de medicación,31,Sí
+1735,2893,2023-11-21 10:45,1059,24,Lumbalgia,Cambio de dieta + ejercicio,15,Sí
+1736,2894,2023-04-30 09:00,2422,7,Migraña,Antibióticos 7 días,23,No
+1737,2895,2024-07-01 12:45,2123,24,Infección respiratoria aguda,Exámenes de laboratorio,31,No
+1738,2897,2023-03-20 11:30,911,53,Faringitis,Inyectable + observación,52,Sí
+1739,2898,2024-05-27 11:00,2363,27,Faringitis,Exámenes de laboratorio,27,No
+1740,2899,2024-10-28 12:00,1860,47,Colesterol elevado,Antibióticos 7 días,29,No
+1741,2900,2023-06-01 15:30,164,57,Bronquitis aguda,Psicoterapia,17,No
+1742,2903,2024-09-16 10:00,2245,56,Infección respiratoria aguda,Cirugía programada,24,No
+1743,2904,2024-09-15 17:30,1155,31,Dermatitis atópica,Fisioterapia,18,Sí
+1744,2907,2023-03-24 12:45,1944,51,Control prenatal,Inyectable + observación,17,Sí
+1745,2908,2024-05-26 14:00,322,30,Infección respiratoria aguda,Fisioterapia,46,Sí
+1746,2909,2024-09-28 10:45,1112,23,Migraña,Alta médica sin tratamiento,50,Sí
+1747,2913,2023-04-29 10:15,966,18,Gastritis crónica,Medicación oral + reposo,54,Sí
+1748,2914,2024-12-08 14:45,1704,57,Faringitis,Derivación a especialista,24,No
+1749,2916,2024-06-12 08:00,1029,25,Varicela,Fisioterapia,53,Sí
+1750,2917,2024-06-24 12:30,628,54,Migraña,Alta médica sin tratamiento,55,No
+1751,2918,2024-03-08 14:45,1961,39,Diabetes mellitus tipo 2,Cambio de dieta + ejercicio,60,Sí
+1752,2919,2024-01-04 15:45,487,59,Varicela,Cirugía programada,51,No
+1753,2920,2024-12-19 11:00,558,46,Lumbalgia,Cambio de medicación,31,Sí
+1754,2922,2024-01-23 08:15,1295,15,Obesidad,Psicoterapia,58,Sí
+1755,2923,2023-09-05 11:00,535,29,Varicela,Alta médica sin tratamiento,36,Sí
+1756,2926,2024-03-04 11:00,1222,30,Control prenatal,Medicación oral + reposo,49,No
+1757,2927,2023-08-03 17:00,431,9,Rinitis alérgica,Fisioterapia,57,Sí
+1758,2928,2024-07-24 16:00,2014,35,Dermatitis atópica,Inyectable + observación,40,No
+1759,2929,2023-11-23 12:30,1619,27,Varicela,Alta médica sin tratamiento,16,Sí
+1760,2931,2023-03-23 17:00,1774,21,Obesidad,Cambio de medicación,24,No
+1761,2933,2024-11-09 17:45,572,5,Dermatitis atópica,Psicoterapia,42,No
+1762,2934,2023-11-20 12:45,1773,38,Bronquitis aguda,Alta médica sin tratamiento,34,Sí
+1763,2936,2024-12-10 17:30,2055,57,Rinitis alérgica,Fisioterapia,42,Sí
+1764,2937,2023-12-03 10:00,1840,57,Hipertensión arterial,Derivación a especialista,51,Sí
+1765,2938,2024-11-21 10:45,994,6,Dermatitis atópica,Fisioterapia,48,No
+1766,2939,2023-08-03 10:00,374,51,Artrosis,Antibióticos 7 días,58,Sí
+1767,2945,2023-01-08 15:15,1101,29,Faringitis,Exámenes de laboratorio,16,Sí
+1768,2946,2023-09-30 14:30,2200,15,Otitis media,Control mensual,52,Sí
+1769,2947,2024-03-11 10:15,1968,16,Otitis media,Derivación a especialista,42,Sí
+1770,2949,2023-12-14 17:30,1044,22,Anemia,Inyectable + observación,26,No
+1771,2950,2023-03-04 10:45,2393,31,Bronquitis aguda,Alta médica sin tratamiento,24,Sí
+1772,2951,2023-06-24 17:30,904,48,Reflujo gastroesofágico,Antibióticos 7 días,35,No
+1773,2952,2023-11-16 10:30,1836,60,Depresión,Antibióticos 7 días,46,Sí
+1774,2953,2023-12-06 14:30,172,49,Colesterol elevado,Cirugía programada,60,No
+1775,2955,2023-10-28 09:00,1877,42,Rinitis alérgica,Exámenes de laboratorio,53,Sí
+1776,2957,2024-02-14 16:15,2392,27,Migraña,Inyectable + observación,18,Sí
+1777,2958,2024-01-25 08:30,2162,26,Varicela,Cirugía programada,44,Sí
+1778,2959,2024-11-18 15:45,1141,33,Ansiedad generalizada,Derivación a especialista,58,Sí
+1779,2960,2024-12-29 10:00,935,14,Conjuntivitis,Derivación a especialista,31,No
+1780,2964,2024-05-14 15:00,1728,18,Infección urinaria,Psicoterapia,21,Sí
+1781,2965,2023-07-31 08:00,2274,39,Faringitis,Cambio de dieta + ejercicio,34,Sí
+1782,2966,2023-08-19 11:00,528,46,Depresión,Exámenes de laboratorio,39,Sí
+1783,2968,2023-12-31 15:00,2230,15,Rinitis alérgica,Medicación oral + reposo,39,Sí
+1784,2970,2023-07-31 16:30,1500,53,Bronquitis aguda,Antibióticos 7 días,47,Sí
+1785,2972,2024-06-07 16:00,1843,32,Bronquitis aguda,Exámenes de laboratorio,48,Sí
+1786,2975,2024-09-18 14:30,1396,37,Artrosis,Inyectable + observación,54,Sí
+1787,2976,2023-11-28 11:45,105,58,Conjuntivitis,Cirugía programada,53,No
+1788,2977,2024-03-29 09:30,549,37,Hipertensión arterial,Fisioterapia,58,Sí
+1789,2978,2023-03-18 17:15,2106,24,Varicela,Alta médica sin tratamiento,38,Sí
+1790,2979,2023-05-15 14:15,1414,11,Artrosis,Psicoterapia,54,Sí
+1791,2981,2023-04-09 09:15,305,26,Otitis media,Psicoterapia,20,Sí
+1792,2982,2024-05-18 12:30,380,20,Varicela,Cirugía programada,32,Sí
+1793,2983,2023-07-29 08:15,1310,10,Rinitis alérgica,Cambio de medicación,29,Sí
+1794,2986,2024-11-30 11:15,773,53,Colesterol elevado,Fisioterapia,21,Sí
+1795,2987,2023-10-19 12:00,376,51,Hipotiroidismo,Cambio de medicación,16,Sí
+1796,2988,2024-03-22 11:30,709,38,Bronquitis aguda,Alta médica sin tratamiento,27,No
+1797,2989,2023-04-03 10:00,91,37,Fracturas,Psicoterapia,52,Sí
+1798,2990,2024-01-06 10:30,2260,58,Lumbalgia,Derivación a especialista,28,No
+1799,2991,2024-08-19 08:00,1959,37,Fracturas,Alta médica sin tratamiento,30,Sí
+1800,2993,2023-06-07 14:30,559,52,Control prenatal,Cambio de medicación,15,Sí
+1801,2994,2024-07-20 09:00,1666,1,Reflujo gastroesofágico,Derivación a especialista,25,Sí
+1802,2995,2023-08-27 12:30,836,52,Hipertensión arterial,Cambio de dieta + ejercicio,39,Sí
+1803,2996,2023-08-08 15:15,1938,5,Gastritis crónica,Cambio de medicación,38,Sí
+1804,2998,2023-04-29 09:15,980,19,Hipertensión arterial,Medicación oral + reposo,55,Sí
+1805,2999,2024-09-26 09:15,107,50,Hipotiroidismo,Alta médica sin tratamiento,21,No
+1806,3000,2023-02-10 09:30,2059,6,Lumbalgia,Fisioterapia,19,Sí
